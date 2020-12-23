@@ -16,8 +16,8 @@ contextual_links:
     name: "Adding your API to the Network"
     url:  "/docs/publishing-your-api/add-api-network/"
   - type: link
-    name: "Adding to Postman templates"
-    url:  "/docs/publishing-your-api/add-templates/"
+    name: "Publishing public APIs"
+    url:  "/docs/publishing-your-api/publish-public-api"
 ---
 
 Adding your team profile and collection docs to the API Network or templates can expose your services to more potential users within the Postman community and provide them with the tools to onboard and adopt your API. To get the best out of your listing, follow a few tips that will aid discovery of your documentation, making it and your collection templates as usable as possible.
@@ -48,7 +48,7 @@ If your API or template requires authentication, make sure you include instructi
 
 When you publish to the API Network, potential users will initially see your team profile, with APIs listed under it. Taking the time to fill out your team profile gives consumers a clear sense of who a collection is published by—helping them to decide whether to try it out or not. [You can include a team name, description, logo, and custom URL.](/docs/publishing-your-api/add-api-network/#setting-up-your-team-profile)
 
-When you publish to the Postman templates, potential users can see your profile if they search via the web. Taking the time to fill out your profile gives you a chance to introduce yourself to the people considering using your templates. [You can include your name, description, a photo, and customize your URL.](/docs/publishing-your-api/add-templates/#setting-up-your-profile)
+When you publish public APIs to public workspaces, potential users can see your profile if they search via the web. Taking the time to fill out your profile gives you a chance to introduce yourself to the people considering using your collections. [You can include your name, description, a photo, and customize your URL.](/docs/publishing-your-api/publish-public-api/#setting-up-your-profile)
 
 ## Complete your API listing
 

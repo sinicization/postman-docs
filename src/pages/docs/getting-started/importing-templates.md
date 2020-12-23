@@ -14,8 +14,8 @@ contextual_links:
     name: "Creating your first collection"
     url: "/docs/getting-started/creating-the-first-collection/"
   - type: link
-    name: "Publishing templates"
-    url: "/docs/publishing-your-api/add-templates/"
+    name: "Publishing public APIs"
+    url: "/docs/publishing-your-api/publish-public-api"
   - type: link
     name: "Publishing to the API Network"
     url: "/docs/publishing-your-api/add-api-network/"
@@ -69,4 +69,4 @@ Check out some useful templates for getting started learning about APIs, request
 
 ## Next steps
 
-You can [publish your own templates](/docs/publishing-your-api/add-templates/) and [add your team listing](/docs/publishing-your-api/add-api-network/) to the API Network to help people onboard with your services.
+You can [publish your own public APIs](/docs/publishing-your-api/publish-public-api) and [add your team listing](/docs/publishing-your-api/add-api-network/) to the API Network to help people onboard with your services.

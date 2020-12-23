@@ -79,7 +79,7 @@ Enter your profile details and click **Save changes**.
 
 ![Edit profile](https://assets.postman.com/postman-docs/Edit+profile.jpg)
 
->You can make your profile public. A public profile allows you to add your collections to Postman's [API Network](/docs/publishing-your-api/add-api-network/) and [Postman Templates](/docs/publishing-your-api/add-templates/).
+>You can make your profile public. A public profile allows you to add your collections to Postman's [API Network](/docs/publishing-your-api/add-api-network/) and [Postman Public Workspaces](/docs/publishing-your-api/publish-public-api).
 
 You can optionally create or join a team. If you're signing up with your organization email and your company has a Postman account, you will see [teams you can join](/docs/collaborating-in-postman/collaboration-intro/#finding-teams-within-your-organization).
 
