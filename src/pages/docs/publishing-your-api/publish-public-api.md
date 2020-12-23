@@ -1,6 +1,6 @@
 ---
 title: "Publishing public APIs"
-order: 107
+order: 106
 page_id: "publish_public_api"
 warning: false
 contextual_links:
