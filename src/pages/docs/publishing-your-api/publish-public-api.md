@@ -19,21 +19,21 @@ contextual_links:
     url:  "/docs/publishing-your-api/api-submission-guidelines/"
 ---
 
-You can share your documentation for any [collection](/docs/sending-requests/intro-to-collections/) you publish by adding it to the [Postman public workspaces](/docs/collaborating-in-postman/using-workspaces/creating-workspaces/).
+You can share your documentation for any [collection](/docs/sending-requests/intro-to-collections/) or [API](http://localhost:8000/docs/getting-started/introduction/) you publish by adding it to the [Postman public workspaces](/docs/collaborating-in-postman/using-workspaces/creating-workspaces/).
 
-Public workspaces allow you to quickly share your Postman projects with your teammates and others who may be interested in integrating your API technology into their own projects. Adding your collections and documentation to public workspaces allow you share your ideas with the Postman community of over 30 million users.
+A public workspace serves as a "place" for the community to create API artifacts and quickly share with others interested in collaborating on the similar ideas. It's like a round table discussion you can have with the API producer and API consumers to work together. Anyone could view your workspaces and then create an account if they would like to interact with the workspace and connect with the producer.
 
 Your public workspace provides access to the documentation for your API collection and instant access for anyone to import the collection directly into Postman. Community members can access your Postman profile via your workspace overview. From your public profile, users can view other collections, documentation, and workspaces you have already shared.
 
 ![Collection Discovery](https://assets.postman.com/postman-docs/public-workspace-overview.jpg)
 
-Collections and public workspaces provide easy to read documentation, requirements, and guidance for people interested in learning and using your APIs. Your document can outline how to use a single endpoint as well as how to integrate with an API as a whole, helping community members learn API skills and discover available services.
+Collections and public workspaces provide documentation, requirements, and guidance for people interested in learning and using your APIs. Your document can outline how to use a single endpoint as well as how to integrate with an API as a whole, helping community members learn API skills and discover available services. You can add summaries and categories to your workspaces to help the community find your public workspace and further understand how to use your APIs.
 
 ![Collection Discovery](https://assets.postman.com/postman-docs/public-workspace-doc.jpg)
 
 ## Create your public workspace
 
-Check out steps at [Creating workspaces](/docs/collaborating-in-postman/using-workspaces/creating-workspaces/) to your public workspace to start sharing your collections and documentation.
+Check out how to [creat a public workspace](/docs/collaborating-in-postman/using-workspaces/creating-workspaces/) to start sharing your collections and documentation.
 
 ## Setting up your profile
 

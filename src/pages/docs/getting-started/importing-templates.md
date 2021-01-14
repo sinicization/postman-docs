@@ -16,9 +16,6 @@ contextual_links:
   - type: link
     name: "Publishing public APIs"
     url: "/docs/publishing-your-api/publish-public-api"
-  - type: link
-    name: "Publishing to the API Network"
-    url: "/docs/publishing-your-api/add-api-network/"
 warning: false
 
 ---
@@ -69,4 +66,4 @@ Check out some useful templates for getting started learning about APIs, request
 
 ## Next steps
 
-You can [publish your own public APIs](/docs/publishing-your-api/publish-public-api) and [add your team listing](/docs/publishing-your-api/add-api-network/) to the API Network to help people onboard with your services.
+You can [publish your own public APIs](/docs/publishing-your-api/publish-public-api) to your [public workspaces](/docs/publishing-your-api/publish-public-api) to help people onboard with your services.

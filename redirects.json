@@ -1790,5 +1790,9 @@
 	{
 		"from": "/docs/publishing-your-api/add-templates/",
 		"to": "/docs/publishing-your-api/publish-public-api/"
+	},
+	{
+		"from": "/docs/publishing-your-api/add-api-network/",
+		"to": "/docs/publishing-your-api/publish-public-api/"
 	}
 ]
