@@ -70,7 +70,7 @@ Select **Add Integration** to enter your GitLab token to start the integration.
 
 Enter your GitLab Personal Access Token, specify your Gitlab custom/self-hosted domain and click **Proceed**.
 
-### Static IP Support
+#### Static IP Support
 
   If your network is behind a firewall that requires whitelisted IP addresses, you will need to use a static IP address to enable collection backups to GitLab on custom domains.
 
