@@ -4,9 +4,9 @@ order: 73.3
 page_id: "commenting_on_collections"
 contextual_links:
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Videos"
+    name: "视频"
   - type: link
     name: "Inline Comments | Postman Level Up"
     url: "https://www.youtube.com/watch?v=fkYiyCj43uk&list=PLM-7VG-sgbtC5tNXxd28cmePSa9BYwqeU&index=6"

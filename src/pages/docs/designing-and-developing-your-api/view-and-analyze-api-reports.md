@@ -5,7 +5,7 @@ order: 99
 warning: false
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "Using the API Builder"
     url: "/docs/designing-and-developing-your-api/the-api-workflow/"
@@ -13,14 +13,14 @@ contextual_links:
     name: "Managing and sharing APIs"
     url: "/docs/designing-and-developing-your-api/managing-apis/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
     name: "Create APIs directly within the Postman app"
     url: "https://blog.postman.com/postman-7-1-create-apis-directly-within-the-postman-app/"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "Validating APIs against schema"
     url: "/docs/designing-and-developing-your-api/validating-elements-against-schema/"

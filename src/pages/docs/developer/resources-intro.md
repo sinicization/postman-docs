@@ -5,12 +5,12 @@ page_id: "resources_intro"
 search_keyword: "postman-api-key, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "Newman on the command line"
     url: "/docs/running-collections/using-newman-cli/command-line-integration-with-newman/"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "Postman API"
     url: "/docs/developer/intro-api/"

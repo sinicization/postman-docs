@@ -1,13 +1,13 @@
 ---
-title: "Upgrading your team to the current version of Postman"
+title: "将您的团队升级到最新版本的Postman"
 order: 140.1
 page_id: "upgrading_to_v8"
 warning: false
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
-    name: "Installing and updating"
+    name: "安装和更新"
     url: "/docs/getting-started/installation-and-updates/"
 
 ---

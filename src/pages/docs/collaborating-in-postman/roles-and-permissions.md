@@ -5,14 +5,14 @@ page_id: "roles_and_permissions"
 warning: false
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
-    name: "Working with your team"
+    name: "与你的团队一起工作"
     url: "/docs/collaborating-in-postman/collaboration-intro/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
     name: "Streamline access control with extended roles & permissions"
     url: "https://blog.postman.com/streamline-access-control-with-extended-roles-permissions/"
@@ -180,4 +180,4 @@ Teams can have up to two support-only accounts.
 
 ## 下一步
 
-Learn more about [Working with your team](/docs/collaborating-in-postman/collaboration-intro/).
+Learn more about [与你的团队一起工作](/docs/collaborating-in-postman/collaboration-intro/).

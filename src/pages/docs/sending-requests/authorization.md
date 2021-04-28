@@ -5,7 +5,7 @@ page_id: "authorization"
 search_keyword: "WWW-Authenticate, x-www-form-urlencoded"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "Sending your first request"
     url: "/docs/getting-started/sending-the-first-request/"
@@ -13,14 +13,14 @@ contextual_links:
     name: "Requests"
     url: "/docs/sending-requests/requests/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
     name: "Case Studies"
   - type: link
     name: "Intuit"
     url: "https://www.postman.com/resources/case-studies/intuit/"
   - type: subtitle
-    name: "Videos"
+    name: "视频"
   - type: link
     name: "Intro to Postman: Authorizing a request"
     url: "https://www.youtube.com/watch?v=Q23wkkfezfM"

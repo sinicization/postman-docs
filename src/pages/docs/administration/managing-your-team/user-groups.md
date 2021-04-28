@@ -1,15 +1,15 @@
 ---
-title: "Managing user groups"
+title: "管理用户组"
 order: 141
 page_id: "managing_user_groups"
 warning: false
 contextual_links:
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
-    name: "Manage Large Teams in Postman with Workspaces, Permissions, and Version Control"
+    name: "使用工作区，权限和版本控制来管理Postman中的大型团队"
     url: "https://blog.postman.com/postman-team-workspaces-and-permissions/"
 
 ---

@@ -4,24 +4,24 @@ order: 23
 page_id: "responses"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "Sending requests"
     url: "/docs/sending-requests/requests/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Videos"
+    name: "视频"
   - type: link
     name: "HTTP protocol explained"
     url:  "https://www.youtube.com/watch?v=FAnuh0_BU4c&list=PLM-7VG-sgbtBBnWb2Jc5kufgtWYEmiMAw"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
     name: "Inspecting Postman Requests"
     url: "https://blog.postman.com/debugging-postman-requests/"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"

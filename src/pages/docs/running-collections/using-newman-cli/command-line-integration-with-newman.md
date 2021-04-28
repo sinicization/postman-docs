@@ -5,24 +5,24 @@ page_id: "command_line_integration_with_newman"
 search_keyword: "newman run"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "Using the Collection Runner"
     url: "/docs/running-collections/intro-to-collection-runs/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Case Studies"
+    name: "案例研究"
   - type: link
     name: "Clarifai"
     url: "https://www.postman.com/customers/Clarifai.pdf"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
     name: "Newman v3"
     url: "https://blog.postman.com/newman-v3/"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "Intro to the Postman API"
     url: "/docs/developer/intro-api/"

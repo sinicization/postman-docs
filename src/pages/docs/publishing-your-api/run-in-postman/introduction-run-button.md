@@ -5,14 +5,14 @@ page_id: "introduction_run_button"
 warning: false
 contextual_links:
     - type: section
-      name: "Prerequisites"
+      name: "先决条件"
     - type: link
       name: "对集合中的请求进行分组"
       url: "/docs/sending-requests/intro-to-collections/"
     - type: section
       name: "Additional resources"
     - type: subtitle
-      name: "Videos"
+      name: "视频"
     - type: link
       name: "How to share Postman collections"
       url: "https://www.youtube.com/watch?v=mVTsK6ZdY6c"

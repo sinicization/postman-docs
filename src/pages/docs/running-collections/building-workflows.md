@@ -5,14 +5,14 @@ page_id: "building_workflows"
 search_keyword: "postman.setNextRequest, setNextRequest"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "Intro to scripts"
     url: "/docs/writing-scripts/intro-to-scripts/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
     name: "Check for broken links on your website using a Postman Collection"
     url: "https://blog.postman.com/check-for-broken-links-on-your-website-using-a-postman-collection/"

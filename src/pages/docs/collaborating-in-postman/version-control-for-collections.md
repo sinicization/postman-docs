@@ -5,19 +5,19 @@ page_id: "version_control_for_collections"
 warning: false
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "Grouping requests in Collections"
     url: "/docs/sending-requests/intro-to-collections/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Videos"
+    name: "视频"
   - type: link
     name: "Version Control for Collections | Postman Level Up"
     url: "https://www.youtube.com/watch?v=QKxukXJWRPI&list=PLM-7VG-sgbtC5tNXxd28cmePSa9BYwqeU&index=7"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "Versioning APIs"
     url: "/docs/collaborating-in-postman/versioning-an-api/"

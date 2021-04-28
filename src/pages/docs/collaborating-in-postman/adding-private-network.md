@@ -5,19 +5,19 @@ page_id: "adding_private_network"
 warning: false
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
-    name: "Working with your team"
+    name: "与你的团队一起工作"
     url: "/docs/collaborating-in-postman/collaboration-intro/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Videos"
+    name: "视频"
   - type: link
     name: "Team collaboration with Postman"
     url: "https://www.youtube.com/watch?v=8tLvvQ-3Nx0"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "Documenting your API"
     url: "/docs/publishing-your-api/documenting-your-api/"

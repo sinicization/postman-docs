@@ -5,14 +5,14 @@ page_id: "variables"
 search_keyword: "collectionVariables, iterationData, collectionVariables.set, collectionVariables.get, JSON.stringify, JSON.parse, base_url, pm.globals.set, globals.set, pm.collectionVariables.set, collectionVariables.set, pm.environment.set, environment.set, pm.variables.get, variables.get, pm.globals.get, globals.get, pm.collectionVariables.get, collectionVariables.get, pm.environment.get, environment.get, pm.iterationData.get, iterationData.get" 
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "Sending requests"
     url:  "/docs/sending-requests/requests/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Videos"
+    name: "视频"
   - type: link
     name: "How to use global variables in Postman"
     url: "https://www.youtube.com/watch?v=TU1i1CgjVR8"
@@ -20,7 +20,7 @@ contextual_links:
     name: "New to Postman: Chaining requests"
     url: "https://www.youtube.com/watch?v=shYn3Ys3ygE"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
     name: "Find and replace text, code, and variables"
     url: "https://blog.postman.com/find-and-replace-text-code-and-variables-in-postman/"
@@ -31,7 +31,7 @@ contextual_links:
     name: "Securely Using API Keys in Postman"
     url: "https://blog.postman.com/how-to-use-api-keys/"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"

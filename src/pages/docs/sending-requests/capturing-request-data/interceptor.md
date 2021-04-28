@@ -5,14 +5,14 @@ page_id: "interceptor"
 search_keyword: "pm.interceptorInstaller.reset, interceptorInstaller.reset, pm.interceptorBridge.setKey, interceptorBridge.setKey"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "获取HTTP请求"
     url: "/docs/sending-requests/capturing-request-data/capturing-http-requests/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
     name: "Introducing Interceptor integration for native Postman apps"
     url: "https://blog.postman.com/introducing-interceptor-integration-for-native-postman-apps/"

@@ -5,7 +5,7 @@ page_id: "api_network_submission_guidelines"
 warning: false
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "Documenting your API"
     url:  "/docs/publishing-your-api/documenting-your-api/"

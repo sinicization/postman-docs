@@ -4,14 +4,14 @@ order: 58
 page_id: "working_with_data_files"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "Using the Collection Runner"
     url: "/docs/running-collections/intro-to-collection-runs/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Videos"
+    name: "视频"
   - type: link
     name: "Loop Through a Data File | Postman Level Up"
     url: "https://youtu.be/RH8b3gbujPY"

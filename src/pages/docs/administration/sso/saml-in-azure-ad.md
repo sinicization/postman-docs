@@ -5,9 +5,9 @@ page_id: "saml_in_azure_ad"
 warning: false
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
-    name: "Intro to SSO"
+    name: "SSO简介"
     url: "/docs/administration/sso/intro-sso/"
 ---
 
@@ -53,7 +53,7 @@ Configure the SAML integration. The table below describes the values of the fiel
 
 Download the "SAML Signing Certificate" (Base64 format) and click the **Save** button.
 
-After the setup is complete, submit your Identity Provider details to Postman. For more information, see [Intro to SSO](/docs/administration/sso/intro-sso/).
+After the setup is complete, submit your Identity Provider details to Postman. For more information, see [SSO简介](/docs/administration/sso/intro-sso/).
 
 Navigate to your [team settings](https://go.postman.co/settings/team/general) in the Postman Web dashboard. To update the identity provider details, navigate to __Authentication__ &gt; &lt;AzureAuthName&gt; and click __Edit__, then __Proceed__. Fill in the following details:
 

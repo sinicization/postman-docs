@@ -4,14 +4,14 @@ order: 29
 page_id: "certificates"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "Setting up Postman"
     url: "/docs/getting-started/settings/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
     name: "Set and view SSL certificates with Postman"
     url: "https://blog.postman.com/set-and-view-ssl-certificates-with-postman/"

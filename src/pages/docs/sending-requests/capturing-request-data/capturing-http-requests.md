@@ -4,14 +4,14 @@ order: 32
 page_id: "capturing_http_requests"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "Sending requests"
     url: "/docs/sending-requests/requests/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Videos"
+    name: "视频"
   - type: link
     name: "Capturing requests in Postman"
     url: "https://www.youtube.com/watch?v=1Efpi_UIxGE"
@@ -19,7 +19,7 @@ contextual_links:
     name: "Reverse engineering an API"
     url: "https://youtu.be/2VKVPB5USgU"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
     name: "Reverse engineering an API"
     url: "https://medium.com/better-practices/reverse-engineering-an-api-403fae885303"

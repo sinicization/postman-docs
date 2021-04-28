@@ -1,13 +1,13 @@
 ---
-title: "Configuring SSO for a team"
+title: "为团队配置SSO"
 order: 132
 page_id: "admin_sso"
 warning: false
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
-    name: "Intro to SSO"
+    name: "SSO简介"
     url: "/docs/administration/sso/intro-sso/"
 ---
 

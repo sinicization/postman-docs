@@ -5,14 +5,14 @@ page_id: "requests"
 search_keyword: "Content-Type, multipart, form-data, x-www-form-urlencoded"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
-    name: "Sending your first request"
+    name: "发送您的第一个请求"
     url:  "/docs/getting-started/sending-the-first-request/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Videos"
+    name: "视频"
   - type: link
     name: "Sending a request"
     url: "https://www.youtube.com/watch?v=7E60ZttwIpY"
@@ -23,7 +23,7 @@ contextual_links:
     name: "Upload a File via POST Request | Postman Level Up"
     url: "https://youtu.be/S7bwkys6D0E"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
     name: "Get Greater Visibility With HTTP Header Live Preview in Postman"
     url:  "https://blog.postman.com/get-greater-visibility-with-http-header-live-preview-in-postman/"
@@ -34,7 +34,7 @@ contextual_links:
     name: "Announcing Increased Visibility of Invalid Whitespaces and Newlines In Your API Requests"
     url:  "https://blog.postman.com/how-postman-increases-the-visibility-of-invalid-whitespaces-and-newlines-in-your-api-requests/"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "授权请求"
     url:  "/docs/sending-requests/authorization/"

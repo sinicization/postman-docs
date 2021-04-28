@@ -5,7 +5,7 @@ page_id: "using_static_IPs_to_monitor"
 warning: false
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "Intro to monitoring"
     url: "/docs/designing-and-developing-your-api/monitoring-your-api/intro-monitors/"

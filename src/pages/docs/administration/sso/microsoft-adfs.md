@@ -5,14 +5,14 @@ page_id: "microsoft_adfs"
 warning: false
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
-    name: "Intro to SSO"
+    name: "SSO简介"
     url: "/docs/administration/sso/intro-sso/"
 ---
 
 
-## Prerequisites
+## 先决条件
 
 Before you configure Microsoft Active Directory Federation Services (AD FS) to work with Postman Single sign-on (SSO), you must have:
 
@@ -31,7 +31,7 @@ Follow the steps below to configure Microsoft AD FS to work with Postman SSO.
 
 **Step 1** - Create an AD FS authentication scheme in Postman.
 
-To create this scheme authentication, see [Configuring SSO for a team](/docs/administration/sso/admin-sso/).
+To create this scheme authentication, see [为团队配置SSO](/docs/administration/sso/admin-sso/).
 
 After creating the scheme, collect the values for these fields in the [Team](https://app.getpostman.com/dashboard/teams) page.
 

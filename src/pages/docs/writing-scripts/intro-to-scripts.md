@@ -5,7 +5,7 @@ page_id: "intro_to_scripts"
 search_keyword: "pm.test, pm.expect, pm.environment, pm.environment.get, environment.get, pm.response"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "Sending requests"
     url: "/docs/sending-requests/requests/"
@@ -13,14 +13,14 @@ contextual_links:
     name: "使用变量"
     url: "/docs/sending-requests/variables/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Case Studies"
+    name: "案例研究"
   - type: link
     name: "Giant Machines"
     url: "https://www.postman.com/resources/case-studies/giant-machines/"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
     name: "Keep it DRY with collection and folder elements"
     url: "https://blog.postman.com/keep-it-dry-with-collection-and-folder-elements/"
@@ -28,7 +28,7 @@ contextual_links:
     name: "Not your Grandma's Postman"
     url: "https://blog.postman.com/not-your-grandmas-postman/"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "Test scripts"
     url: "/docs/writing-scripts/test-scripts/"

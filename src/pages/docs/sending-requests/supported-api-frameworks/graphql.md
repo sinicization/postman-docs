@@ -4,14 +4,14 @@ order: 37
 page_id: "graphql"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
-    name: "Installing and updating"
+    name: "安装和更新"
     url: "/docs/getting-started/installation-and-updates/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
     name: "Postman v7.2 Supports GraphQL"
     url: "https://blog.postman.com/postman-v7-2-supports-graphql/"
@@ -24,7 +24,7 @@ contextual_links:
     name: "GraphQL in Postman Demo"
     url: "https://youtu.be/7pUbezVADQs"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"

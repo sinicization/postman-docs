@@ -4,7 +4,7 @@ order: 102
 page_id: "authoring_your_documentation"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"
@@ -12,14 +12,14 @@ contextual_links:
     name: "Documenting your API"
     url: "/docs/publishing-your-api/documenting-your-api/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Case Studies"
+    name: "案例研究"
   - type: link
     name: "Imgur"
     url: "https://www.postman.com/resources/case-studies/imgur/"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "Publishing your docs"
     url: "/docs/publishing-your-api/publishing-your-docs/"

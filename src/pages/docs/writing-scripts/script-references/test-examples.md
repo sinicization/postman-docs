@@ -5,7 +5,7 @@ page_id: "test_examples"
 search_keyword: "pm.test, pm.expect, pm.response.json, pm.sendRequest, response.json"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "Writing tests"
     url: "/docs/writing-scripts/test-scripts/"
@@ -13,19 +13,19 @@ contextual_links:
     name: "使用变量"
     url: "/docs/sending-requests/variables/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Videos"
+    name: "视频"
   - type: link
     name: "Intro to Postman: Writing tests"
     url: "https://www.youtube.com/watch?v=vuVhF257uGw"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
     name: "Continuous API testing with Postman"
     url: "https://blog.postman.com/continuous-api-testing-with-postman/"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "Command line integration with Newman"
     url: "/docs/running-collections/using-newman-cli/command-line-integration-with-newman/"

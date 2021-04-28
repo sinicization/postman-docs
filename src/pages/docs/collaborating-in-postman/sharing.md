@@ -1,17 +1,17 @@
 ---
-title: "Sharing your work"
+title: "共享你的工作"
 order: 73.1
 page_id: "sharing"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
-    name: "Working with your team"
+    name: "与你的团队一起工作"
     url: "/docs/collaborating-in-postman/collaboration-intro/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Videos"
+    name: "视频"
   - type: link
     name: "Sharing Postman Collections"
     url: "https://www.youtube.com/watch?v=KMLaibEaf7Y"
@@ -19,9 +19,9 @@ contextual_links:
     name: "How to Share Postman Collections"
     url: "https://www.youtube.com/watch?v=mVTsK6ZdY6c"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
-    name: "Creating Workspaces"
+    name: "创建工作区"
     url: "/docs/collaborating-in-postman/using-workspaces/creating-workspaces/"
 
 warning: false

@@ -5,7 +5,7 @@ page_id: "integrations_for_alerts"
 search_keyword: "globals.previousRequest, previousRequest"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "Monitoring APIs"
     url: "/docs/designing-and-developing-your-api/monitoring-your-api/intro-monitors/"

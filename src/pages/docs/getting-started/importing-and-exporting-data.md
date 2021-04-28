@@ -4,14 +4,14 @@ order: 8.2
 page_id: 'importing_and_exporting_data'
 contextual_links:
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Case Studies"
+    name: "案例研究"
   - type: link
     name: "Healthwise"
     url: "https://www.postman.com/customers/healthwise.pdf"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
     name: "Sync your specs"
     url: "https://blog.postman.com/sync-your-specs/"
@@ -28,7 +28,7 @@ contextual_links:
     name: "Travelogue of Postman Collections Format v2"
     url: "https://blog.postman.com/travelogue-of-postman-collection-format-v2/"
   - type: subtitle
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "Using the API Builder"
     url: "/docs/designing-and-developing-your-api/the-api-workflow/"

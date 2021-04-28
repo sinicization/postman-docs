@@ -4,24 +4,24 @@ order: 103
 page_id: "publishing_your_docs"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Case Studies"
+    name: "案例研究"
   - type: link
     name: "Imgur"
     url: "https://www.postman.com/resources/case-studies/imgur/"
   - type: subtitle
-    name: "Videos"
+    name: "视频"
   - type: link
     name: "API documentation with Postman"
     url: "https://www.youtube.com/watch?v=Ayo_KdLLcTA"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
     name: "API Network Exploration: Infermedica"
     url: "https://blog.postman.com/api-network-exploration-infermedica/"

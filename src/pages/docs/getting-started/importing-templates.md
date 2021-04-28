@@ -4,12 +4,12 @@ order: 6
 page_id: "importing_templates"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
-    name: "Sending your first request"
+    name: "发送您的第一个请求"
     url: "/docs/getting-started/sending-the-first-request/"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "Creating your first collection"
     url: "/docs/getting-started/creating-the-first-collection/"

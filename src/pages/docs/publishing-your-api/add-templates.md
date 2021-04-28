@@ -5,7 +5,7 @@ page_id: "add_templates"
 warning: false
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "Documenting your API"
     url:  "/docs/publishing-your-api/documenting-your-api/"
@@ -13,7 +13,7 @@ contextual_links:
     name: "Publishing your docs"
     url: "/docs/publishing-your-api/publishing-your-docs/"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "Submission guidelines"
     url:  "/docs/publishing-your-api/api-submission-guidelines/"

@@ -4,7 +4,7 @@ order: 84
 page_id: "setting_up_mock"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "Sending requests"
     url: "/docs/sending-requests/requests/"
@@ -12,14 +12,14 @@ contextual_links:
     name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Videos"
+    name: "视频"
   - type: link
     name: "Fake APIs for Real Developers"
     url: "https://www.youtube.com/watch?v=fgtDZPOPzLU"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
     name: "Mock responses in Postman by using Examples"
     url: "https://blog.postman.com/mock-responses-in-postman-by-using-examples/"
@@ -33,7 +33,7 @@ contextual_links:
     name: "Introducing Postman Mock Call Logs"
     url:  "https://blog.postman.com/introducing-postman-mock-call-logs/"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "Test scripts"
     url: "/docs/writing-scripts/test-scripts/"

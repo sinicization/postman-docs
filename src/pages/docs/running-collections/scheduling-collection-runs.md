@@ -4,12 +4,12 @@ order: 56.1
 page_id: "scheduling_collection_runs_with_monitors"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "Using the Collection Runner"
     url: "/docs/running-collections/intro-to-collection-runs/"
   - type: dynamic_blog
-    name: "Related Blog Posts"
+    name: "相关博客文章"
     blog_tag: "monitors"
 
 warning: false

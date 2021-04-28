@@ -5,7 +5,7 @@ page_id: "visualizer"
 search_keyword: "pm.visualizer.set, visualizer.set, pm.response.json, response.json, pm.getData, getData"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "Receiving responses"
     url: "/docs/sending-requests/responses/"
@@ -13,9 +13,9 @@ contextual_links:
     name: "Intro to scripts"
     url: "/docs/writing-scripts/intro-to-scripts/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Videos"
+    name: "视频"
   - type: link
     name: "Learn about Visualizer"
     url: "https://www.youtube.com/watch?v=nQNbdfKKQfc"
@@ -34,7 +34,7 @@ contextual_links:
     name: "Visualizer D3 examples"
     url: "https://explore.postman.com/templates/4424/"
   - type: dynamic_blog
-    name: "Related Blog Posts"
+    name: "相关博客文章"
     blog_tag: "visualizer"
 
 ---

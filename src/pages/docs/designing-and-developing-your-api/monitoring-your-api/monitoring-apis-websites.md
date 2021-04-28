@@ -5,29 +5,29 @@ page_id: "monitoring_apis_websites"
 search_keyword: "setEnvironmentVariable, postman.setEnvironmentVariable"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "Intro to Monitoring"
     url: "/docs/designing-and-developing-your-api/monitoring-your-api/intro-monitors/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Case Studies"
+    name: "案例研究"
   - type: link
     name: "HarperDB"
     url: "https://www.postman.com/customers/harperDB.pdf"
   - type: subtitle
-    name: "Videos"
+    name: "视频"
   - type: link
     name: "API monitoring with Postman"
     url: "https://www.youtube.com/watch?v=3nOP_TYTuA8"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
     name: "6 Steps to Enhance Your Audio with a Dolby API and Postman Monitors"
     url:  "https://blog.postman.com/6-steps-enhance-audio-dolby-api/"   
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "Using the Collection Runner"
     url: "/docs/running-collections/intro-to-collection-runs/"

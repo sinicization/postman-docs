@@ -4,31 +4,31 @@ order: 5
 page_id: "syncing"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
-    name: "Download and Install"
+    name: "下载并安装"
     url: "https://www.postman.com/downloads/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Case Studies"
+    name: "案例研究"
   - type: link
     name: "HotelBeds"
     url: "https://www.postman.com/customers/Hotelbeds.pdf"
   - type: subtitle
-    name: "Videos"
+    name: "视频"
   - type: link
     name: "Intro to Postman Cloud"
     url: "https://www.youtube.com/watch?v=ccdxr0oJR-I"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
     name: "Backup and Sync your Postman Collections on GitHub"
     url: "https://blog.postman.com/backup-and-sync-your-postman-collections-on-github/"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
-    name: "Sending your first request"
+    name: "发送您的第一个请求"
     url: "/docs/getting-started/sending-the-first-request/"
 
 warning: false

@@ -1,19 +1,19 @@
 ---
-title: "Migrating data between teams"
+title: "在团队之间迁移数据"
 order: 128
 page_id: "team-merge"
 warning: false
 contextual_links:
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
-    name: "Configuring SSO"
+    name: "配置单点登录(SSO)"
     url: "/docs/administration/sso/admin-sso/"
   - type: link
-    name: "Managing your team"
+    name: "管理您的团队"
     url: "/docs/administration/managing-your-team/managing-your-team/"
   - type: link
-    name: "Manage Large Teams in Postman with Workspaces, Permissions, and Version Control"
+    name: "使用工作区，权限和版本控制来管理Postman中的大型团队"
     url: "/docs/administration/sso/admin-sso/"
 
 ---
@@ -143,7 +143,7 @@ All collections in your personal workspace and any workspaces that you have join
 
 > Reach out to [Postman support](https://www.postman.com/support/) if you have any questions or run into any issues setting up Postman for your team.
 
-## Next Steps
+## 下一步
 
 [Configure SSO](/docs/administration/sso/admin-sso/) if you are subscribed to a Postman Business or Enterprise plan.
 

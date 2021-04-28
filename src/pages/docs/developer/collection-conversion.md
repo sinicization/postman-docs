@@ -5,12 +5,12 @@ page_id: "collection-conversion"
 search_keyword: "postman-api-key, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "Continuous Integration"
     url: "/docs/running-collections/using-newman-cli/continuous-integration/"

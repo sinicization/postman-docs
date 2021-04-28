@@ -4,14 +4,14 @@ order: 101
 page_id: "documenting_your_api"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Case Studies"
+    name: "案例研究"
   - type: link
     name: "Cisco DevNet"
     url: "https://www.postman.com/resources/case-studies/cisco-devnet/"
@@ -19,17 +19,17 @@ contextual_links:
     name: "Imgur"
     url: "https://www.postman.com/resources/case-studies/imgur/"
   - type: subtitle
-    name: "Videos"
+    name: "视频"
   - type: link
     name: "API documentation with Postman"
     url: "https://www.youtube.com/watch?v=Ayo_KdLLcTA"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
     name: "Simplifying API documentation for a great first user experience"
     url: "https://blog.postman.com/simplifying-api-documentation-for-a-great-first-user-experience/"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "Authoring your documentation"
     url: "/docs/publishing-your-api/authoring-your-documentation/"

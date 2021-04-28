@@ -4,19 +4,19 @@ order: 29.1
 page_id: "generate_code_snippets"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "Sending requests"
     url: "/docs/sending-requests/requests/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Videos"
+    name: "视频"
   - type: link
     name: "Generating Code Snippets | Postman Level Up"
     url: "https://www.youtube.com/watch?v=yYwkvtSvpHI"
   - type: subtitle
-    name: "Case Studies"
+    name: "案例研究"
   - type: link
     name: "Intuit"
     url: "https://www.postman.com/resources/case-studies/intuit/"
@@ -29,7 +29,7 @@ contextual_links:
     name: "Generate Code for Your Front-end Apps"
     url: "https://blog.postman.com/use-your-work-in-postman-to-generate-code-for-your-apps/"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "获取HTTP请求"
     url:  "/docs/sending-requests/capturing-request-data/capturing-http-requests/"

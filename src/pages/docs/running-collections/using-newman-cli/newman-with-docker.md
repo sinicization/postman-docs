@@ -4,14 +4,14 @@ order: 61
 page_id: "newman_with_docker"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "Command line integration with Newman"
     url: "/docs/running-collections/using-newman-cli/command-line-integration-with-newman/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
     name: "Integrations: how Postman plays with some of your favorite tools"
     url: "https://blog.postman.com/integrations-how-postman-plays-with-some-of-your-favorite-tools/"
@@ -19,7 +19,7 @@ contextual_links:
     name: "Using the Newman Docker image in Windows, hassle free"
     url: "https://blog.postman.com/using-the-newman-docker-image-in-windows/"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "Intro to the Postman API"
     url: "/docs/developer/intro-api/"

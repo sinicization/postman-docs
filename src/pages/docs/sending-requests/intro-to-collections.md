@@ -4,27 +4,27 @@ order: 23.1
 page_id: "intro_to_collections"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "Sending requests"
     url: "/docs/sending-requests/requests/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Case Studies"
+    name: "案例研究"
   - type: link
     name: "Ping Identity"
     url: "https://www.postman.com/resources/case-studies/pingidentity/"
   - type: subtitle
-    name: "Videos"
+    name: "视频"
   - type: link
     name: "Intro to Postman & Postman Collections"
     url: "https://www.youtube.com/watch?v=ptvV_Fc3hd8"
   - type: dynamic_blog
-    name: "Related Blog Posts"
+    name: "相关博客文章"
     blog_tag: "collections"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "Using the Collection Runner"
     url: "/docs/running-collections/intro-to-collection-runs/"

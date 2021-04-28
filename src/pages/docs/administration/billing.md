@@ -1,5 +1,5 @@
 ---
-title: "Billing"
+title: "计费"
 order: 123
 page_id: "billing"
 tags: 
@@ -7,14 +7,14 @@ tags:
 warning: false
 contextual_links:
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: link
-    name: "Postman Pricing"
+    name: "Postman定价"
     url: "https://www.postman.com/pricing/"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
-    name: "Announcing updated Postman plans and pricing"
+    name: "公布最新Postman计划和价格"
     url: "https://blog.postman.com/announcing-updated-postman-plans-and-pricing/"
 
 ---
@@ -235,6 +235,6 @@ You can view your current number of additional team members, how much you will b
 
 ## 下一步
 
-For information on team management, see [Managing your team](/docs/administration/managing-your-team/managing-your-team/).
+For information on team management, see [管理您的团队](/docs/administration/managing-your-team/managing-your-team/).
 
 To learn more about the billing team role, see [Roles and Permissions](/docs/collaborating-in-postman/roles-and-permissions/).

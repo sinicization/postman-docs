@@ -5,7 +5,7 @@ page_id: "mock_with_api"
 search_keyword: "x-mock-response-code, x-mock-response-name, x-mock-response-id, x-mock-match-request-body, x-mock-match-request-headers"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "Sending requests"
     url: "/docs/sending-requests/requests/"
@@ -16,9 +16,9 @@ contextual_links:
     name: "Intro to the Postman API"
     url: "/docs/developer/intro-api/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Case Studies"
+    name: "案例研究"
   - type: link
     name: "Gear4Music"
     url: "https://www.postman.com/resources/case-studies/gear4music/"
@@ -26,7 +26,7 @@ contextual_links:
     name: "Giant Machines"
     url: "https://www.postman.com/resources/case-studies/giant-machines/"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
     name: "Mock responses in Postman by using Examples"
     url: "https://blog.postman.com/mock-responses-in-postman-by-using-examples/"

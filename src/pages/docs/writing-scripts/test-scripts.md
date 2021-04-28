@@ -5,7 +5,7 @@ page_id: "test_scripts"
 search_keyword: "pm.response, pm.test, pm.expect"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "Sending requests"
     url: "/docs/sending-requests/requests/"
@@ -13,9 +13,9 @@ contextual_links:
     name: "Receiving responses"
     url:  "/docs/sending-requests/responses/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Case Studies"
+    name: "案例研究"
   - type: link
     name: "Ping Identity"
     url: "https://www.postman.com/resources/case-studies/pingidentity/"
@@ -23,7 +23,7 @@ contextual_links:
     name: "iQmetrix"
     url: "https://www.postman.com/resources/case-studies/iqmetrix/"
   - type: subtitle
-    name: "Videos"
+    name: "视频"
   - type: link
     name: "Testing with Snippets | Postman Level Up"
     url: "https://youtu.be/QGNJ0wh5Ry0"
@@ -37,7 +37,7 @@ contextual_links:
     name: "New to Postman: Writing a test"
     url:  "https://www.youtube.com/watch?v=6Cp4Ez5dwbM"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
     name: "Writing tests in Postman"
     url:  "https://blog.postman.com/writing-tests-in-postman/"
@@ -51,7 +51,7 @@ contextual_links:
     name: "Extracting data from responses and chaining requests"
     url:  "https://blog.postman.com/extracting-data-from-responses-and-chaining-requests/"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "Test Examples"
     url: "/docs/writing-scripts/script-references/test-examples/"

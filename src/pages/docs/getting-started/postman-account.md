@@ -4,14 +4,14 @@ order: 4.1
 page_id: "postman_account"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
-    name: "Download and Install"
+    name: "下载并安装"
     url: "https://www.postman.com/downloads/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
     name: "One person, multiple accounts"
     url: "https://blog.postman.com/one-person-multiple-accounts/"
@@ -19,9 +19,9 @@ contextual_links:
     name: "Sweet cosmic karma for your public profile"
     url: "https://blog.postman.com/sweet-cosmic-karma-for-your-public-profile/"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
-    name: "Sending your first request"
+    name: "发送您的第一个请求"
     url: "/docs/getting-started/sending-the-first-request/"
 
 warning: false

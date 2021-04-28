@@ -1,16 +1,16 @@
 ---
-title: "Configuring team settings"
+title: "配置团队设置"
 order: 125
 page_id: "team_settings"
 warning: false
 contextual_links:
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
-    name: "Working with your team"
+    name: "与你的团队一起工作"
     url: "/docs/collaborating-in-postman/collaboration-intro/"
   - type: link
-    name: "Managing your team"
+    name: "管理您的团队"
     url: "/docs/administration/managing-your-team/managing-your-team/"
 
 ---
@@ -72,7 +72,7 @@ View [Adding custom information to invoices](/docs/administration/billing/#addin
 
 Select **Authentication** from the left-hand menu to configure or reconfigure your team's authentication methods.
 
-See [Configuring SSO for a team](/docs/administration/sso/admin-sso/) for details on how to configure your team's custom SSO setup and manage user accounts.
+See [为团队配置SSO](/docs/administration/sso/admin-sso/) for details on how to configure your team's custom SSO setup and manage user accounts.
 
 <img alt="Editing authentication methods" src="https://assets.postman.com/postman-docs/ts-authentication.jpg"/>
 
@@ -80,7 +80,7 @@ See [Configuring SSO for a team](/docs/administration/sso/admin-sso/) for detail
 
 Select **Roles and Permissions** from the left-hand menu to view a complete list of permissions for team members' roles at a team, collection, workspace, API, and mock server level.
 
-View [Defining roles](/docs/collaborating-in-postman/roles-and-permissions/) for more information on roles you can assign to members of your team and [Managing your team](/docs/administration/managing-your-team/managing-your-team/) for an overview of managing roles and users within your Postman team.
+View [Defining roles](/docs/collaborating-in-postman/roles-and-permissions/) for more information on roles you can assign to members of your team and [管理您的团队](/docs/administration/managing-your-team/managing-your-team/) for an overview of managing roles and users within your Postman team.
 
 <img alt="Roles and permissions descriptions" src="https://assets.postman.com/postman-docs/ts-roles-and-permissions.jpg"/>
 

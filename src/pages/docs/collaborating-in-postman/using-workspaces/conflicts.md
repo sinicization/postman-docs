@@ -1,18 +1,18 @@
 ---
-title: "Resolving team conflicts"
+title: "解决团队冲突"
 order: 79
 page_id: "conflicts"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"
   - type: link
-    name: "Sharing your work"
+    name: "共享你的工作"
     url: "/docs/collaborating-in-postman/sharing/"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "Troubleshooting requests"
     url: "/docs/sending-requests/troubleshooting-api-requests/"

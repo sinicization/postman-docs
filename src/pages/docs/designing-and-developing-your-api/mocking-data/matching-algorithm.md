@@ -5,7 +5,7 @@ page_id: "matching_algorithm"
 search_keyword: "x-mock-response-name, x-mock-response-id, requestMethod, mockPath"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "Sending requests"
     url: "/docs/sending-requests/requests/"

@@ -5,14 +5,14 @@ page_id: "apimatic"
 warning: false
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
     name: "Why we became big believers in APIMatic's API transformer"
     url: "https://blog.postman.com/new-postman-pro-integration-apimatics-api-transformer/"

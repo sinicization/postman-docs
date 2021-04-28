@@ -5,12 +5,12 @@ page_id: "troubleshooting_monitors"
 search_keyword: "console.log"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "Intro to Monitoring"
     url: "/docs/designing-and-developing-your-api/monitoring-your-api/intro-monitors/"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "Troubleshooting API requests"
     url: "/docs/sending-requests/troubleshooting-api-requests/"

@@ -1,16 +1,16 @@
 ---
-title: "Utilizing audit logs"
+title: "利用审计日志"
 order: 126
 page_id: "audit_logs"
 warning: false
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
-    name: "Creating Workspaces"
+    name: "创建工作区"
     url: "/docs/collaborating-in-postman/using-workspaces/creating-workspaces/"
   - type: link
-    name: "Managing your team"
+    name: "管理您的团队"
     url: "/docs/administration/managing-your-team/managing-your-team/"
 ---
 

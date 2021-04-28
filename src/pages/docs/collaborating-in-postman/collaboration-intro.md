@@ -1,13 +1,13 @@
 ---
-title: "Working with your team"
+title: "与你的团队一起工作"
 order: 71
 page_id: "collaboration"
 warning: false
 contextual_links:
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Videos"
+    name: "视频"
   - type: link
     name: "Team collaboration with Postman"
     url: "https://www.youtube.com/watch?v=8tLvvQ-3Nx0"
@@ -15,7 +15,7 @@ contextual_links:
     name: "Scaling Team Collaboration at Atlassian"
     url : https://www.youtube.com/watch?v=wYBZrdukack
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "创建工作区"
     url: "/docs/collaborating-in-postman/using-workspaces/creating-workspaces/"
@@ -171,6 +171,6 @@ Alternatively, you can download your archived data directly within Postman. To l
 
 ## 下一步
 
-For a more in-depth introduction to workspaces and how they can help organize your API development, check out [Creating Workspaces](/docs/collaborating-in-postman/using-workspaces/creating-workspaces/).
+For a more in-depth introduction to workspaces and how they can help organize your API development, check out [创建工作区](/docs/collaborating-in-postman/using-workspaces/creating-workspaces/).
 
 To see how you can share the APIs that your teams use internally, check out [Your private API Network](/docs/collaborating-in-postman/adding-private-network/).

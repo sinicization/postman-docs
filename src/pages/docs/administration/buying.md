@@ -1,23 +1,23 @@
 ---
-title: "Purchasing Postman"
+title: "采购Postman"
 order: 122
 page_id: "buying"
 warning: false
 contextual_links:
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: link
-    name: "Postman Pricing"
+    name: "Postman定价"
     url: "https://www.postman.com/pricing/"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
-    name: "Announcing updated Postman plans and pricing"
+    name: "公布最新Postman计划和价格"
     url: "https://blog.postman.com/announcing-updated-postman-plans-and-pricing/"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
-    name: "Billing"
+    name: "计费"
     url:  "/docs/administration/billing/"
 
 ---

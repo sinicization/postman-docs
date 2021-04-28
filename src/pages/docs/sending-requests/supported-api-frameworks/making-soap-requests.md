@@ -4,14 +4,14 @@ order: 38
 page_id: "making_soap_requests"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "Sending requests"
     url: "/docs/sending-requests/requests/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
     name: "Making HTTP SOAP Requests with Postman"
     url: "https://blog.postman.com/making-http-soap-requests-with-postman/"

@@ -4,19 +4,19 @@ order: 64
 page_id: "integration_with_jenkins"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "Command line integration with Newman"
     url: "/docs/running-collections/using-newman-cli/command-line-integration-with-newman/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Case Studies"
+    name: "案例研究"
   - type: link
     name: "Sikka"
     url: "https://www.postman.com/resources/case-studies/sikka/"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
     name: "How to write powerful automated API tests with Postman, Newman and Jenkins"
     url: "https://blog.postman.com/how-to-write-powerful-automated-api-tests-with-postman-newman-and-jenkins/"
@@ -24,7 +24,7 @@ contextual_links:
     name: "Integrations: how Postman plays with some of your favorite tools"
     url: "https://blog.postman.com/integrations-how-postman-plays-with-some-of-your-favorite-tools/"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "Intro to the Postman API"
     url: "/docs/developer/intro-api/"

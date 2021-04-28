@@ -5,9 +5,9 @@ page_id: "creating_your_first_workspace"
 warning: false
 contextual_links:
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
-    name: "Working with your team"
+    name: "与你的团队一起工作"
     url:  "/docs/collaborating-in-postman/collaboration-intro/"
   - type: link
     name: "创建工作区"

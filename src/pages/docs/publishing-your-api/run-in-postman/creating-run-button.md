@@ -5,19 +5,19 @@ page_id: "creating_run_button"
 warning: false
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Case Studies"
+    name: "案例研究"
   - type: link
     name: "Intuit"
     url: "https://www.postman.com/resources/case-studies/intuit/"
   - type: subtitle
-    name: "Videos"
+    name: "视频"
   - type: link
     name: "Generate a Run in Postman Button | Postman Level Up"
     url: "https://www.youtube.com/watch?v=r2DGy4jSuUE&list=PLM-7VG-sgbtC5tNXxd28cmePSa9BYwqeU&index=8"
@@ -25,12 +25,12 @@ contextual_links:
     name: "API documentation with Postman"
     url: "https://www.youtube.com/watch?v=Ayo_KdLLcTA"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
     name: "Square simplifies API docs with the Run in Postman button"
     url: "https://blog.postman.com/square-simplifies-api-docs-with-the-run-in-postman-button/"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "Documenting your API"
     url: "/docs/publishing-your-api/documenting-your-api/"

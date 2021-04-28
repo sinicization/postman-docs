@@ -5,7 +5,7 @@ page_id: "intro_to_collection_runs"
 search_keyword: "postman.setNextRequest, setNextRequest"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "Sending requests"
     url: "/docs/sending-requests/requests/"
@@ -13,9 +13,9 @@ contextual_links:
     name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Videos"
+    name: "视频"
   - type: link
     name: "Log Response Data in Collection Runs | Postman Level Up"
     url: "https://youtu.be/UreV_7fHKiU"
@@ -23,7 +23,7 @@ contextual_links:
     name: "Running a collection"
     url: "https://www.youtube.com/watch?v=la0LqQwwKAA"
   - type: dynamic_blog
-    name: "Related Blog Posts"
+    name: "相关博客文章"
     blog_tag: "collections"
 warning: false
 

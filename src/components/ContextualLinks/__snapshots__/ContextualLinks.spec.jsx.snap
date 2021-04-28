@@ -7,7 +7,7 @@ exports[`ContextualLinks renders correctly 1`] = `
   <div
     className="contextual-links__section"
   >
-    Prerequisites
+    先决条件
   </div>
   <div
     className="contextual-links__link"
@@ -16,13 +16,13 @@ exports[`ContextualLinks renders correctly 1`] = `
       className="dynamic-link__external"
       href="https://www.postman.com/downloads/"
     >
-      Download and Install
+      下载并安装
     </a>
   </div>
   <div
     className="contextual-links__subtitle"
   >
-    Related Blog Posts
+    相关博客文章
   </div>
   <div
     className="contextual-links__link"

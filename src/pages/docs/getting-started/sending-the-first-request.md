@@ -1,17 +1,17 @@
 ---
-title: "Sending your first request"
+title: "发送您的第一个请求"
 order: 4
 page_id: "sending_the_first_request"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
-    name: "Installing and updating"
+    name: "安装和更新"
     url: "/docs/getting-started/installation-and-updates/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Videos"
+    name: "视频"
   - type: link
     name: "Sending a request"
     url: "https://www.youtube.com/watch?v=7E60ZttwIpY"
@@ -19,7 +19,7 @@ contextual_links:
     name: "How to use an API"
     url:  "https://www.youtube.com/watch?v=jCadnlO9xSQ&list=PLM-7VG-sgbtBBnWb2Jc5kufgtWYEmiMAw"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "Creating your first collection"
     url:  "/docs/getting-started/creating-the-first-collection/"

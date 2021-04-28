@@ -4,24 +4,24 @@ order: 27
 page_id: "examples"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "Sending requests"
     url: "/docs/sending-requests/requests/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Videos"
+    name: "视频"
   - type: link
     name: "Provide Examples | Postman Level Up"
     url: "https://www.youtube.com/watch?v=C0Z3OMuCGBw&list=PLM-7VG-sgbtC5tNXxd28cmePSa9BYwqeU&index=5"
   - type: subtitle
-    name: "Case Studies"
+    name: "案例研究"
   - type: link
     name: "Imgur"
     url: "https://www.postman.com/resources/case-studies/imgur/"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "Documenting your API"
     url: "/docs/publishing-your-api/documenting-your-api/"

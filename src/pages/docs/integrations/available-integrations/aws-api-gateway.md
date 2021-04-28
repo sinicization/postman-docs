@@ -5,12 +5,12 @@ page_id: "aws-api-gateway"
 warning: false
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "Intro to collections"
     url: "/docs/sending-requests/intro-to-collections/"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "Custom Webhooks"
     url: "/docs/integrations/webhooks/"

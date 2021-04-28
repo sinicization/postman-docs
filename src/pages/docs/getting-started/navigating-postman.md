@@ -4,14 +4,14 @@ order: 3
 page_id: "navigating_postman"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
-    name: "Download and Install"
+    name: "下载并安装"
     url: "https://www.postman.com/downloads/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Videos"
+    name: "视频"
   - type: link
     name: "Bootcamp | Postman Level Up"
     url: "https://youtu.be/cCruwkHi9o4"
@@ -22,14 +22,14 @@ contextual_links:
     name: "Universal Search | Postman Level Up"
     url: "https://www.youtube.com/watch?v=1K6Pl6o_tj8"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
     name: "How Postman Designers Built the New Universal Search Feature"
     url: "https://blog.postman.com/how-postman-designers-built-the-new-universal-search-feature/"  
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
-    name: "Sending your first request"
+    name: "发送您的第一个请求"
     url: "/docs/getting-started/sending-the-first-request/"
 
 warning: false

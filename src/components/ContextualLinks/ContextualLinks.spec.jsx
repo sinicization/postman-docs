@@ -7,16 +7,16 @@ describe('ContextualLinks', () => {
     const testLinks = [
       {
         type: 'section',
-        name: 'Prerequisites',
+        name: '先决条件',
       },
       {
         type: 'link',
-        name: 'Download and Install',
+        name: '下载并安装',
         url: 'https://www.postman.com/downloads/',
       },
       {
         type: 'subtitle',
-        name: 'Related Blog Posts',
+        name: '相关博客文章',
 
       },
       {

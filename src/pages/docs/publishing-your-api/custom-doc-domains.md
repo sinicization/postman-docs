@@ -4,14 +4,14 @@ order: 105
 page_id: "custom_doc_domains"
 contextual_links:
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Case Studies"
+    name: "案例研究"
   - type: link
     name: "Imgur"
     url: "https://www.postman.com/resources/case-studies/imgur/"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "Publishing your docs"
     url: "/docs/publishing-your-api/publishing-your-docs/"

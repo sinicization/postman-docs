@@ -4,21 +4,21 @@ order: 77
 page_id: "managing_workspaces"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "创建工作区"
     url: "/docs/collaborating-in-postman/using-workspaces/creating-workspaces/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Case Studies"
+    name: "案例研究"
   - type: link
     name: "Giant Machines"
     url: "https://www.postman.com/resources/case-studies/giant-machines/"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
-    name: "Viewing workspace activity"
+    name: "查看工作区活动"
     url: "/docs/collaborating-in-postman/using-workspaces/changelog-and-restoring-collections/"
 warning: false
 ---

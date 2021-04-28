@@ -4,19 +4,19 @@ order: 8.1
 page_id: "settings"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
-    name: "Download and Install"
+    name: "下载并安装"
     url: "https://www.postman.com/downloads/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
     name: "Speeding up workflows with keyboard shortcuts"
     url: "https://blog.postman.com/speeding-up-workflows-with-keyboard-shortcuts/"
   - type: subtitle
-    name: "Videos"
+    name: "视频"
   - type: link
     name: "Keyboard Shortcuts | Postman Level Up"
     url: "https://youtu.be/J3kuTxNItD0"
@@ -24,9 +24,9 @@ contextual_links:
     name: "Dark Mode | Postman Level Up"
     url: "https://youtu.be/rZySZm9XaLM"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
-    name: "Sending your first request"
+    name: "发送您的第一个请求"
     url: "/docs/getting-started/sending-the-first-request/"
 
 warning: false

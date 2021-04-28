@@ -4,24 +4,24 @@ order: 29.2
 page_id: "troubleshooting_api_requests"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "Sending requests"
     url: "/docs/sending-requests/requests/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Videos"
+    name: "视频"
   - type: link
     name: "Debugging with the Console | Postman Level Up"
     url: "https://www.youtube.com/watch?v=YCsURct9wCk&list=PLM-7VG-sgbtC5tNXxd28cmePSa9BYwqeU&index=9"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
     name: "Powerful Debugging with the Postman Console"
     url: "https://blog.postman.com/powerful-debugging-with-the-postman-console/"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "Using the Collection Runner"
     url: "/docs/running-collections/intro-to-collection-runs/"

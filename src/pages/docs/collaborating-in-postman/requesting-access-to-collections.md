@@ -4,9 +4,9 @@ order: 73
 page_id: "requesting-access-to-collections"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
-    name: "Sharing your work"
+    name: "共享你的工作"
     url: "/docs/collaborating-in-postman/sharing/"
   - type: link
     name: "Defining roles"
@@ -113,4 +113,4 @@ You will receive an email detailing the request for access.
 
 Click **Approve Request** if you want to grant access to the collection or API. If you do not wish to give access, you can ignore the request. A request for access will expire in 15 days.
 
-To learn more about how you can collaborate with your team in Postman, see [Working with your team](/docs/collaborating-in-postman/collaboration-intro/).
+To learn more about how you can collaborate with your team in Postman, see [与你的团队一起工作](/docs/collaborating-in-postman/collaboration-intro/).

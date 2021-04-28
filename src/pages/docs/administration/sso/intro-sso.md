@@ -1,15 +1,15 @@
 ---
-title: "Intro to SSO"
+title: "SSO简介"
 order: 131
 page_id: "intro_sso"
 warning: false
 contextual_links:
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
-    name: "Announcing updated Postman plans and pricing"
+    name: "公布最新Postman计划和价格"
     url: "https://blog.postman.com/announcing-updated-postman-plans-and-pricing/"
 ---
 

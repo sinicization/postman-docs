@@ -5,14 +5,14 @@ page_id: "managing-environments"
 search_keyword: "pm.globals.set, globals.set, pm.environment.set, environment.set, pm.variables.get, variables.get, pm.globals.get, globals.get, pm.environment.get, environment.get" 
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "使用变量"
     url:  "/docs/sending-requests/variables/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Videos"
+    name: "视频"
   - type: link
     name: "How to use environments in Postman"
     url:  "https://www.youtube.com/watch?v=wArvaHYdw2I"
@@ -20,7 +20,7 @@ contextual_links:
     name: "New to Postman: Chaining requests"
     url: "https://www.youtube.com/watch?v=shYn3Ys3ygE"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
     name: "How to Control Access to Variables, Workflows, and More"
     url:  "https://blog.postman.com/postman-environments-how-to-control-access-to-variables-workflows-and-more/"
@@ -31,7 +31,7 @@ contextual_links:
     name: "Securely Using API Keys in Postman"
     url: "https://blog.postman.com/how-to-use-api-keys/"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "与您的团队合作"
     url: "/docs/collaborating-in-postman/collaboration-intro/"

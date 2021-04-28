@@ -84,7 +84,7 @@ contextual_links:
 
 ### 发布API
 
-如果你公开一个API供公众使用，Postman可以支持开发人员入职培训:
+如果你公开一个API供公众使用，Postman可以支持开发人员入职:
 
 * [发布文档](/docs/publishing-your-api/documenting-your-api/)
 * [构建采用](/docs/publishing-your-api/add-api-network/)

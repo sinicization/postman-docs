@@ -4,7 +4,7 @@ order: 62
 page_id: "continuous_integration"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"
@@ -12,19 +12,19 @@ contextual_links:
     name: "Command line integration with Newman"
     url: "/docs/running-collections/using-newman-cli/command-line-integration-with-newman/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Case Studies"
+    name: "案例研究"
   - type: link
     name: "Sikka"
     url: "https://www.postman.com/resources/case-studies/sikka/"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
     name: "Continuous Testing of APIs"
     url: "https://medium.com/better-practices/continuous-testing-of-apis-5294552d65ce"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "Intro to scripts"
     url: "/docs/writing-scripts/intro-to-scripts/"

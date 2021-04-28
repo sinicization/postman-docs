@@ -4,14 +4,14 @@ order: 76
 page_id: "creating_workspaces"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
-    name: "Working with your team"
+    name: "与你的团队一起工作"
     url: "/docs/collaborating-in-postman/collaboration-intro/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
     name: "Workspaces! What are they good for?"
     url: "https://blog.postman.com/workspaces-the-biggest-thing-to-hit-postman-this-month/"
@@ -19,17 +19,17 @@ contextual_links:
     name: "Setting up your first public workspace"
     url: "https://blog.postman.com/how-to-set-up-public-workspaces/"
   - type: subtitle
-    name: "Case Studies"
+    name: "案例研究"
   - type: link
     name: "Movember Foundation"
     url: "https://www.postman.com/resources/case-studies/movember-foundation/"
   - type: subtitle
-    name: "Videos"
+    name: "视频"
   - type: link
     name: "Team collaboration with Postman"
     url: "https://www.youtube.com/watch?v=8tLvvQ-3Nx0"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "Using and managing workspaces"
     url: "/docs/collaborating-in-postman/using-workspaces/managing-workspaces/"

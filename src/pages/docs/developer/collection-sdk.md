@@ -4,12 +4,12 @@ order: 148
 page_id: "collection_sdk"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
     name: "Running collections on the command line"
     url: "/docs/running-collections/using-newman-cli/command-line-integration-with-newman/"

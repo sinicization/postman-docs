@@ -1,17 +1,17 @@
 ---
-title: "Viewing workspace activity"
+title: "查看工作区活动"
 order: 78
 page_id: "changelog_and_restoring_collections"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Case Studies"
+    name: "案例研究"
   - type: link
     name: "SynapseFi"
     url: "https://www.postman.com/customers/SynapseFI.pdf"
@@ -19,9 +19,9 @@ contextual_links:
     name: "Clarifai"
     url: "https://www.postman.com/customers/Clarifai.pdf"
   - type: section
-    name: "Associated Topics"
+    name: "相关主题"
   - type: link
-    name: "Intro to Integrations"
+    name: "集成简介"
     url: "/docs/integrations/intro-integrations/"
 
 warning: false
@@ -48,7 +48,7 @@ With a Postman Team, Business, or Enterprise account, you can see generated diff
 
 <img alt="Changelog diffs" src ="https://assets.postman.com/postman-docs/changelog-diff-v8.jpg" width=400px/>
 
-## Viewing workspace activity
+## 查看工作区活动
 
 You can [access the activity feed from Postman](#accessing-the-activity-feed-from-postman). The activity feed will show information on who added or removed collections, environments, or entities from the workspace as well as members joining and leaving the workspace. You can [filter this information](#filtering-the-activity-feed) directly within the activity feed.
 

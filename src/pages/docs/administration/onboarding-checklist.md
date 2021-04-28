@@ -1,21 +1,21 @@
 ---
-title: "Onboarding checklist"
+title: "入职清单"
 order: 127
 page_id: "onboarding_checklist"
 warning: false
 contextual_links:
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: link
     name: "Security and Compliance: A Shared Responsibility Model"
     url: "https://www.postman.com/security/shared-responsibility/"
   - type: link
-    name: "Managing your team"
+    name: "管理您的团队"
     url: "/docs/administration/managing-your-team/managing-your-team/"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
-    name: "Manage Large Teams in Postman with Workspaces, Permissions, and Version Control"
+    name: "使用工作区，权限和版本控制来管理Postman中的大型团队"
     url: "https://blog.postman.com/postman-team-workspaces-and-permissions/"
 
 ---
@@ -45,7 +45,7 @@ Postman is available as a stand-alone app for Windows, Mac, and Linux, and can a
 * Depending on your [plan](https://www.postman.com/pricing) you may be able to obtain static IP addresses for Postman Monitors. Your IT team should whitelist these static IPs for monitoring. See [Running Postman monitors using static IPs](/docs/designing-and-developing-your-api/monitoring-your-api/using-static-IPs-to-monitor/) for details on how to obtain and configure static IP addresses for monitoring.
 
 * Update your [team settings](https://go.postman.co/settings/team/general). See [Team Settings](/docs/administration/team-settings/) for more info.
-* If your Postman [plan](https://www.postman.com/pricing) includes single-sign-on (SSO) you may need help from your IT team to configure it. See [Configuring SSO for a team](/docs/administration/sso/admin-sso/) for instructions on integrating with specific identity providers.
+* If your Postman [plan](https://www.postman.com/pricing) includes single-sign-on (SSO) you may need help from your IT team to configure it. See [为团队配置SSO](/docs/administration/sso/admin-sso/) for instructions on integrating with specific identity providers.
 
 ### Invite Team Members
 
@@ -75,7 +75,7 @@ Team discovery makes Postman’s collaboration features more discoverable to use
 
 If you have any questions or run into any issues setting up Postman for your team be sure and check to see if the question has already been answered by the [Postman Community](https://community.postman.com/). You can also find a number of support resources on the [support page](https://www.postman.com/support).
 
-## Next Steps
+## 下一步
 
 Check out [Security and Compliance: A Shared Responsibility Model](https://www.postman.com/shared-responsibility/) for important security considerations.
 

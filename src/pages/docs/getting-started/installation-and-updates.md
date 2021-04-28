@@ -1,36 +1,36 @@
 ---
-title: "Installing and updating"
+title: "安装和更新"
 order: 2
 page_id: "installation_and_updates"
 warning: false
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
-    name: "Download and Install"
+    name: "下载并安装"
     url: "https://www.postman.com/downloads/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Videos"
+    name: "视频"
   - type: link
-    name: "Intro to APIs"
+    name: "API简介"
     url:  "https://www.youtube.com/watch?v=iFMLyMgCUTs&list=PLM-7VG-sgbtBBnWb2Jc5kufgtWYEmiMAw"
   - type: link
-    name: "Agent for the Postman Web Client | Postman Level Up"
+    name: "PostmanWeb客户端代理 | Postman升级"
     url:  "https://www.youtube.com/watch?v=6xlJUx2ZMy4&list=PLM-7VG-sgbtC5tNXxd28cmePSa9BYwqeU&index=3"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
-    name: "First 5 things to try if you're new to Postman"
+    name: "如果您是Postman的新手,请尝试的5件事"
     url: "https://blog.postman.com/first-5-things-to-try-if-youre-new-to-postman/"
   - type: link
-    name: "Introducing the Postman Agent: Send API Requests from Your Browser without Limits"
+    name: "Postman代理简介: 从浏览器无限制发送API请求"
     url: "https://blog.postman.com/introducing-the-postman-agent-send-api-requests-from-your-browser-without-limits/"
   - type: section
-    name: "Next Steps"
+    name: "下一步"
   - type: link
-    name: "Sending your first request"
+    name: "发送您的第一个请求"
     url: "/docs/getting-started/sending-the-first-request/"
 
 ---

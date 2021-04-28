@@ -4,19 +4,19 @@ order: 88
 page_id: "intro_monitors"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Case Studies"
+    name: "案例研究"
   - type: link
     name: "Monetary"
     url: "https://www.postman.com/resources/case-studies/monetary/"
   - type: subtitle
-    name: "Videos"
+    name: "视频"
   - type: link
     name: "API monitoring with Postman"
     url: "https://www.youtube.com/watch?v=3nOP_TYTuA8"

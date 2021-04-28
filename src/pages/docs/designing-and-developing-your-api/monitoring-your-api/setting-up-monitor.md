@@ -4,19 +4,19 @@ order: 89
 page_id: "setting_up_monitor"
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
     name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Videos"
+    name: "视频"
   - type: link
     name: "API monitoring with Postman"
     url: "https://www.youtube.com/watch?v=3nOP_TYTuA8"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
     name: "How to monitor Postman Collections with APImetrics"
     url: "https://blog.postman.com/how-to-use-postman-apimetrics/"
