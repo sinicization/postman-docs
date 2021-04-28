@@ -300,7 +300,7 @@ Select a monitor from the list and click **Add Monitor**. You will only availabl
 
 To add a monitor to a specific version of your collection, check out how to [set up monitors](/docs/designing-and-developing-your-api/monitoring-your-api/setting-up-monitor/).
 
-## Next steps
+## 下一步
 
 For more information on building your APIs in Postman, check out the following resources:
 

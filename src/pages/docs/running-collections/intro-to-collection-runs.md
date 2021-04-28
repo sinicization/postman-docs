@@ -10,7 +10,7 @@ contextual_links:
     name: "Sending requests"
     url: "/docs/sending-requests/requests/"
   - type: link
-    name: "Grouping requests in collections"
+    name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"
   - type: section
     name: "Additional Resources"
@@ -43,7 +43,7 @@ You can run collections against specific environments, and can pass data files i
 * [Running your collections](#running-your-collections)
 * [Sharing collection runs](#sharing-collection-runs)
 * [Automating collection runs](#automating-collection-runs)
-* [Next steps](#next-steps)
+* [下一步](#next-steps)
 
 ## Starting a collection run
 
@@ -112,6 +112,6 @@ In addition to using the Collection Runner in Postman, you can use collection ru
 * The Postman command line interface [Newman](/docs/running-collections/using-newman-cli/command-line-integration-with-newman/) allows you to run collections and build them into your development pipeline, responding to test outcomes to maintain your API performance.
 * Adding a [monitor](/docs/designing-and-developing-your-api/monitoring-your-api/intro-monitors/) to your collection lets you schedule collection runs and stay informed of any issues.
 
-## Next steps
+## 下一步
 
 You can use scripts to [build workflows](/docs/running-collections/building-workflows/) specifying conditional sequences for running the requests in your collections.

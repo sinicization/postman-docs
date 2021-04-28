@@ -36,7 +36,7 @@ contextual_links:
   - type: section
     name: "Next Steps"
   - type: link
-    name: "Authorizing requests"
+    name: "授权请求"
     url:  "/docs/sending-requests/authorization/"
   - type: link
     name: "Troubleshooting API requests"
@@ -45,7 +45,7 @@ contextual_links:
     name: "Receiving responses"
     url:  "/docs/sending-requests/responses/"
   - type: link
-    name: "Grouping requests in collections"
+    name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"
 
 warning: false
@@ -77,7 +77,7 @@ If you have never sent a request before, check out [sending your first request](
 * [Choosing custom settings](#choosing-custom-settings)
     * [Encoding your request URLs](#encoding-your-request-urls)
 * [Troubleshooting your requests](#troubleshooting-your-requests)
-* [Next steps](#next-steps)
+* [下一步](#next-steps)
 
 ## Creating requests
 
@@ -242,7 +242,7 @@ Some APIs require auth details you can send in Postman. Authentication involves 
 
 Postman will automatically include your auth details in the relevant part of the request, for example in __Headers__.
 
-For more detail on implementing different types of auth in your Postman requests, check out [Authorizing requests](/docs/sending-requests/authorization/).
+For more detail on implementing different types of auth in your Postman requests, check out [授权请求](/docs/sending-requests/authorization/).
 
 Once your auth and other request details are set up, you can click __Send__ to run your request.
 
@@ -346,6 +346,6 @@ Click __View in Console__ to see an overview of your request and identify the so
 
 If your request does not work as expected, check out some [troubleshooting tips](/docs/sending-requests/troubleshooting-api-requests/).
 
-## Next steps
+## 下一步
 
 Once you have your request set up, click __Send__ and examine the [Response](/docs/sending-requests/responses/).

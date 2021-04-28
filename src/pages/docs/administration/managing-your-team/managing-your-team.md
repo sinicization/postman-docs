@@ -20,20 +20,20 @@ Postman provides a number of ways to manage your team.
 
 ## Contents
 
-* [Member roles](#member-roles)
-    * [Managing roles](#managing-roles)
-* [Invites](#invites)
-    * [Inviting to a team](#inviting-to-a-team)
-    * [Inviting to team workspaces](#inviting-to-team-workspaces)
-    * [Canceling invitations](#canceling-invitations)
-* [Changing team size](#changing-team-size)
-* [Next steps](#next-steps)
+* [成员角色](#member-roles)
+    * [管理角色](#managing-roles)
+* [邀请](#invites)
+    * [邀请加入团队](#inviting-to-a-team)
+    * [邀请加入团队工作区](#inviting-to-team-workspaces)
+    * [取消邀请](#canceling-invitations)
+* [更改团队规模](#changing-team-size)
+* [下一步](#next-steps)
 
-## Member roles
+## 成员角色
 
 Everyone in your team is a member. Each member has certain roles, which allow them to perform various actions. These can be granted directly to users individually, or via [groups](/docs/administration/managing-your-team/user-groups/). To learn more, visit [Roles and Permissions](/docs/collaborating-in-postman/roles-and-permissions/).
 
-### Managing roles
+### 管理角色
 
 An admin can modify the roles of other team members individually by navigating to [Team](https://go.postman.co/team) > **Manage Roles**.
 
@@ -75,15 +75,15 @@ In a workspace, select **Invite** in the upper-right corner. Enter the name of t
 
 > You can also invite individuals to a workspace by navigating to the workspace **Overview** tab, then **Sharing** in the lower-right corner.
 
-### Canceling invitations
+### 取消邀请
 
 To revoke an invitation, navigate to [Manage Team](https://go.postman.co/team). Hover over the individual in question, then click the corresponding trash can symbol.
 
-## Changing team size
+## 更改团队规模
 
 To change your team size, see [Changing your plan](/docs/administration/billing/#changing-your-plan).
 
-## Next steps
+## 下一步
 
 To find information on billing, see [Managing your billing](/docs/administration/billing/).
 

@@ -6,7 +6,7 @@ contextual_links:
   - type: section
     name: "Prerequisites"
   - type: link
-    name: "Grouping requests in collections"
+    name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"
   - type: section
     name: "Additional Resources"
@@ -46,7 +46,7 @@ Your documentation will include the **Run in Postman** button so users can inter
     * [Customizing your docs](#customizing-your-docs)
 * [Sharing your public docs](#sharing-your-public-docs)
 * [Publishing and unpublishing](#publishing-and-unpublishing)
-* [Next steps](#next-steps)
+* [下一步](#next-steps)
 
 ## Making your documentation public
 
@@ -136,7 +136,7 @@ You can unpublish your docs at any time by clicking __Unpublish__.
 
 ![Unpublish Docs](https://assets.postman.com/postman-docs/unpublish-docs.jpg)
 
-## Next steps
+## 下一步
 
 [![Imgur API docs](https://i.imgur.com/oXgXznt.png)](https://i.imgur.com/oXgXznt.png)
 

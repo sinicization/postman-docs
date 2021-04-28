@@ -7,7 +7,7 @@ contextual_links:
   - type: section
     name: "Prerequisites"
   - type: link
-    name: "Grouping requests in collections"
+    name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"
   - type: section
     name: "Next Steps"
@@ -32,6 +32,6 @@ Each of these node.js modules is available to use via NPM or by cloning directly
 
 Check out the repo for the format you need to convert—the READMEs indicate how to install and use the converters. Your output collections will be suitable for import into the Postman app, or to run collections on the command line using [Newman](/docs/running-collections/using-newman-cli/command-line-integration-with-newman/).
 
-## Next steps
+## 下一步
 
 If you're using converters to automate Postman collection runs with your development, testing, or deployment pipeline, check out how you can use [Postman API in your CI workflow](/docs/running-collections/using-newman-cli/continuous-integration/).

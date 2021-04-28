@@ -6,7 +6,7 @@ contextual_links:
   - type: section
     name: "Prerequisites"
   - type: link
-    name: "Grouping requests in collections"
+    name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"
   - type: section
     name: "Additional Resources"
@@ -34,7 +34,7 @@ Your Postman collections display a changelog for reviewing create, update, and d
 * Viewing changes to a [collection](#viewing-the-collection-changelog), [workspace](#viewing-workspace-activity), [team](#viewing-team-activity), or [user account](#viewing-user-activity).
 * [Restoring collections and folders](#restoring-collections-and-folders)
 * [Exporting team activity](#exporting-team-activity-to-other-platforms)
-* [Next steps](#next-steps)
+* [下一步](#next-steps)
 
 ## Viewing the collection changelog
 
@@ -117,6 +117,6 @@ With a Postman Team, Business, or Enterprise account, you can pipe team activity
 * [Slack integration](/docs/integrations/available-integrations/slack/)
 * [Microsoft Teams integration](/docs/integrations/available-integrations/microsoft-teams/)  
 
-## Next steps
+## 下一步
 
 For more on working with a team in Postman, see the [collaboration intro](/docs/collaborating-in-postman/collaboration-intro/). To learn how to invite input on your API projects, see [sharing your work](/docs/collaborating-in-postman/sharing/).

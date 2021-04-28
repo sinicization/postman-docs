@@ -1,18 +1,18 @@
 {
   "links": [
     {
-      "name": "Docs", 
+      "name": "文档",
       "url": "/docs/getting-started/introduction/"
     },{
-      "name": "Admin",
+      "name": "管理",
       "url": "/docs/administration/managing-your-team/managing-your-team/"
     },{
-      "name": "Developer",
+      "name": "开发者",
       "url": "/docs/developer/resources-intro/"
     },{
-      "name": "Dashboard",
+      "name": "仪表盘",
       "url": "https://app.getpostman.com/",
       "cta": true
     }],
-    "title": "Learning Center"
+    "title": "学习中心"
 }

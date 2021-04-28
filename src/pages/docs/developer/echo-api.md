@@ -38,6 +38,6 @@ The API returns a JSON response including the detail from the request you sent. 
 
 The Echo API includes endpoints to try different request methods, parameters, authentication, and a variety of supporting utilities.
 
-## Next steps
+## 下一步
 
 You can import the [Echo template](https://docs.postman-echo.com/) to use some pre-built requests to the API—when you import the collection into your own Postman app you can also edit the requests to suit your needs. You will find many other useful collections for learning about Postman and APIs in the [templates](/docs/getting-started/importing-templates/).

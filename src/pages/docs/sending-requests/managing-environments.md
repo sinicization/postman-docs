@@ -7,7 +7,7 @@ contextual_links:
   - type: section
     name: "Prerequisites"
   - type: link
-    name: "Using variables"
+    name: "使用变量"
     url:  "/docs/sending-requests/variables/"
   - type: section
     name: "Additional Resources"
@@ -33,7 +33,7 @@ contextual_links:
   - type: section
     name: "Next Steps"
   - type: link
-    name: "Collaborating with your team"
+    name: "与您的团队合作"
     url: "/docs/collaborating-in-postman/collaboration-intro/"
   - type: link
     name: "Version control for collections"
@@ -257,11 +257,11 @@ When you edit the initial value of a shared environment variable, your updated v
 
 With editor role, you can [configure access for other team members](#managing-environment-roles). If you need to specify access but do not have the editor role, you can [request access](#requesting-environment-access).
 
-## Next steps
+## 下一步
 
 Shared environments allow you to leverage collaboration within Postman. Check out some more resources on how you can work with team members on your API development projects:
 
-* [Collaborating in Postman](/docs/collaborating-in-postman/collaboration-intro/)
+* [与Postman合作](/docs/collaborating-in-postman/collaboration-intro/)
 * [Intro to workspaces](/docs/collaborating-in-postman/using-workspaces/creating-workspaces/)
 * [Managing and sharing APIs](/docs/designing-and-developing-your-api/managing-apis/)
 * [Version control for collections](/docs/collaborating-in-postman/version-control-for-collections/)

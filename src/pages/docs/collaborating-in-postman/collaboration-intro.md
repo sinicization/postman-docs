@@ -17,7 +17,7 @@ contextual_links:
   - type: section
     name: "Next Steps"
   - type: link
-    name: "Creating workspaces"
+    name: "创建工作区"
     url: "/docs/collaborating-in-postman/using-workspaces/creating-workspaces/"
   - type: link
     name: "Your private API network"
@@ -54,7 +54,7 @@ Postman will alert you with notifications when activities occur within your team
 
     * [Recovering archived collections](#recovering-your-archived-collections)
 
-* [Next steps](#next-steps)
+* [下一步](#next-steps)
 
 ## Working with team workspaces
 
@@ -169,7 +169,7 @@ You will then be able to select **Download** to retrieve your archived data.
 
 Alternatively, you can download your archived data directly within Postman. To learn how, refer to [Settings](/docs/getting-started/settings/).
 
-## Next steps
+## 下一步
 
 For a more in-depth introduction to workspaces and how they can help organize your API development, check out [Creating Workspaces](/docs/collaborating-in-postman/using-workspaces/creating-workspaces/).
 

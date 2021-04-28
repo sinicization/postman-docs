@@ -7,7 +7,7 @@ contextual_links:
   - type: section
     name: "Prerequisites"
   - type: link
-    name: "Capturing HTTP requests"
+    name: "获取HTTP请求"
     url: "/docs/sending-requests/capturing-request-data/capturing-http-requests/"
   - type: section
     name: "Additional Resources"

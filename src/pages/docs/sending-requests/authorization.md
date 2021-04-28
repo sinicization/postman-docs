@@ -1,5 +1,5 @@
 ---
-title: "Authorizing requests"
+title: "授权请求"
 order: 22
 page_id: "authorization"
 search_keyword: "WWW-Authenticate, x-www-form-urlencoded"
@@ -79,7 +79,7 @@ You can pass auth details along with any request you send in Postman. Auth data 
     * [NTLM authentication](#ntlm-authentication)
     * [Akamai EdgeGrid](#akamai-edgegrid)
 * [Syncing cookies](#syncing-cookies)
-* [Next steps](#next-steps)
+* [下一步](#next-steps)
 
 ## Specifying authorization details
 
@@ -428,6 +428,6 @@ Enter your __Access Token__, __Client Token__, and __Client Secret__, using vari
 
 If you have session cookies in your browser, you can sync them to Postman using the Interceptor—see [Interceptor extension](/docs/sending-requests/capturing-request-data/interceptor/) and [Cookies](/docs/sending-requests/cookies/) for more detail.
 
-## Next steps
+## 下一步
 
 If you're having issues getting a request to authenticate and run successfully, try some of the tips in [troubleshooting API requests](/docs/sending-requests/troubleshooting-api-requests/). If you still have auth problems, check out the [authentication tag](https://community.postman.com/tags/authentication) on the Postman forum.

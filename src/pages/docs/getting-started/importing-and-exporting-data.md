@@ -58,7 +58,7 @@ Postman can import and export Postman data, including collections, environments,
 
     * [Exporting data dumps](#exporting-data-dumps)
 
-* [Next steps](#next-steps)
+* [下一步](#next-steps)
 
 ## Importing data into Postman
 
@@ -207,6 +207,6 @@ You can export a data dump of all of your collections, environments, globals, an
 
 ![Export data dump](https://assets.postman.com/postman-docs/data-dump-menu-2.jpg)
 
-## Next steps
+## 下一步
 
 You can collaborate on collections by [sharing](/docs/collaborating-in-postman/sharing/) and [commenting](/docs/collaborating-in-postman/commenting-on-collections/) to discuss your API projects with team members. Learn more about [Postman's API workflow](/docs/designing-and-developing-your-api/the-api-workflow/).

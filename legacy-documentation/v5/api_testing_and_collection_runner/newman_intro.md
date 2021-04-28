@@ -14,7 +14,7 @@ Newman maintains feature parity with Postman and allows you to run collections j
 
 Newman resides at the [NPM registry][0] and on [GitHub][1].
 
-### Getting Started
+### 入门指南
 
 Newman is built on Node.js. To run Newman, make sure you have Node.js installed. Node.js can be downloaded and installed from [here][2] on Linux, Windows, and Mac OSX.
 

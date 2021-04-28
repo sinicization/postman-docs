@@ -54,7 +54,7 @@ To get the latest version of the Postman desktop app, visit the [download page]
     * [Migrating to the native app](#migrating-to-the-native-app)
 * [Using Postman behind a firewall](#using-postman-behind-a-firewall)
 * [Troubleshooting your Postman installation](#troubleshooting-your-postman-installation)
-* [Next steps](#next-steps)
+* [下一步](#next-steps)
 
 > Note that the Postman team only tests, fixes bugs, and provides support for the app on Mac, Windows, Linux, and the web.
 
@@ -209,6 +209,6 @@ Open the DevTools using __View__ &gt; __Developer__ &gt; __Show DevTools (Curren
 
 If you are using Postman for Linux, and installed the app via the Ubuntu Software Center or Snap Store, you may not see a __Check for updates__ button. This is because the updates are handled by the store, which should automatically update Postman on a regular cadence. If you are on Postman version 6, you will have to migrate to Postman 8 and change the Snap channel to get the latest updates. For more information see [Migrating to Postman 8](/docs/administration/upgrading-to-v8/).
 
-## Next steps
+## 下一步
 
 If you're having trouble with installation or updates, reach out for [Postman support](https://www.postman.com/support). If your installation is working as expected, [send your first request](/docs/getting-started/sending-the-first-request/)!

@@ -7,7 +7,7 @@ contextual_links:
   - type: section
     name: "Prerequisites"
   - type: link
-    name: "Grouping requests in collections"
+    name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"
   - type: section
     name: "Additional Resources"
@@ -48,7 +48,7 @@ One way to [share your Postman Collections](/docs/collaborating-in-postman/shari
 
 * [Creating a Run in Postman button](#creating-a-run-in-postman-button)
 * [Keeping your collections up to date](#keeping-your-collections-up-to-date)
-* [Next steps](#next-steps)
+* [下一步](#next-steps)
 
 ## Creating a Run in Postman button
 
@@ -106,6 +106,6 @@ When you make changes to a collection that's shared with a Run in Postman button
 
 The collection imported by users is a copy of the original, so updates made to the original are not updated in these copies. Users must import the latest collection to see updates made to the original collection.
 
-## Next steps
+## 下一步
 
 Read more about the [Run in Postman API](/docs/publishing-your-api/run-in-postman/run-button-API/) and learn how to add and update environments with your button.

@@ -29,9 +29,9 @@ const ContextualLinks = ({ links }) => (
             return (
               <div className="contextual-links__alert" role="alert">
                 <p>
-                  You are currently in develop mode.
-                  Dynamic blog posts will not be displayed locally.
-                  <a style={{ fontSize: 'inherit' }} href="https://github.com/postmanlabs/postman-docs/blob/develop/CONTRIBUTING.md#to-use-the-dynamic-blog-posts-feature" target="_blank" rel="noopener noreferrer">See Contributing doc for details</a>
+                  您目前处于开发模式.
+                  动态博客文章将不会在本地显示.
+                  <a style={{ fontSize: 'inherit' }} href="https://github.com/postmanlabs/postman-docs/blob/develop/CONTRIBUTING.md#to-use-the-dynamic-blog-posts-feature" target="_blank" rel="noopener noreferrer">有关详细信息，请参见贡献文档</a>
                   .
                 </p>
               </div>

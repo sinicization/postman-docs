@@ -168,6 +168,6 @@ You can access the updated API element by clicking **View Updated Collection** f
 
 > If you've been using this feature, the Postman team would like to hear from you! You can provide feedback on [the community forum](https://community.postman.com/t/user-feedback-updating-api-elements/13308).
 
-## Next steps
+## 下一步
 
 In addition to keeping your API elements in sync with a schema, you can [analyze and utilize reporting](/docs/designing-and-developing-your-api/view-and-analyze-api-reports/) to promote understanding of how your APIs are performing.

@@ -6,7 +6,7 @@ contextual_links:
   - type: section
     name: "Prerequisites"
   - type: link
-    name: "Grouping requests in collections"
+    name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"
   - type: section
     name: "Next Steps"
@@ -52,6 +52,6 @@ You can use the Runtime library if you need a detailed configuration of your req
 
 > Note that if you only need to run collections, you can use [Newman CLI](/docs/running-collections/using-newman-cli/command-line-integration-with-newman/).
 
-## Next steps
+## 下一步
 
 To get started with the Runtime library, check out the repo [README](https://github.com/postmanlabs/postman-runtime). You can incorporate Postman into your workflow with [CI using Postman API](/docs/running-collections/using-newman-cli/continuous-integration/).

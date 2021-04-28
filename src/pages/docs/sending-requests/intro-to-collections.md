@@ -1,5 +1,5 @@
 ---
-title: "Grouping requests in collections"
+title: "对集合中的请求进行分组"
 order: 23.1
 page_id: "intro_to_collections"
 contextual_links:

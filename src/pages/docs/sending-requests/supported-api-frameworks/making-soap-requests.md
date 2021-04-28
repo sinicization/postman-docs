@@ -78,6 +78,6 @@ Click __Send__ to make your call to the SOAP service. If your call is successful
 
 ![SOAP response data](https://assets.postman.com/postman-docs/soap-response-data.jpg)
 
-## Next steps
+## 下一步
 
 Check out the [SOAP template](https://explore.postman.com/templates/7275/public-soap-apis) for lots of sample requests you can try out in Postman.

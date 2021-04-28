@@ -6,7 +6,7 @@ contextual_links:
   - type: section
     name: "Prerequisites"
   - type: link
-    name: "Grouping requests in collections"
+    name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"
   - type: section
     name: "Additional Resources"
@@ -67,7 +67,7 @@ Postman Monitoring offers a number of configuration options when creating a moni
 
     * [Disabling SSL validation](#disabling-ssl-validation)
 
-* [Next steps](#next-steps)
+* [下一步](#next-steps)
 
 ## Creating a monitor
 
@@ -169,6 +169,6 @@ You can use **Don't follow redirects** to reject URL redirection for requests ru
 
 You can **Disable SSL validation** if you are using self-signed certificates to stop validations of SSL certificates. For more information, see [Certificates](/docs/sending-requests/certificates/). To troubleshoot, see [Troubleshooting Self-signed SSL Certificate Issues](https://blog.postman.com/self-signed-ssl-certificate-troubleshooting/).
 
-## Next steps
+## 下一步
 
 Learn how to set up [integrations](/docs/integrations/intro-integrations/) for your monitoring results, and [how to monitor your APIs and websites](/docs/designing-and-developing-your-api/monitoring-your-api/monitoring-apis-websites/).

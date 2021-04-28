@@ -38,7 +38,7 @@ You must be a [Postman team admin](/docs/collaborating-in-postman/roles-and-perm
 
 * [Deleting a group](#deleting-a-group)
 
-* [Next steps](#next-steps)
+* [下一步](#next-steps)
 
 ## Creating a group
 
@@ -117,6 +117,6 @@ Click **Delete** to delete the group, then **Delete Group** to confirm.
 
 <img alt="Delete group" src="https://assets.postman.com/postman-docs/user-groups-delete-group.jpg" width="400px"/>
 
-## Next steps
+## 下一步
 
 Learn more about [defining roles](/docs/collaborating-in-postman/roles-and-permissions/) in your team.

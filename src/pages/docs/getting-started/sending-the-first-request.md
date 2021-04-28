@@ -53,7 +53,7 @@ Click **Send**. You will see the JSON data response from the server in the lower
 
 [![Request response](https://assets.postman.com/postman-docs/first-request-sent-v8.jpg)](https://assets.postman.com/postman-docs/first-request-sent-v8.jpg)
 
-## Next steps
+## 下一步
 
 You can use the [Postman Echo API](https://docs.postman-echo.com/) to try out test requests.
 

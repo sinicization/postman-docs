@@ -7,7 +7,7 @@ warning: false
 
 ### Concepts and workflows:
 
-* Getting Started
+* 入门指南
 
     *   moving around in Postman - [Navigating Postman](/docs/postman/launching_postman/navigating_postman/)  
     *   making a request in Postman - [Requests](/docs/postman/sending_api_requests/requests/)

@@ -40,7 +40,7 @@ You can share Postman entities you are working on with collaborators, including 
 
 * [Sharing to workspaces](#sharing-to-workspaces)
 * [Sharing by link](#sharing-by-link)
-* [Next steps](#next-steps)
+* [下一步](#next-steps)
 
 > To share your work via workspaces you will need to be signed in to your [Postman account](/docs/getting-started/postman-account/).
 
@@ -94,7 +94,7 @@ The link is a snapshot of your collection, so click __Update Link__ and copy it 
 
 > You can manage a complete list of your active collection links from your [Postman profile](https://go.postman.co/me/collections?view=links).
 
-## Next steps
+## 下一步
 
 Team members can [request access](/docs/collaborating-in-postman/requesting-access-to-collections/) to collections, environments, and APIs.
 

@@ -9,7 +9,7 @@ contextual_links:
     name: "Sending requests"
     url: "/docs/sending-requests/requests/"
   - type: link
-    name: "Grouping requests in collections"
+    name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"
   - type: section
     name: "Additional Resources"
@@ -212,7 +212,7 @@ If you see `No matching requests` listed in the __Response__ column, this may me
 
 In the case of a service outage, you will get a 502/503/504 response. Please subscribe and check the Postman [status page](https://status.postman.com/) for updates if you encounter this.
 
-## Next steps
+## 下一步
 
 For more information about mock servers, see the following resources:
 

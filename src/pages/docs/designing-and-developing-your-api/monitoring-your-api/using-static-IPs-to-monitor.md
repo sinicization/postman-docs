@@ -10,7 +10,7 @@ contextual_links:
     name: "Intro to monitoring"
     url: "/docs/designing-and-developing-your-api/monitoring-your-api/intro-monitors/"
   - type: section
-    name: "Next steps"
+    name: "下一步"
   - type: link
     name: "Integrations for monitoring"
     url: "/docs/integrations/intro-integrations/"
@@ -30,7 +30,7 @@ The provided static IP addresses are fixed to their specified region and shared 
 
 * [Changing an existing monitor to run from a static IP address](#changing-an-existing-monitor-to-run-from-a-static-ip-address)
 
-* [Next steps](#next-steps)
+* [下一步](#next-steps)
 
 ## Whitelisting static IP addresses
 
@@ -55,6 +55,6 @@ Under **Regions**, opt to **Select regions manually**. Select your desired stati
 
 <img src="https://assets.postman.com/postman-docs/monitor-manually-select-region.jpg" height="500px" alt="Manually select regions"/>
 
-## Next steps
+## 下一步
 
 Learn how to set up [integrations](/docs/integrations/intro-integrations/) for your monitoring results.

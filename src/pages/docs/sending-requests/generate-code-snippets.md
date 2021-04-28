@@ -31,7 +31,7 @@ contextual_links:
   - type: section
     name: "Next Steps"
   - type: link
-    name: "Capturing HTTP requests"
+    name: "获取HTTP请求"
     url:  "/docs/sending-requests/capturing-request-data/capturing-http-requests/"
   - type: link
     name: "Interceptor"
@@ -49,7 +49,7 @@ You can generate code snippets in various languages and frameworks within Postma
 
 * [Supported languages/frameworks](#supported-languagesframeworks)
 
-* [Next steps](#next-steps)
+* [下一步](#next-steps)
 
 ## Generating code snippets in Postman
 
@@ -101,6 +101,6 @@ Postman currently supports the following options:
 
 > If your language isn't currently offered, or if there is a setting that you'd find useful, click **Contribute on GitHub** to contribute to [Postman's open source project](https://github.com/postmanlabs/postman-code-generators).
 
-## Next steps
+## 下一步
 
-Learn about [Capturing HTTP requests](/docs/sending-requests/capturing-request-data/capturing-http-requests/) and [Interceptor](/docs/sending-requests/capturing-request-data/interceptor/).
+Learn about [获取HTTP请求](/docs/sending-requests/capturing-request-data/capturing-http-requests/) and [Interceptor](/docs/sending-requests/capturing-request-data/interceptor/).

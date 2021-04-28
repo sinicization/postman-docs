@@ -6,9 +6,9 @@
 import React from 'react';
 
 const bardata = {
-  title: 'What do you see for the future of APIs? Take the 15-minute ',
+  title: '您对API的未来有什么看法? 花15分钟 ',
   cta: {
-    text: 'State of the API survey',
+    text: 'API调查现状',
     url: 'https://www.surveymonkey.com/r/2020-API-Survey',
   },
 };

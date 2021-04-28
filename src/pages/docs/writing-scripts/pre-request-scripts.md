@@ -12,7 +12,7 @@ contextual_links:
     name: "Intro to Scripts"
     url: "/docs/writing-scripts/intro-to-scripts/"
   - type: link
-    name: "Using variables"
+    name: "使用变量"
     url: "/docs/sending-requests/variables/"
   - type: section
     name: "Additional Resources"
@@ -74,6 +74,6 @@ Open __Pre-request Scripts__ to enter code that will run before every request in
 
 > You can define a pre-request script when you first create a collection or folder, or at any time after that.
 
-## Next steps
+## 下一步
 
 For more detail on what you can do in your pre-request scripts, check out [Test Scripts](/docs/writing-scripts/test-scripts/) and the [Postman Sandbox](/docs/writing-scripts/script-references/postman-sandbox-api-reference/).

@@ -31,6 +31,6 @@ Your new monitor will appear in the monitor overview. You can open the monitor o
 
 <img alt ="New monitor created" src="https://assets.postman.com/postman-docs/new-monitor-created-v8.jpg" height ="400px"/>
 
-## Next steps
+## 下一步
 
 Check out the [monitoring](/docs/designing-and-developing-your-api/monitoring-your-api/intro-monitors/) section for more on how you can leverage monitors in your API development pipeline.

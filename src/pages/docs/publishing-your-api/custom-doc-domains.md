@@ -82,6 +82,6 @@ When your domain is verified, you can use it to [publish your API documentation]
 
 [![publish collection](https://assets.postman.com/postman-docs/publish-collection-edit-1.jpg)](https://assets.postman.com/postman-docs/publish-collection-edit-1.jpg)
 
-## Next steps
+## 下一步
 
 You can make your documentation more discoverable by adding it to the [API Network](/docs/publishing-your-api/add-api-network/) or [Postman Templates](/docs/publishing-your-api/add-templates/).

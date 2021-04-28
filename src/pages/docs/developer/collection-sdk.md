@@ -6,7 +6,7 @@ contextual_links:
   - type: section
     name: "Prerequisites"
   - type: link
-    name: "Grouping requests in collections"
+    name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"
   - type: section
     name: "Next Steps"
@@ -41,7 +41,7 @@ console.log(myCollection.toJSON());
 
 The Collection SDK provides an interface for working with the data structures defined by the [Postman Collection Schema](https://schema.getpostman.com/). You can use the SDK methods to create and manipulate collection elements, define request detail, variables, authentication, and so on.
 
-## Next steps
+## 下一步
 
 Get started with the Collection SDK from the [project repo](https://github.com/postmanlabs/postman-collection), installing it and using the methods to build collections in a way that suits your development or testing project. You can also fork and contribute to the project, or create issues for any problems or feature requests.
 

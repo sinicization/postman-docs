@@ -6,7 +6,7 @@ contextual_links:
   - type: section
     name: "Prerequisites"
   - type: link
-    name: "Grouping requests in collections"
+    name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"
   - type: section
     name: "Additional Resources"
@@ -54,7 +54,7 @@ You can automatically generate documentation for your Postman APIs. You can shar
 * [Accessing doc views](#accessing-doc-views)
 * [Documentation environments](#documentation-environments)
 * [Versioning your docs](#versioning-your-docs)
-* [Next steps](#next-steps)
+* [下一步](#next-steps)
 
 ## Generating your documentation
 
@@ -178,6 +178,6 @@ When you publish docs to share publicly, you can select a version all viewers wi
 
 ![Publish Version](https://assets.postman.com/postman-docs/publish-version.jpg)
 
-## Next steps
+## 下一步
 
 Learn more about [authoring your docs](/docs/publishing-your-api/authoring-your-documentation/) and [publishing them](/docs/publishing-your-api/publishing-your-docs/).

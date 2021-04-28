@@ -97,6 +97,6 @@ Clicking the title of an API in the web listing of your team profile will open t
 
 ![API Listing](https://assets.postman.com/postman-docs/api-listing-link.jpg)
 
-## Next steps
+## 下一步
 
 Check out some [tips for making the most of your network listing](/docs/publishing-your-api/api-submission-guidelines/).

@@ -10,7 +10,7 @@ contextual_links:
     name: "Sending requests"
     url: "/docs/sending-requests/requests/"
   - type: link
-    name: "Grouping requests in collections"
+    name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"
   - type: section
     name: "Additional Resources"

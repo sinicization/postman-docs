@@ -6,7 +6,7 @@ contextual_links:
   - type: section
     name: "Prerequisites"
   - type: link
-    name: "Creating workspaces"
+    name: "创建工作区"
     url: "/docs/collaborating-in-postman/using-workspaces/creating-workspaces/"
   - type: section
     name: "Additional Resources"
@@ -39,7 +39,7 @@ You can [create workspaces](/docs/collaborating-in-postman/using-workspaces/crea
 * [Deleting a workspace](#deleting-a-workspace)
 * [Managing workspace members](#managing-workspace-members)
 * [Seeing who is in your workspace](#seeing-who-is-in-your-workspace)
-* [Next steps](#next-steps)
+* [下一步](#next-steps)
 
 ## Accessing workspaces
 
@@ -179,6 +179,6 @@ The active and inactive user lists are collapsible.
 
 <img alt="Active user list" src="https://assets.postman.com/postman-docs/collapse-member-list-v8.jpg" width="250px"/>
 
-## Next steps
+## 下一步
 
 You can view recent [activity](/docs/collaborating-in-postman/using-workspaces/changelog-and-restoring-collections/) within a workspace to keep track with developments on your projects.

@@ -293,6 +293,6 @@ If you encounter conflicts when you attempt to merge a forked collection, you wi
 
 The __Source__ will indicate the changes on your fork, with the __Destination__ representing the changes on the parent branch. Click __Use this__ next to the version you want to include when you merge. When conflicts are resolved, the __Pull changes__ button will be enabled and you can [pull updates](#pulling-updates).
 
-## Next steps
+## 下一步
 
 You can also use [version control on APIs](/docs/collaborating-in-postman/versioning-an-api/) you design and build in Postman.

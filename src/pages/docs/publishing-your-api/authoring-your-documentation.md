@@ -6,7 +6,7 @@ contextual_links:
   - type: section
     name: "Prerequisites"
   - type: link
-    name: "Grouping requests in collections"
+    name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"
   - type: link
     name: "Documenting your API"
@@ -40,7 +40,7 @@ You can include information in your API documentation using [Markdown](https://g
 * [Documentation links](#documentation-links)
 * [Using images in docs](#using-images-in-docs)
 * [Markdown demo collection](#markdown-demo-collection)
-* [Next steps](#next-steps)
+* [下一步](#next-steps)
 
 ## Documenting with descriptions
 
@@ -180,6 +180,6 @@ If you edit your docs on the web, (following the links from your collection in t
 
 <img src="https://assets.postman.com/postman-docs/inline-edit-options.jpg" alt="Inline Edit Options" width="500px"/>
 
-## Next steps
+## 下一步
 
 To make your documentation publicly available, check out [Publishing your docs](/docs/publishing-your-api/publishing-your-docs/).

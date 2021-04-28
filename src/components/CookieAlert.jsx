@@ -24,7 +24,7 @@ class CookieAlert extends React.Component {
       <div className="CookieWrapper">
         <CookieConsent
           location="bottom"
-          buttonText="Accept Cookies"
+          buttonText="接受Cookies"
           cookieName="gatsby-gdpr-google-analytics"
           style={{
             display: 'block',
@@ -52,9 +52,9 @@ class CookieAlert extends React.Component {
             document.getElementById('CookieDiv').remove();
           }}
         >
-          We use cookies to analyze traffic, track and improve your experience,
-          and assist in our marketing efforts. Our Cookie Notice provides more
-          information and explains how to amend your cookie settings.
+          我们使用Cookie来分析流量，跟踪并改善您的体验,
+          并协助我们进行市场推广。 我们的Cookie通知提供了更多信息
+          并说明如何修改您的Cookie设置.
           {' '}
           <strong><a href="https://www.postman.com/legal/cookies/" target="_blank" rel="noreferrer noopener" style={{ color: 'black', textDecoration: 'underline' }}>Learn more</a></strong>
         </CookieConsent>

@@ -1,9 +1,9 @@
 {
-  "sso": "Single sign-on (SSO)",
-  "monitoring-your-api": "Monitoring your API",
-  "designing-and-developing-your-api": "Designing and developing your API",
-  "publishing-your-api": "Publishing your API",
-  "developer": "Developer resources",
-  "supported-api-frameworks": "Supported API frameworks",
-  "using-newman-cli": "Using Newman CLI"
+  "sso": "单点登录 (SSO)",
+  "monitoring-your-api": "监测您的API",
+  "designing-and-developing-your-api": "设计和开发您的API",
+  "publishing-your-api": "发布您的API",
+  "developer": "开发人员资源",
+  "supported-api-frameworks": "支持的API框架",
+  "using-newman-cli": "使用Newman CLI"
 }

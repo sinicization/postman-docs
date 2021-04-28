@@ -7,7 +7,7 @@ contextual_links:
   - type: section
     name: "Prerequisites"
   - type: link
-    name: "Grouping requests in collections"
+    name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"
   - type: section
     name: "Next Steps"
@@ -29,7 +29,7 @@ You can back up your team's Postman Collections with Postman's Bitbucket integra
 
     * [Configuring a Bitbucket integration](#configuring-a-bitbucket-integration)
 
-* [Next steps](#next-steps)
+* [下一步](#next-steps)
 
 ## Backing up collections on Bitbucket
 
@@ -67,6 +67,6 @@ You can select a commit to view your stored collection in JSON format.
 
 ![Bitbucket collection](https://assets.postman.com/postman-docs/bitbucket-collection.jpg)
 
-## Next steps
+## 下一步
 
 Learn more about other Postman integrations, including [custom webhooks](/docs/integrations/webhooks/) and [Slack](/docs/integrations/available-integrations/slack/).

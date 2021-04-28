@@ -10,7 +10,7 @@ contextual_links:
     name: "Sending requests"
     url: "/docs/sending-requests/requests/"
   - type: link
-    name: "Using variables"
+    name: "使用变量"
     url: "/docs/sending-requests/variables/"
   - type: section
     name: "Additional Resources"

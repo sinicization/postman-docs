@@ -1,5 +1,5 @@
 ---
-title: "Creating workspaces"
+title: "创建工作区"
 order: 76
 page_id: "creating_workspaces"
 contextual_links:
@@ -116,6 +116,6 @@ Once you make a workspace public, all entities within that workspace become publ
 
 > You cannot convert a private workspace directly to public, but you can change a private workspace into a regular team workspace and then make it public.
 
-## Next steps
+## 下一步
 
 Check out some tips on how to [use and manage your workspaces](/docs/collaborating-in-postman/using-workspaces/managing-workspaces/). You can also use your workspace [activity feed](/docs/collaborating-in-postman/using-workspaces/changelog-and-restoring-collections/) to keep up to date with progress on the projects within it.

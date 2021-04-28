@@ -91,6 +91,6 @@ Clicking the title of a template will open its full documentation with a __Run i
 
 ![Template Screen](https://assets.postman.com/postman-docs/template-screen-b.jpg)
 
-## Next steps
+## 下一步
 
 Check out some [tips for making the most of your listing](/docs/publishing-your-api/api-submission-guidelines/).

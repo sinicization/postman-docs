@@ -56,7 +56,7 @@ contextual_links:
     name: "Test Examples"
     url: "/docs/writing-scripts/script-references/test-examples/"
   - type: link
-    name: "Using variables"
+    name: "使用变量"
     url: "/docs/sending-requests/variables/"
   - type: link
     name: "Postman Sandbox API reference"
@@ -76,7 +76,7 @@ To add tests to a request, open the request and enter your code in the Tests tab
 
 ![Request Test Tab](https://assets.postman.com/postman-docs/request-test-tab-v8.jpg)
 
-## Writing test scripts
+## 编写测试脚本
 
 Your test scripts can use dynamic variables, carry out test assertions on response data, and pass data between requests. In the __Tests__ tab for a request, you can enter your JavaScript manually or use the __Snippets__ you'll see to the right of the code editor.
 
@@ -164,7 +164,7 @@ When you [run a collection](/docs/running-collections/intro-to-collection-runs/)
 
 You can write scripts to control the order in which your requests run using [branching and looping](/docs/running-collections/building-workflows/).
 
-## Next steps
+## 下一步
 
 Check out some test script [examples](/docs/writing-scripts/script-references/test-examples/) and the [Postman Sandbox API reference](/docs/writing-scripts/script-references/postman-sandbox-api-reference/) for what you can do using the `pm` object.
 

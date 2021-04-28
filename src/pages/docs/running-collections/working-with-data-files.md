@@ -76,7 +76,7 @@ You may encounter errors when Postman attempts to read your data file during a c
 
 If the errors persist, [contact the Postman support team](https://support.getpostman.com/).
 
-## Next steps
+## 下一步
 
 To continue learning to leverage collection runs, check out the following resources:
 

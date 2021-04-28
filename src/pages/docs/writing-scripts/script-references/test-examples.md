@@ -1,5 +1,5 @@
 ---
-title: "Test script examples"
+title: "测试脚本示例"
 order: 45
 page_id: "test_examples"
 search_keyword: "pm.test, pm.expect, pm.response.json, pm.sendRequest, response.json"
@@ -10,7 +10,7 @@ contextual_links:
     name: "Writing tests"
     url: "/docs/writing-scripts/test-scripts/"
   - type: link
-    name: "Using variables"
+    name: "使用变量"
     url: "/docs/sending-requests/variables/"
   - type: section
     name: "Additional Resources"
@@ -606,6 +606,6 @@ tests["Status code name has string"] = responseCode.name.has("Created");
 tests["Successful POST request"] = responseCode.code === 201 || responseCode.code === 202;
 ```
 
-## Next steps
+## 下一步
 
 You can automate your test runs using the [collection runner](/docs/running-collections/intro-to-collection-runs/).

@@ -26,8 +26,8 @@ class NotFoundPage extends React.Component {
             <div className="col text-col">
               <div className="error-text">
                 <h1>404</h1>
-                <p>Oops! We can&apos;t find this page. It may have been moved or deleted.</p>
-                <a href="/docs/" className="btn btn__primary">Back to Docs</a>
+                <p>糟糕! 我们找不到此页面. 它可能已被移动或删除.</p>
+                <a href="/docs/" className="btn btn__primary">返回文档</a>
               </div>
             </div>
           </div>

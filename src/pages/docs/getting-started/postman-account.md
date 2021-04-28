@@ -188,6 +188,6 @@ Postman will send you an email with instructions for recovering access to your a
 
 > If you still have trouble logging into your Postman account please [contact support](https://support.getpostman.com/).
 
-## Next steps
+## 下一步
 
 Learn more about how Postman [syncs](/docs/getting-started/syncing/) your data.

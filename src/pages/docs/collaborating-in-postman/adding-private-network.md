@@ -42,7 +42,7 @@ If you're logged in, go directly to your team's [Private API Network](https://go
     * [Guidelines](#guidelines)
 * [Folders in Private API Network](#folders-in-private-api-network)
 * [Discovering and consuming private APIs](#discovering-and-consuming-private-apis)
-* [Next steps](#next-steps)
+* [下一步](#next-steps)
 
 ### Adding your APIs
 
@@ -126,7 +126,7 @@ You can also review version-level details on the right. Next to **Versions**, yo
 
 ![Next to versions](https://assets.postman.com/postman-docs/privNetworkEditNetworkListing.png)
 
-## Next steps
+## 下一步
 
 * [Writing API documentation](/docs/publishing-your-api/authoring-your-documentation/)
 * [Generating collections from the API](/docs/designing-and-developing-your-api/the-api-workflow/)

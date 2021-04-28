@@ -1,114 +1,114 @@
 ---
-title: "Introduction"
+title: "介绍"
 order: 1
 page_id: "introduction"
 warning: false
 contextual_links:
   - type: section
-    name: "Prerequisites"
+    name: "先决条件"
   - type: link
-    name: "Download and Install"
+    name: "下载并安装"
     url: "https://www.postman.com/downloads/"
   - type: link
-    name: "Installation and updates"
+    name: "安装和更新"
     url: "/docs/getting-started/installation-and-updates/"
   - type: section
-    name: "Additional Resources"
+    name: "其他资源"
   - type: subtitle
-    name: "Videos"
+    name: "视频"
   - type: link
-    name: "Postman intro series"
+    name: "Postman简介系列"
     url: "https://www.youtube.com/playlist?list=PLM-7VG-sgbtAgGq_pef5y_ruIUBPpUgNJ"
-  - type: link
-    name: "Intro to APIs"
+  - type: linkSi
+    name: "API简介"
     url:  "https://www.youtube.com/watch?v=iFMLyMgCUTs&list=PLM-7VG-sgbtBBnWb2Jc5kufgtWYEmiMAw"
   - type: subtitle
-    name: "Related Blog Posts"
+    name: "相关博客文章"
   - type: link
-    name: "First 5 things to try if you're new to Postman"
+    name: "如果您是Postman的新手,请尝试的5件事"
     url: "https://blog.postman.com/first-5-things-to-try-if-youre-new-to-postman/"
 
 ---
 
-Welcome to the Postman docs! This is the place to find official information on how to use Postman in your API projects.
+欢迎来到Postman文档! 在这里可以找到有关如何在API项目中使用Postman的官方信息.
 
 [![Postman](https://assets.postman.com/postman-docs/postman-app-default-v8.jpg)](https://assets.postman.com/postman-docs/postman-app-default-v8.jpg)
 
-If you're just starting to learn about APIs and Postman, you can use a variety of channels both in and outside Postman:
+如果您刚刚开始了解API和Postman, 那么您可以使用Postman内外的各种渠道:
 
-* [__Send your first request!__](/docs/getting-started/sending-the-first-request/)
-* Use the __Bootcamp__ to work through lessons inside Postman—open it at the bottom right of the app.
-* Explore [workspaces, collections, and more](https://www.postman.com/explore) that you can try out inside Postman, like the following:
-    * [**Learn by API**](https://www.postman.com/postman/workspace/published-postman-templates/collection/9065401-ff29b3be-af69-4442-91e0-c1158b620fc2?ctx=documentation)–walk through beginner API concepts.
-    * [**Postman Training**](https://bit.ly/postman-training)–Learn APIs 101, Testing and Automation, API Adoption, and API First, earning [Postman badges](https://bit.ly/postman-api-badges).
-    * [**Student Program**](https://bit.ly/student-workspace)–Take the Student Expert training, covering request configurations and test scripting.
+* [__发送您的第一个请求!__](/docs/getting-started/sending-the-first-request/)
+* 使用 __训练营(Bootcamp)__ 来完成Postman内的课程-在应用程序的右下角将其打开.
+* 探索 [工作区, 集合, 和更多](https://www.postman.com/explore) 你可以在Postman里面试试，如下所示:
+    * [**通过API学习**](https://www.postman.com/postman/workspace/published-postman-templates/collection/9065401-ff29b3be-af69-4442-91e0-c1158b620fc2?ctx=documentation)–浏览API初学者概念.
+    * [**Postman培训**](https://bit.ly/postman-training)–学习API 101，测试和自动化，API采用和API优先，获得 [Postman徽章](https://bit.ly/postman-api-badges).
+    * [**学生计划**](https://bit.ly/student-workspace)–参加学生专家培训，涵盖请求配置和测试脚本.
 
-## What are you here to learn about?
+## 您在这里了解什么?
 
-If you're learning to carry out a specific task or workflow in Postman, check out the following topics to find resources:
+如果您要学习在Postman中执行特定任务或工作流，请查看以下主题以查找资源:
 
-* [__Making requests__](#making-requests)
-* [__Testing APIs__](#testing-apis)
-* [__Building and managing APIs__](#building-and-managing-apis)
-* [__Publishing APIs__](#publishing-apis)
-* [__Collaborating with your team__](#collaborating-with-your-team)
-* [__Developing with Postman__](#developing-with-postman)
+* [__发出请求__](#发出请求)
+* [__测试API__](#测试api)
+* [__构建和管理API__](#构建和管理api)
+* [__发布API__](#发布api)
+* [__与您的团队合作__](#与您的团队合作)
+* [__与Postman一起开发__](#与postman一起开发)
 
-### Making requests
+### 发出请求
 
-If you're building a client app or just need to connect to an API, check out some Postman essentials:
+如果您正在构建客户端应用程序或仅需要连接到API，请查看一些Postman基本知识:
 
-* [Connecting to APIs](/docs/sending-requests/requests/)
-* [Authorizing requests](/docs/sending-requests/authorization/)
-* [Grouping requests in collections](/docs/sending-requests/intro-to-collections/)
-* [Using variables](/docs/sending-requests/variables/)
-* [Visualizing data](/docs/sending-requests/visualizer/)
+* [连接到API](/docs/sending-requests/requests/)
+* [授权请求](/docs/sending-requests/authorization/)
+* [对集合中的请求进行分组](/docs/sending-requests/intro-to-collections/)
+* [使用变量](/docs/sending-requests/variables/)
+* [可视化数据](/docs/sending-requests/visualizer/)
 
-### Testing APIs
+### 测试API
 
-If you're testing an API, you can use Postman to automate various parts of the process:
+如果要测试API，则可以使用Postman自动执行流程的各个部分:
 
-* [Writing test scripts](/docs/writing-scripts/test-scripts/)
-* [Automating workflows with the collection runner](/docs/running-collections/intro-to-collection-runs/)
-* [Capturing HTTP requests](/docs/sending-requests/capturing-request-data/capturing-http-requests/)
-* [Test script examples](/docs/writing-scripts/script-references/test-examples/)
+* [编写测试脚本](/docs/writing-scripts/test-scripts/)
+* [使用集合运行程序自动化工作流](/docs/running-collections/intro-to-collection-runs/)
+* [获取HTTP请求](/docs/sending-requests/capturing-request-data/capturing-http-requests/)
+* [测试脚本示例](/docs/writing-scripts/script-references/test-examples/)
 
-### Building and managing APIs
+### 构建和管理API
 
-If you're developing a back-end, working API-first, or need to monitor API performance, Postman utilities can streamline your workflows:
+如果您正在开发后端，首先使用API或需要监视API性能，则Postman实用程序可以简化您的工作流程:
 
-* [Defining an API from a schema](/docs/designing-and-developing-your-api/the-api-workflow/)
-* [Monitoring test runs](/docs/designing-and-developing-your-api/monitoring-your-api/intro-monitors/)
-* [Analyzing API performance](/docs/designing-and-developing-your-api/view-and-analyze-api-reports/)
-* [Mocking responses](/docs/designing-and-developing-your-api/mocking-data/setting-up-mock/)
+* [通过架构定义API](/docs/designing-and-developing-your-api/the-api-workflow/)
+* [监视测试运行](/docs/designing-and-developing-your-api/monitoring-your-api/intro-monitors/)
+* [分析API性能](/docs/designing-and-developing-your-api/view-and-analyze-api-reports/)
+* [模拟响应](/docs/designing-and-developing-your-api/mocking-data/setting-up-mock/)
 
-### Publishing APIs
+### 发布API
 
-If you're exposing an API for public use, Postman can support developer onboarding:
+如果你公开一个API供公众使用，Postman可以支持开发人员入职培训:
 
-* [Publishing documentation](/docs/publishing-your-api/documenting-your-api/)
-* [Building adoption](/docs/publishing-your-api/add-api-network/)
-* [Using Run in Postman](/docs/publishing-your-api/run-in-postman/introduction-run-button/)
+* [发布文档](/docs/publishing-your-api/documenting-your-api/)
+* [构建采用](/docs/publishing-your-api/add-api-network/)
+* [使用Postman中的运行](/docs/publishing-your-api/run-in-postman/introduction-run-button/)
 
-### Collaborating with your team
+### 与您的团队合作
 
-If you're using Postman in your company or team, check out these guides to maximize your collaboration:
+如果您在公司或团队中使用Postman，请查看这些指南以最大程度地提高协作能力:
 
-* [Collaborating in Postman](/docs/collaborating-in-postman/collaboration-intro/)
-* [Creating workspaces](/docs/collaborating-in-postman/using-workspaces/creating-workspaces/)
-* [Managing Postman for an organization](/docs/administration/managing-your-team/managing-your-team/)
-* [Onboarding your team](/docs/administration/onboarding-checklist/)
+* [与Postman合作](/docs/collaborating-in-postman/collaboration-intro/)
+* [创建工作区](/docs/collaborating-in-postman/using-workspaces/creating-workspaces/)
+* [管理Postman为一个组织](/docs/administration/managing-your-team/managing-your-team/)
+* [加入您的团队](/docs/administration/onboarding-checklist/)
 
-### Developing with Postman
+### 与Postman一起开发
 
-If you're integrating Postman with your CI/CD workflow or are developing with Postman APIs or libraries, check out these resources:
+如果您要将Postman与CI/CD工作流程集成在一起，或者正在使用Postman API或库进行开发，请查看这些资源:
 
-* [Integrating with a development pipeline](/docs/running-collections/using-newman-cli/command-line-integration-with-newman/)
-* [Developing with Postman utilities](/docs/developer/resources-intro/)
+* [与开发流程集成](/docs/running-collections/using-newman-cli/command-line-integration-with-newman/)
+* [使用Postman实用程序进行开发](/docs/developer/resources-intro/)
 * [Postman API](/docs/developer/intro-api/)
 
-## Providing feedback
+## 提供反馈
 
-Share your thoughts on the documentation and help the Postman team to improve it for yourself and other learners! To submit feedback, please [create an issue on the documentation GitHub repo](https://github.com/postmanlabs/postman-docs/issues) or post in the [community forum](https://community.postman.com/).
+分享您对文档的想法，并帮助Postman团队为您自己和其他学习者改进它! 要提交反馈, 请在 [GitHub存储库文档中创建问题](https://github.com/postmanlabs/postman-docs/issues) 或在发布在 [社区论坛](https://community.postman.com/).
 
-Help improve Postman and have an impact on [Postman's roadmap](https://trello.com/b/4N7PnHAz/postman-roadmap-for-developers) by sending your feedback directly to Postman's developer team. To submit feature requests, [create an issue on the Postman GitHub repo](https://github.com/postmanlabs/postman-app-support/issues).
+将您的反馈意见直接发送给Postman的开发团队，以帮助改进Postman并影响 [Postman的路线图](https://trello.com/b/4N7PnHAz/postman-roadmap-for-developers). 要提交功能请求, 请在[Postman GitHub存储库上创建一个问题](https://github.com/postmanlabs/postman-app-support/issues).

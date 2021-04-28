@@ -10,12 +10,12 @@ contextual_links:
     name: "Scripting in Postman"
     url: "/docs/writing-scripts/intro-to-scripts/"
   - type: link
-    name: "Test script examples"
+    name: "测试脚本示例"
     url: "/docs/writing-scripts/script-references/test-examples/"
   - type: section
     name: "Next Steps"
   - type: link
-    name: "Developing with Postman utilities"
+    name: "使用Postman实用程序进行开发"
     url: "/docs/developer/resources-intro/"
 
 warning: false
@@ -779,6 +779,6 @@ A number of NodeJS modules are also available to use in the sandbox:
 
 In order to use a library, call the `require` method, pass the module name as a parameter, and assign the return object from the method to a variable.
 
-## Next steps
+## 下一步
 
 You can use tests to build Postman into your development projects in a variety of ways using [Postman utilities](/docs/developer/resources-intro/).

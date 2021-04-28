@@ -1,5 +1,5 @@
 ---
-title: "Using variables"
+title: "使用变量"
 order: 24
 page_id: "variables"
 search_keyword: "collectionVariables, iterationData, collectionVariables.set, collectionVariables.get, JSON.stringify, JSON.parse, base_url, pm.globals.set, globals.set, pm.collectionVariables.set, collectionVariables.set, pm.environment.set, environment.set, pm.variables.get, variables.get, pm.globals.get, globals.get, pm.collectionVariables.get, collectionVariables.get, pm.environment.get, environment.get, pm.iterationData.get, iterationData.get" 
@@ -33,7 +33,7 @@ contextual_links:
   - type: section
     name: "Next Steps"
   - type: link
-    name: "Grouping requests in collections"
+    name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"
   - type: link
     name: "Intro to scripts"
@@ -69,7 +69,7 @@ Read on for more detail on how you can use variables in Postman.
 * [Logging variables](#logging-variables)
 * [Using data variables](#using-data-variables)
 * [Using dynamic variables](#using-dynamic-variables)
-* [Next steps](#next-steps)
+* [下一步](#next-steps)
 
 ## Understanding variables
 
@@ -350,6 +350,6 @@ See the [Dynamic Variables](/docs/writing-scripts/script-references/variables-li
 
 ![Dynamic Variable](https://assets.postman.com/postman-docs/dynamic-var.jpg)
 
-## Next steps
+## 下一步
 
-For an overview of how you can manage and share variable data sets, see [Managing environments](/docs/sending-requests/managing-environments/). Check out [Intro to scripts](/docs/writing-scripts/intro-to-scripts/) for more on using variables in your request scripting, and [Grouping requests in collections](/docs/sending-requests/intro-to-collections/) for more on how you can use data between requests.
+For an overview of how you can manage and share variable data sets, see [Managing environments](/docs/sending-requests/managing-environments/). Check out [Intro to scripts](/docs/writing-scripts/intro-to-scripts/) for more on using variables in your request scripting, and [对集合中的请求进行分组](/docs/sending-requests/intro-to-collections/) for more on how you can use data between requests.

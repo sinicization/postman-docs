@@ -6,7 +6,7 @@ contextual_links:
   - type: section
     name: "Prerequisites"
   - type: link
-    name: "Grouping requests in collections"
+    name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"
   - type: section
     name: "Additional Resources"
@@ -46,7 +46,7 @@ You can view and comment on private documentation shared with you. Documentation
 * [Viewing private documentation](#viewing-private-documentation)
     * [Commenting on documentation](#commenting-on-documentation)
 * [Viewing public documentation](#viewing-public-documentation)
-* [Next steps](#next-steps)
+* [下一步](#next-steps)
 
 ## Viewing private documentation
 
@@ -100,6 +100,6 @@ For each request, you will see a description of the request, the method and URL,
 
 ![Public Documentation](https://assets.postman.com/postman-docs/Everything+displayed+in+docs.jpg)
 
-## Next steps
+## 下一步
 
 Learn more about [collaborating with your team](/docs/collaborating-in-postman/collaboration-intro/) in Postman.

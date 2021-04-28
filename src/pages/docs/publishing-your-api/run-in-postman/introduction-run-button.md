@@ -7,7 +7,7 @@ contextual_links:
     - type: section
       name: "Prerequisites"
     - type: link
-      name: "Grouping requests in collections"
+      name: "对集合中的请求进行分组"
       url: "/docs/sending-requests/intro-to-collections/"
     - type: section
       name: "Additional resources"
@@ -20,7 +20,7 @@ contextual_links:
       name: "WTD: Postman for API development and docs"
       url: "https://podcast.writethedocs.org/2018/01/22/postman-for-api-docs-write-the-docs/"
     - type: section
-      name: "Next steps"
+      name: "下一步"
     - type: link
       name: "Creating the Run in Postman button"
       url: "/docs/publishing-your-api/run-in-postman/creating-run-button/"
@@ -45,6 +45,6 @@ This collection imported by users is a copy of the original, so updates made to 
 
 > **Security check**: Do not leak sensitive data like access keys in your collection or environment. Read more about [securely using API keys in Postman](https://blog.postman.com/how-to-use-api-keys/).
 
-## Next steps
+## 下一步
 
 Create a [Run in Postman button](/docs/publishing-your-api/run-in-postman/creating-run-button/).

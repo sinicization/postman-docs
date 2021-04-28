@@ -57,7 +57,7 @@ Visualizers let you present your response data in ways that help to make sense o
 * [Try it out](#try-it-out)
 * [Visualizer API](#visualizer-api)
 * [Debugging visualizers](#debugging-visualizers)
-* [Next steps](#next-steps)
+* [下一步](#next-steps)
 
 ## Visualizing response data
 
@@ -174,6 +174,6 @@ You can debug a visualization in Postman by right-clicking in the __Visualize__ 
 
 [![Debugging Visualizers in Postman](https://assets.postman.com/postman-docs/inspect-vis-v8.jpg)](https://assets.postman.com/postman-docs/inspect-vis-v8.jpg)
 
-## Next steps
+## 下一步
 
 You can try experimenting with visualizations using the collections [listed above](#try-it-out) as a starting point and tweak the code to get the results you need for your own data. For more on how Postman provides access to your response data inside scripts, check out the [Test Examples](/docs/writing-scripts/script-references/test-examples/).

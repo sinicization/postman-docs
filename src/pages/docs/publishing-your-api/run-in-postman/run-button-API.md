@@ -39,7 +39,7 @@ _pm('env.create', 'Spotify', {
 
 * [Using multiple buttons](#using-multiple-buttons-with-separate-environments)
 
-* [Next steps](#next-steps)
+* [下一步](#next-steps)
 
 ## Creating a new environment
 
@@ -150,6 +150,6 @@ var runButtons = Array.prototype.slice.call(document.getElementsByClassName('pos
 var runButtonIndex = $('postman-run-button').index(elem);
 ```
 
-## Next steps
+## 下一步
 
 Learn how to [create API documentation](/docs/publishing-your-api/documenting-your-api/) from Postman, and then add your documentation to Postman's [API Network](/docs/publishing-your-api/add-api-network/).

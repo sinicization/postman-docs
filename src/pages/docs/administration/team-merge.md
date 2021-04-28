@@ -32,7 +32,7 @@ Team migration can occur in different ways depending on your needs and preferred
     * [Performing centralized migration](#performing-centralized-migration)
     * [Performing distributed migration](#performing-distributed-migration)
 * [Migration FAQs](#migration-faqs)
-* [Next steps](#next-steps)
+* [下一步](#next-steps)
 
 ## Who can perform team migration
 
@@ -125,7 +125,7 @@ See [performing distributed migration](#performing-distributed-migration) to cho
 As long as you are synced to the Postman cloud, the organizational structure of your personal workspace (collections and environments) will be carried over into the new team. Anything that has been shared to a team workspace will remain with the old team after you leave, meaning you will lose access to it. If you experience any issues when joining a new team [contact Postman support](https://www.postman.com/support/).
 
 * **Can I be on two teams at once?**
-No, each account can be on one Postman team at a time. Multi-team collaboration and guest accounts are on [Postman's roadmap](https://trello.com/b/4N7PnHAz/postman-roadmap-for-developers).
+No, each account can be on one Postman team at a time. Multi-team collaboration and guest accounts are on [Postman的路线图](https://trello.com/b/4N7PnHAz/postman-roadmap-for-developers).
 
 * **What happens to published documentation from my previous team?**
 Your previous links will break since the old team is disabled. New documentation URLs will need to be generated when collections are [republished from your new team pages](/docs/publishing-your-api/publishing-your-docs/). If you are [publishing to a custom domain](/docs/publishing-your-api/custom-doc-domains/), unpublish and remove the domain from your original team in order to add it to your new team and republish.

@@ -161,7 +161,7 @@ A tab may indicate a conflict if you or a collaborator changes it in another tab
 
 > You can toggle whether Postman opens requests in new tabs or not in the __Settings__, as well as configuring whether Postman prompts you when closing tabs with unsaved changes.
 
-## Next steps
+## 下一步
 
 The best way to get to know Postman is by firing up the __Bootcamp__ on the bottom-right and working through the lessons.
 

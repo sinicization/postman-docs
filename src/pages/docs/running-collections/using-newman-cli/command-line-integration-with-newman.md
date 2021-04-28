@@ -43,15 +43,15 @@ Newman resides in the [NPM registry](https://www.npmjs.com/package/newman) and
 
 We'll cover these topics to learn command line integration with Newman:
 
-* [Getting Started](#getting-started)
-* [Options](#options)
-* [Example collection with failing tests](#example-collection-with-failing-tests)
-* [Using Newman with CI/CD](#using-newman-with-cicd)
-* [File uploads](#file-uploads)
-* [Library](#library)
-* [Custom reporters](#custom-reporters)
+* [入门指南](#getting-started)
+* [选项](#options)
+* [测试失败的示例集合](#example-collection-with-failing-tests)
+* [在CI/CD中使用Newman](#using-newman-with-cicd)
+* [文件上传](#file-uploads)
+* [图书馆](#library)
+* [定制记者](#custom-reporters)
 
-## Getting Started
+## 入门指南
 
 Newman is built on Node.js. To run Newman, make sure you have Node.js installed.
 

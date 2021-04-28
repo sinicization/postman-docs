@@ -41,7 +41,7 @@ In Postman you can assign roles and permissions to provide access control.
 
 * [Roles FAQ](#roles-faq)
 
-* [Next steps](#next-steps)
+* [下一步](#next-steps)
 
 ## Roles in Postman
 
@@ -158,7 +158,7 @@ The following roles control access at a collection level:
 
 ## Managing roles and permissions
 
-To manage team roles, see [Managing roles](/docs/administration/managing-your-team/managing-your-team/).
+To manage team roles, see [管理角色](/docs/administration/managing-your-team/managing-your-team/).
 
 ## Roles FAQ
 
@@ -178,6 +178,6 @@ You can remove a former colleague from your Postman team via your [dashboard](ht
 A support-only account is one that holds an admin and/or billing role, but is not a developer.
 Teams can have up to two support-only accounts.
 
-## Next steps
+## 下一步
 
 Learn more about [Working with your team](/docs/collaborating-in-postman/collaboration-intro/).

@@ -40,7 +40,7 @@ Once your plan configuration is in place you can enter your payment details. __Y
 * After payment, you'll see a confirmation with the transaction ID. Use this ID for any communication with Postman.
 * The designated admin will receive an activation link where you can begin inviting your team members. Billing-only users will receive a link to join the team in the billing role.
 
-## Next steps
+## 下一步
 
 You can manage your account in your [billing dashboard](http://go.postman.co/billing), for example if you need to [change or upgrade](/docs/administration/billing/#team-and-plan-changes) your plan.
 

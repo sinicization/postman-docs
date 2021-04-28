@@ -6,7 +6,7 @@ contextual_links:
   - type: section
     name: "Prerequisites"
   - type: link
-    name: "Grouping requests in collections"
+    name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"
   - type: link
     name: "Sharing your work"
@@ -36,6 +36,6 @@ Make your selections and click __Resolve Conflicts__ to update both your local v
 
 If you update the conflict selections and want to revert to the original selections, which will be to use the server changes by default, click __Reset__.
 
-## Next steps
+## 下一步
 
 You can use [version control](/docs/collaborating-in-postman/version-control-for-collections/) on your collections to manage changes within a team, for example by creating forks and opening pull requests to merge your changes.

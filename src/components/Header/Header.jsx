@@ -56,7 +56,7 @@ const LoginCheck = (props) => {
           });
         }}
       >
-        Sign In
+        登录
       </a>
     );
   }
@@ -178,7 +178,7 @@ class HeaderComponent extends React.Component {
                   submit={<></>}
                   reset={<></>}
                   translations={{
-                    placeholder: 'Search Postman Docs',
+                    placeholder: '搜索Postman文档',
                   }}
                   onKeyUp={(event) => {
                     this.setState({

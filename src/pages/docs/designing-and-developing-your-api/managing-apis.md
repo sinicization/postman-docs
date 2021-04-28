@@ -88,7 +88,7 @@ You will see a list of events on the schema and can click to expand each entry f
 
 You can use the __Restore__ link to revert the schema to a previous state.
 
-## Next steps
+## 下一步
 
 For more info on working with the API Builder in Postman, check out the following resources:
 

@@ -1,5 +1,5 @@
 ---
-title: "Capturing HTTP requests"
+title: "获取HTTP请求"
 order: 32
 page_id: "capturing_http_requests"
 contextual_links:

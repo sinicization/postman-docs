@@ -10,7 +10,7 @@ contextual_links:
     name: "Working with your team"
     url:  "/docs/collaborating-in-postman/collaboration-intro/"
   - type: link
-    name: "Creating workspaces"
+    name: "创建工作区"
     url: "/docs/collaborating-in-postman/using-workspaces/creating-workspaces/"
 ---
 

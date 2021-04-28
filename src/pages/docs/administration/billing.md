@@ -59,7 +59,7 @@ Postman provides a self-serve billing process. Refer to the following sections f
 
         * [Billing for auto-flex](#billing-for-auto-flex)
 
-* [Next steps](#next-steps)
+* [下一步](#next-steps)
 
 ## Billing dashboard
 
@@ -233,7 +233,7 @@ You can view your current number of additional team members, how much you will b
 
 > [Contact Postman support](https://www.postman.com/support/) with any questions regarding auto-flex.
 
-## Next steps
+## 下一步
 
 For information on team management, see [Managing your team](/docs/administration/managing-your-team/managing-your-team/).
 

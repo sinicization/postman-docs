@@ -6,7 +6,7 @@ contextual_links:
   - type: section
     name: "Prerequisites"
   - type: link
-    name: "Grouping requests in collections"
+    name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"
   - type: section
     name: "Additional Resources"
@@ -67,7 +67,7 @@ Postman Monitoring helps you to stay up to date on the health and performance of
 
     * [Accessible APIs](#accessible-apis)
 
-* [Next steps](#next-steps)
+* [下一步](#next-steps)
 
 ## What is monitoring?
 
@@ -164,6 +164,6 @@ There are a few differences between running collections in a Postman monitor and
 
 * Monitors require all URLs to be publicly available on the internet as they run in the Postman cloud. A monitor cannot directly access your localhost or run requests behind a firewall. However, to overcome this issue, static IPs are available on [Postman Business and Enterprise plans](https://www.postman.com/pricing).
 
-## Next steps
+## 下一步
 
 Learn how to [set up a monitor](/docs/designing-and-developing-your-api/monitoring-your-api/setting-up-monitor/) and check out [monitoring APIs and websites](/docs/designing-and-developing-your-api/monitoring-your-api/monitoring-apis-websites/) to get started.

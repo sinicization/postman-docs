@@ -31,7 +31,7 @@ You can upload your API schemas directly to AWS API Gateway from Postman with th
 
     * [Configuring an AWS API Gateway integration](#configuring-an-aws-api-gateway-integration)
 
-* [Next steps](#next-steps)
+* [下一步](#next-steps)
 
 ## Uploading API schemas to AWS API Gateway
 
@@ -69,6 +69,6 @@ This integration will be triggered whenever the configured Postman schema is upd
 
 > Note that if the API or specific API version is deleted, its configured integration will also be deleted.
 
-## Next steps
+## 下一步
 
 Learn more about other Postman integrations, including [custom webhooks](/docs/integrations/webhooks/) and [Slack](/docs/integrations/available-integrations/slack/).

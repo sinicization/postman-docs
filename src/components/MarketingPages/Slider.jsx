@@ -11,20 +11,20 @@ import enterUrlVideo from '../../assets/enter-url.mp4';
 
 const Slider = () => (
   <section id="send-a-request">
-    <h2 className="send-a-request__header">1. Send a Request</h2>
+    <h2 className="send-a-request__header">1. 发送一个请求</h2>
     <Tabs forceRenderTabPanel>
       <TabList>
         <Tab>
           <span className="number">1</span>
-          Choose your verb
+          选择你的动词
         </Tab>
         <Tab>
           <span className="number">2</span>
-          Enter a URL
+          输入一个URL
         </Tab>
         <Tab>
           <span className="number">3</span>
-          Send a request
+          发送一个请求
         </Tab>
       </TabList>
 
@@ -38,12 +38,12 @@ const Slider = () => (
           />
           <div className="send-a-request-content-text">
             <h3 className="send-a-request-content-text-title">
-              Choose your verb
+              选择你的动词
             </h3>
             <div className="send-a-request-content-text-description">
               <p>
-                In this example, we&apos;re making a GET request to retrieve data
-                from the server.
+                在此示例中,我们将发出一个GET请求来从服务器
+                检索数据.
               </p>
             </div>
           </div>
@@ -58,15 +58,15 @@ const Slider = () => (
             loop
           />
           <div className="send-a-request-content-text">
-            <h3 className="send-a-request-content-text-title">Enter a URL</h3>
+            <h3 className="send-a-request-content-text-title">输入一个URL</h3>
             <div className="send-a-request-content-text-description">
-              <p>Now let’s send our first API request!</p>
+              <p>现在,让我们发送第一个API请求!</p>
               <p>
-                Enter
+                输入
                 {' '}
                 <span>postman-echo.com/get</span>
                 {' '}
-                into the URL field.
+                在URL字段中.
                 {' '}
               </p>
             </div>
@@ -83,12 +83,12 @@ const Slider = () => (
           />
           <div className="send-a-request-content-text">
             <h3 className="send-a-request-content-text-title">
-              Send a request
+              发送一个请求
             </h3>
             <div className="send-a-request-content-text-description">
               <p>
-                Click the &quot;Send&quot; button and inspect the returned response
-                body.
+                点击&quot;发送&quot;按钮并检查返回的响应
+                正文.
               </p>
             </div>
           </div>

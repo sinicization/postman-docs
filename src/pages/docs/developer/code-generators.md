@@ -78,6 +78,6 @@ var codegen = require('postman-code-generators'),
 
 Since the code generator module is an open source project, if there is a language or framework you would like to be able to generate client code for, but that isn't currently provided, you can add it yourself by [contributing to the project](https://github.com/postmanlabs/postman-code-generators/blob/master/CONTRIBUTING.md). This allows people to access your contribution not only by using the code utility, but also in the Postman app itself.
 
-## Next steps
+## 下一步
 
 To get started using the code generator module, [check out the instructions for installation and usage in the project repo on GitHub](https://github.com/postmanlabs/postman-code-generators). If you're using Postman to work with client applications, you might also find it useful to [capture request data](/docs/sending-requests/capturing-request-data/capturing-http-requests/).
