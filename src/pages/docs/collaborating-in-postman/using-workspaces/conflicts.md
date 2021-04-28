@@ -14,7 +14,7 @@ contextual_links:
   - type: section
     name: "下一步"
   - type: link
-    name: "Troubleshooting requests"
+    name: "请求故障排除"
     url: "/docs/sending-requests/troubleshooting-api-requests/"
 
 warning: false

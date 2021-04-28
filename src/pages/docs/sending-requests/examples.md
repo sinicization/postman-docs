@@ -6,7 +6,7 @@ contextual_links:
   - type: section
     name: "先决条件"
   - type: link
-    name: "Sending requests"
+    name: "发送请求"
     url: "/docs/sending-requests/requests/"
   - type: section
     name: "其他资源"
@@ -23,10 +23,10 @@ contextual_links:
   - type: section
     name: "下一步"
   - type: link
-    name: "Documenting your API"
+    name: "记录您的API"
     url: "/docs/publishing-your-api/documenting-your-api/"
   - type: link
-    name: "Setting up mock servers"
+    name: "设置模拟服务器"
     url: "/docs/designing-and-developing-your-api/mocking-data/setting-up-mock/"
 
 warning: false

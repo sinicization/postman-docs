@@ -1,12 +1,12 @@
 ---
-title: "Setting up mock servers"
+title: "设置模拟服务器"
 order: 84
 page_id: "setting_up_mock"
 contextual_links:
   - type: section
     name: "先决条件"
   - type: link
-    name: "Sending requests"
+    name: "发送请求"
     url: "/docs/sending-requests/requests/"
   - type: link
     name: "对集合中的请求进行分组"
@@ -16,26 +16,26 @@ contextual_links:
   - type: subtitle
     name: "视频"
   - type: link
-    name: "Fake APIs for Real Developers"
+    name: "面向真实开发人员的虚假API"
     url: "https://www.youtube.com/watch?v=fgtDZPOPzLU"
   - type: subtitle
     name: "相关博客文章"
   - type: link
-    name: "Mock responses in Postman by using Examples"
+    name: "在Postman模拟响应使用的示例"
     url: "https://blog.postman.com/mock-responses-in-postman-by-using-examples/"
   - type: link
-    name: "Simulate a back end with Postman’s mock service"
+    name: "使用Postman的模拟服务模拟后端"
     url: "https://blog.postman.com/simulate-a-back-end-with-postmans-mock-service/"
   - type: link
-    name: "Team collaboration with Postman mock servers"
+    name: "与Postman模拟服务器的团队协作"
     url: "https://blog.postman.com/team-collaboration-with-postman-mock-servers/"
   - type: link
-    name: "Introducing Postman Mock Call Logs"
+    name: "Postman模拟调用日志简介"
     url:  "https://blog.postman.com/introducing-postman-mock-call-logs/"
   - type: section
     name: "下一步"
   - type: link
-    name: "Test scripts"
+    name: "测试脚本"
     url: "/docs/writing-scripts/test-scripts/"
 
 warning: false
@@ -216,6 +216,6 @@ In the case of a service outage, you will get a 502/503/504 response. Please sub
 
 For more information about mock servers, see the following resources:
 
-* [Mocking with examples](/docs/designing-and-developing-your-api/mocking-data/mocking-with-examples/)
+* [模拟示例](/docs/designing-and-developing-your-api/mocking-data/mocking-with-examples/)
 * [Mocking with the Postman API](/docs/designing-and-developing-your-api/mocking-data/mock-with-api/)
 * [Matching algorithm](/docs/designing-and-developing-your-api/mocking-data/matching-algorithm/)

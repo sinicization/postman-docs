@@ -263,5 +263,5 @@ Shared environments allow you to leverage collaboration within Postman. Check ou
 
 * [与Postman合作](/docs/collaborating-in-postman/collaboration-intro/)
 * [Intro to workspaces](/docs/collaborating-in-postman/using-workspaces/creating-workspaces/)
-* [Managing and sharing APIs](/docs/designing-and-developing-your-api/managing-apis/)
+* [管理和共享API](/docs/designing-and-developing-your-api/managing-apis/)
 * [Version control for collections](/docs/collaborating-in-postman/version-control-for-collections/)

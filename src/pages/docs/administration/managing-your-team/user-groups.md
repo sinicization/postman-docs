@@ -99,7 +99,7 @@ For collections, APIs, environments, mock servers, and monitors, navigate to the
 
 Use the search bar to add the group, then give the group **Editor** or **Viewer** permissions with the dropdown. You can also remove a group by selecting the **X** to the right of it in the list. Click **Save** to confirm changes.
 
-> See [Defining roles](/docs/collaborating-in-postman/roles-and-permissions/) for more information on access control at a team, workspace, API, and collection level.
+> See [定义角色](/docs/collaborating-in-postman/roles-and-permissions/) for more information on access control at a team, workspace, API, and collection level.
 
 ### Editing details for a group
 

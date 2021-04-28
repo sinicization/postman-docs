@@ -33,7 +33,7 @@ contextual_links:
     name: "Generate Spotify playlists using a Postman collection"
     url: "https://blog.postman.com/generate-spotify-playlists-using-a-postman-collection/"
   - type: link
-    name: "Keep it DRY with collection and folder elements"
+    name: "使其与集合和文件夹元素保持DRY(抽象化)"
     url: "https://blog.postman.com/keep-it-dry-with-collection-and-folder-elements/"
   - type: link
     name: "Postman makes authorization stronger and easier"

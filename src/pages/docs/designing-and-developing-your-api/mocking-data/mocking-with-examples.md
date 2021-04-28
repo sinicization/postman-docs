@@ -1,5 +1,5 @@
 ---
-title: "Mocking with examples"
+title: "模拟示例"
 order: 85
 page_id: "mocking_with_examples"
 search_keyword: "x-mock-response-code"
@@ -7,7 +7,7 @@ contextual_links:
   - type: section
     name: "先决条件"
   - type: link
-    name: "Sending requests"
+    name: "发送请求"
     url: "/docs/sending-requests/requests/"
   - type: link
     name: "对集合中的请求进行分组"
@@ -17,17 +17,17 @@ contextual_links:
   - type: subtitle
     name: "视频"
   - type: link
-    name: "Fake APIs for Real Developers"
+    name: "面向真实开发人员的虚假API"
     url: "https://www.youtube.com/watch?v=fgtDZPOPzLU"
   - type: subtitle
     name: "相关博客文章"
   - type: link
-    name: "Mock responses in Postman by using Examples"
+    name: "在Postman模拟响应使用的示例"
     url: "https://blog.postman.com/mock-responses-in-postman-by-using-examples/"
   - type: section
     name: "下一步"
   - type: link
-    name: "Test scripts"
+    name: "测试脚本"
     url: "/docs/writing-scripts/test-scripts/"
 
 warning: false
@@ -82,7 +82,7 @@ Enter a name for this example.  The request method, URL, and status code are cru
 
 [![see example](https://assets.postman.com/postman-docs/WS-anuhyaMock7.png)](https://assets.postman.com/postman-docs/WS-anuhyaMock7.png)
 
-## Mocking with examples
+## 模拟示例
 
 In the previous steps, you prepared the collection, request, and example response necessary for us to get started with mocking. So let’s continue with the next steps.
 

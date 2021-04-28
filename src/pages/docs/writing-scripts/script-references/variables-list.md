@@ -1,5 +1,5 @@
 ---
-title: "Dynamic variables"
+title: "动态变量"
 page_id: "variables_list"
 order: 46
 contextual_links:
@@ -8,7 +8,7 @@ contextual_links:
   - type: subtitle
     name: "视频"
   - type: link
-    name: "Dynamic Variables | Postman Level Up"
+    name: "动态变量 | Postman升级"
     url: "https://www.youtube.com/watch?v=vW030tA17ng&list=PLM-7VG-sgbtC5tNXxd28cmePSa9BYwqeU&index=1"
 warning: false
 

@@ -1,5 +1,5 @@
 ---
-title: "Your Private API Network"
+title: "您的私有API网络"
 order: 73.2
 page_id: "adding_private_network"
 warning: false
@@ -14,15 +14,15 @@ contextual_links:
   - type: subtitle
     name: "视频"
   - type: link
-    name: "Team collaboration with Postman"
+    name: "与Postman的团队合作"
     url: "https://www.youtube.com/watch?v=8tLvvQ-3Nx0"
   - type: section
     name: "下一步"
   - type: link
-    name: "Documenting your API"
+    name: "记录您的API"
     url: "/docs/publishing-your-api/documenting-your-api/"
   - type: link
-    name: "Generating collections from the API"
+    name: "从API生成集合"
     url: "/docs/designing-and-developing-your-api/the-api-workflow/"
 
 ---
@@ -129,4 +129,4 @@ You can also review version-level details on the right. Next to **Versions**, yo
 ## 下一步
 
 * [Writing API documentation](/docs/publishing-your-api/authoring-your-documentation/)
-* [Generating collections from the API](/docs/designing-and-developing-your-api/the-api-workflow/)
+* [从API生成集合](/docs/designing-and-developing-your-api/the-api-workflow/)

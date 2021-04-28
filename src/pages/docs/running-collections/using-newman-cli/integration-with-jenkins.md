@@ -26,7 +26,7 @@ contextual_links:
   - type: section
     name: "下一步"
   - type: link
-    name: "Intro to the Postman API"
+    name: "PostmanAPI简介"
     url: "/docs/developer/intro-api/"
 
 warning: false

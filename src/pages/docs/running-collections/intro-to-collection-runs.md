@@ -7,7 +7,7 @@ contextual_links:
   - type: section
     name: "先决条件"
   - type: link
-    name: "Sending requests"
+    name: "发送请求"
     url: "/docs/sending-requests/requests/"
   - type: link
     name: "对集合中的请求进行分组"

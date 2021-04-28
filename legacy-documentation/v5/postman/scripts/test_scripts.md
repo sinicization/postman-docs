@@ -1,5 +1,5 @@
 ---
-title: "Test scripts"
+title: "测试脚本"
 page_id: "test_scripts"
 warning: false
 

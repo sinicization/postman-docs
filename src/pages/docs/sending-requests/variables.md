@@ -7,7 +7,7 @@ contextual_links:
   - type: section
     name: "先决条件"
   - type: link
-    name: "Sending requests"
+    name: "发送请求"
     url:  "/docs/sending-requests/requests/"
   - type: section
     name: "其他资源"
@@ -39,7 +39,7 @@ contextual_links:
     name: "Intro to scripts"
     url: "/docs/writing-scripts/intro-to-scripts/"
   - type: link
-    name: "Dynamic variables"
+    name: "动态变量"
     url:  "/docs/writing-scripts/script-references/variables-list/"
 
 warning: false
@@ -344,11 +344,11 @@ Examples of dynamic variables are as follows:
 * `{{$timestamp}}`: The current timestamp (Unix timestamp in seconds)
 * `{{$randomInt}}`: A random integer between 0 and 1000
 
-See the [Dynamic Variables](/docs/writing-scripts/script-references/variables-list/) section for a full list.
+See the [动态变量](/docs/writing-scripts/script-references/variables-list/) section for a full list.
 
 > To use dynamic variables in pre-request or test scripts, you need to use `pm.variables.replaceIn()`, e.g. `pm.variables.replaceIn('{{$randomFirstName}}')`.
 
-![Dynamic Variable](https://assets.postman.com/postman-docs/dynamic-var.jpg)
+![动态变量](https://assets.postman.com/postman-docs/dynamic-var.jpg)
 
 ## 下一步
 

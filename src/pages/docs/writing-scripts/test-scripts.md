@@ -1,5 +1,5 @@
 ---
-title: "Writing tests"
+title: "编写测试"
 order: 43
 page_id: "test_scripts"
 search_keyword: "pm.response, pm.test, pm.expect"
@@ -7,10 +7,10 @@ contextual_links:
   - type: section
     name: "先决条件"
   - type: link
-    name: "Sending requests"
+    name: "发送请求"
     url: "/docs/sending-requests/requests/"
   - type: link
-    name: "Receiving responses"
+    name: "接收响应"
     url:  "/docs/sending-requests/responses/"
   - type: section
     name: "其他资源"
@@ -39,7 +39,7 @@ contextual_links:
   - type: subtitle
     name: "相关博客文章"
   - type: link
-    name: "Writing tests in Postman"
+    name: "在Postman编写测试"
     url:  "https://blog.postman.com/writing-tests-in-postman/"
   - type: link
     name: "Continuous API Testing with Postman"
@@ -53,7 +53,7 @@ contextual_links:
   - type: section
     name: "下一步"
   - type: link
-    name: "Test Examples"
+    name: "测试示例"
     url: "/docs/writing-scripts/script-references/test-examples/"
   - type: link
     name: "使用变量"

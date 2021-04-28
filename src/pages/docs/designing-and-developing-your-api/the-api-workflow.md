@@ -1,5 +1,5 @@
 ---
-title: 'Using the API Builder'
+title: '使用API生成器'
 order: 81
 page_id: 'the_api_workflow'
 warning: false
@@ -7,14 +7,14 @@ contextual_links:
   - type: section
     name: "先决条件"
   - type: link
-    name: "Grouping requests in Collections"
+    name: "在集合中对请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"
   - type: section
     name: "其他资源"
   - type: subtitle
     name: "相关博客文章"
   - type: link
-    name: "Create APIs directly within the Postman app"
+    name: "直接在Postman应用中创建API"
     url: "https://blog.postman.com/postman-7-1-create-apis-directly-within-the-postman-app/"
   - type: section
     name: "下一步"
@@ -304,7 +304,7 @@ To add a monitor to a specific version of your collection, check out how to [set
 
 For more information on building your APIs in Postman, check out the following resources:
 
-* [Versioning APIs](/docs/collaborating-in-postman/versioning-an-api/)
-* [Managing and sharing APIs](/docs/designing-and-developing-your-api/managing-apis/)
+* [API版本](/docs/collaborating-in-postman/versioning-an-api/)
+* [管理和共享API](/docs/designing-and-developing-your-api/managing-apis/)
 * [Viewing and analyzing APIs](/docs/designing-and-developing-your-api/view-and-analyze-api-reports/)
 * [Validating schema and elements](/docs/designing-and-developing-your-api/validating-elements-against-schema/)

@@ -9,10 +9,10 @@ contextual_links:
   - type: subtitle
     name: "视频"
   - type: link
-    name: "Team collaboration with Postman"
+    name: "与Postman的团队合作"
     url: "https://www.youtube.com/watch?v=8tLvvQ-3Nx0"
   - type: link
-    name: "Scaling Team Collaboration at Atlassian"
+    name: "在Atlassian扩展团队协作"
     url : https://www.youtube.com/watch?v=wYBZrdukack
   - type: section
     name: "下一步"
@@ -20,7 +20,7 @@ contextual_links:
     name: "创建工作区"
     url: "/docs/collaborating-in-postman/using-workspaces/creating-workspaces/"
   - type: link
-    name: "Your private API network"
+    name: "您的私有API网络"
     url: "/docs/collaborating-in-postman/adding-private-network/"
 
 ---

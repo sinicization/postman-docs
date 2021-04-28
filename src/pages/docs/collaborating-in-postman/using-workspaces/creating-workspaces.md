@@ -13,25 +13,25 @@ contextual_links:
   - type: subtitle
     name: "相关博客文章"
   - type: link
-    name: "Workspaces! What are they good for?"
+    name: "工作区! 它们有什么好处?"
     url: "https://blog.postman.com/workspaces-the-biggest-thing-to-hit-postman-this-month/"
   - type: link
-    name: "Setting up your first public workspace"
+    name: "设置您的第一个公共工作区"
     url: "https://blog.postman.com/how-to-set-up-public-workspaces/"
   - type: subtitle
     name: "案例研究"
   - type: link
-    name: "Movember Foundation"
+    name: "Movember基金会"
     url: "https://www.postman.com/resources/case-studies/movember-foundation/"
   - type: subtitle
     name: "视频"
   - type: link
-    name: "Team collaboration with Postman"
+    name: "与Postman的团队合作"
     url: "https://www.youtube.com/watch?v=8tLvvQ-3Nx0"
   - type: section
     name: "下一步"
   - type: link
-    name: "Using and managing workspaces"
+    name: "使用和管理工作区"
     url: "/docs/collaborating-in-postman/using-workspaces/managing-workspaces/"
 
 warning: false

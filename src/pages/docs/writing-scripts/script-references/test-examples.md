@@ -7,7 +7,7 @@ contextual_links:
   - type: section
     name: "先决条件"
   - type: link
-    name: "Writing tests"
+    name: "编写测试"
     url: "/docs/writing-scripts/test-scripts/"
   - type: link
     name: "使用变量"
@@ -17,17 +17,17 @@ contextual_links:
   - type: subtitle
     name: "视频"
   - type: link
-    name: "Intro to Postman: Writing tests"
+    name: "Postman简介: 编写测试"
     url: "https://www.youtube.com/watch?v=vuVhF257uGw"
   - type: subtitle
     name: "相关博客文章"
   - type: link
-    name: "Continuous API testing with Postman"
+    name: "使用Postman进行持续的API测试"
     url: "https://blog.postman.com/continuous-api-testing-with-postman/"
   - type: section
     name: "下一步"
   - type: link
-    name: "Command line integration with Newman"
+    name: "与Newman的命令行集成"
     url: "/docs/running-collections/using-newman-cli/command-line-integration-with-newman/"
 
 warning: false

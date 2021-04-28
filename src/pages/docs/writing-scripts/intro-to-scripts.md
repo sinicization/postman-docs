@@ -1,5 +1,5 @@
 ---
-title: "Scripting in Postman"
+title: "Postman脚本"
 order: 41
 page_id: "intro_to_scripts"
 search_keyword: "pm.test, pm.expect, pm.environment, pm.environment.get, environment.get, pm.response"
@@ -7,7 +7,7 @@ contextual_links:
   - type: section
     name: "先决条件"
   - type: link
-    name: "Sending requests"
+    name: "发送请求"
     url: "/docs/sending-requests/requests/"
   - type: link
     name: "使用变量"
@@ -22,15 +22,15 @@ contextual_links:
   - type: subtitle
     name: "相关博客文章"
   - type: link
-    name: "Keep it DRY with collection and folder elements"
+    name: "使其与集合和文件夹元素保持DRY(抽象化)"
     url: "https://blog.postman.com/keep-it-dry-with-collection-and-folder-elements/"
   - type: link
-    name: "Not your Grandma's Postman"
+    name: "不是你奶奶的Postman"
     url: "https://blog.postman.com/not-your-grandmas-postman/"
   - type: section
     name: "下一步"
   - type: link
-    name: "Test scripts"
+    name: "测试脚本"
     url: "/docs/writing-scripts/test-scripts/"
 
 warning: false

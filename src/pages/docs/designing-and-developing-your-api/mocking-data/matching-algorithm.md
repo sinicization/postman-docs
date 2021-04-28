@@ -1,5 +1,5 @@
 ---
-title: "Understanding example matching"
+title: "了解示例匹配"
 order: 87
 page_id: "matching_algorithm"
 search_keyword: "x-mock-response-name, x-mock-response-id, requestMethod, mockPath"
@@ -7,7 +7,7 @@ contextual_links:
   - type: section
     name: "先决条件"
   - type: link
-    name: "Sending requests"
+    name: "发送请求"
     url: "/docs/sending-requests/requests/"
   - type: link
     name: "对集合中的请求进行分组"

@@ -1,5 +1,5 @@
 ---
-title: "Requesting access"
+title: "请求访问"
 order: 73
 page_id: "requesting-access-to-collections"
 contextual_links:
@@ -9,7 +9,7 @@ contextual_links:
     name: "共享你的工作"
     url: "/docs/collaborating-in-postman/sharing/"
   - type: link
-    name: "Defining roles"
+    name: "定义角色"
     url: "/docs/collaborating-in-postman/roles-and-permissions/"
 
 warning: false

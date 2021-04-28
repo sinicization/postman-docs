@@ -1,12 +1,12 @@
 ---
-title: "Troubleshooting requests"
+title: "请求故障排除"
 order: 29.2
 page_id: "troubleshooting_api_requests"
 contextual_links:
   - type: section
     name: "先决条件"
   - type: link
-    name: "Sending requests"
+    name: "发送请求"
     url: "/docs/sending-requests/requests/"
   - type: section
     name: "其他资源"

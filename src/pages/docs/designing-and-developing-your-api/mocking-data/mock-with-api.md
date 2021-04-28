@@ -1,5 +1,5 @@
 ---
-title: "Mocking by API"
+title: "通过API模拟"
 order: 86
 page_id: "mock_with_api"
 search_keyword: "x-mock-response-code, x-mock-response-name, x-mock-response-id, x-mock-match-request-body, x-mock-match-request-headers"
@@ -7,13 +7,13 @@ contextual_links:
   - type: section
     name: "先决条件"
   - type: link
-    name: "Sending requests"
+    name: "发送请求"
     url: "/docs/sending-requests/requests/"
   - type: link
     name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"
   - type: link
-    name: "Intro to the Postman API"
+    name: "PostmanAPI简介"
     url: "/docs/developer/intro-api/"
   - type: section
     name: "其他资源"
@@ -28,7 +28,7 @@ contextual_links:
   - type: subtitle
     name: "相关博客文章"
   - type: link
-    name: "Mock responses in Postman by using Examples"
+    name: "在Postman模拟响应使用的示例"
     url: "https://blog.postman.com/mock-responses-in-postman-by-using-examples/"
 
 warning: false

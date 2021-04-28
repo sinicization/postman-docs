@@ -30,7 +30,7 @@ contextual_links:
   - type: subtitle
     name: "下一步"
   - type: link
-    name: "Using the API Builder"
+    name: "使用API生成器"
     url: "/docs/designing-and-developing-your-api/the-api-workflow/"
 
 warning: false

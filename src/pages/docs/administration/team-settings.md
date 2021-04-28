@@ -80,7 +80,7 @@ See [为团队配置SSO](/docs/administration/sso/admin-sso/) for details on how
 
 Select **Roles and Permissions** from the left-hand menu to view a complete list of permissions for team members' roles at a team, collection, workspace, API, and mock server level.
 
-View [Defining roles](/docs/collaborating-in-postman/roles-and-permissions/) for more information on roles you can assign to members of your team and [管理您的团队](/docs/administration/managing-your-team/managing-your-team/) for an overview of managing roles and users within your Postman team.
+View [定义角色](/docs/collaborating-in-postman/roles-and-permissions/) for more information on roles you can assign to members of your team and [管理您的团队](/docs/administration/managing-your-team/managing-your-team/) for an overview of managing roles and users within your Postman team.
 
 <img alt="Roles and permissions descriptions" src="https://assets.postman.com/postman-docs/ts-roles-and-permissions.jpg"/>
 

@@ -7,7 +7,7 @@ contextual_links:
   - type: section
     name: "先决条件"
   - type: link
-    name: "Receiving responses"
+    name: "接收响应"
     url: "/docs/sending-requests/responses/"
   - type: link
     name: "Intro to scripts"
@@ -176,4 +176,4 @@ You can debug a visualization in Postman by right-clicking in the __Visualize__ 
 
 ## 下一步
 
-You can try experimenting with visualizations using the collections [listed above](#try-it-out) as a starting point and tweak the code to get the results you need for your own data. For more on how Postman provides access to your response data inside scripts, check out the [Test Examples](/docs/writing-scripts/script-references/test-examples/).
+You can try experimenting with visualizations using the collections [listed above](#try-it-out) as a starting point and tweak the code to get the results you need for your own data. For more on how Postman provides access to your response data inside scripts, check out the [测试示例](/docs/writing-scripts/script-references/test-examples/).

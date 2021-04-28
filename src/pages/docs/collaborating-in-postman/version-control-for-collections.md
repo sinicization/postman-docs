@@ -1,5 +1,5 @@
 ---
-title: "Using version control"
+title: "使用版本控制"
 order: 75
 page_id: "version_control_for_collections"
 warning: false
@@ -7,19 +7,19 @@ contextual_links:
   - type: section
     name: "先决条件"
   - type: link
-    name: "Grouping requests in Collections"
+    name: "在集合中对请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"
   - type: section
     name: "其他资源"
   - type: subtitle
     name: "视频"
   - type: link
-    name: "Version Control for Collections | Postman Level Up"
+    name: "集合的版本控制 | Postman升级"
     url: "https://www.youtube.com/watch?v=QKxukXJWRPI&list=PLM-7VG-sgbtC5tNXxd28cmePSa9BYwqeU&index=7"
   - type: section
     name: "下一步"
   - type: link
-    name: "Versioning APIs"
+    name: "API版本"
     url: "/docs/collaborating-in-postman/versioning-an-api/"
 ---
 

@@ -42,7 +42,7 @@ contextual_links:
     name: "Troubleshooting API requests"
     url:  "/docs/sending-requests/troubleshooting-api-requests/"
   - type: link
-    name: "Receiving responses"
+    name: "接收响应"
     url:  "/docs/sending-requests/responses/"
   - type: link
     name: "对集合中的请求进行分组"

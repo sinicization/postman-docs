@@ -1,5 +1,5 @@
 ---
-title: 'Managing and sharing APIs'
+title: '管理和共享API'
 order: 82
 page_id: 'managing_apis'
 warning: false
@@ -7,19 +7,19 @@ contextual_links:
   - type: section
     name: "先决条件"
   - type: link
-    name: "Using the API Builder"
+    name: "使用API生成器"
     url: "/docs/designing-and-developing-your-api/the-api-workflow/"
   - type: section
     name: "其他资源"
   - type: subtitle
     name: "相关博客文章"
   - type: link
-    name: "Create APIs directly within the Postman app"
+    name: "直接在Postman应用中创建API"
     url: "https://blog.postman.com/postman-7-1-create-apis-directly-within-the-postman-app/"
   - type: section
     name: "下一步"
   - type: link
-    name: "Versioning APIs"
+    name: "API版本"
     url: "/docs/collaborating-in-postman/versioning-an-api/"
   - type: link
     name: "Viewing and analyzing APIs"
@@ -92,5 +92,5 @@ You can use the __Restore__ link to revert the schema to a previous state.
 
 For more info on working with the API Builder in Postman, check out the following resources:
 
-- [Versioning APIs](/docs/collaborating-in-postman/versioning-an-api/)
+- [API版本](/docs/collaborating-in-postman/versioning-an-api/)
 - [Viewing and analyzing APIs](/docs/designing-and-developing-your-api/view-and-analyze-api-reports/)

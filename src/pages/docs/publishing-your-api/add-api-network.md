@@ -7,7 +7,7 @@ contextual_links:
   - type: section
     name: "先决条件"
   - type: link
-    name: "Documenting your API"
+    name: "记录您的API"
     url:  "/docs/publishing-your-api/documenting-your-api/"
   - type: link
     name: "Publishing your docs"

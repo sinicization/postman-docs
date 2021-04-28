@@ -1,5 +1,5 @@
 ---
-title: "Commenting on collections"
+title: "评论集合"
 order: 73.3
 page_id: "commenting_on_collections"
 contextual_links:
@@ -8,7 +8,7 @@ contextual_links:
   - type: subtitle
     name: "视频"
   - type: link
-    name: "Inline Comments | Postman Level Up"
+    name: "内联评论 | Postman升级"
     url: "https://www.youtube.com/watch?v=fkYiyCj43uk&list=PLM-7VG-sgbtC5tNXxd28cmePSa9BYwqeU&index=6"
 warning: false
 ---

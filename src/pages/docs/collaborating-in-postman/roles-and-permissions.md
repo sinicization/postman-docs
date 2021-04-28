@@ -1,5 +1,5 @@
 ---
-title: "Defining roles"
+title: "定义角色"
 order: 72
 page_id: "roles_and_permissions"
 warning: false
@@ -14,10 +14,10 @@ contextual_links:
   - type: subtitle
     name: "相关博客文章"
   - type: link
-    name: "Streamline access control with extended roles & permissions"
+    name: "通过扩展的角色和权限简化访问控制"
     url: "https://blog.postman.com/streamline-access-control-with-extended-roles-permissions/"
   - type: link
-    name: "Manage large teams in Postman with workspaces, permissions & more"
+    name: "使用工作区，权限等管理Postman中的大型团队"
     url: "https://blog.postman.com/postman-team-workspaces-and-permissions/"
 ---
 

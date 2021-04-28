@@ -1,15 +1,15 @@
 ---
-title: "Writing pre-request scripts"
+title: "编写预请求脚本"
 order: 42
 page_id: "pre_request_scripts"
 contextual_links:
   - type: section
     name: "先决条件"
   - type: link
-    name: "Sending requests"
+    name: "发送请求"
     url: "/docs/sending-requests/requests/"
   - type: link
-    name: "Intro to Scripts"
+    name: "脚本简介"
     url: "/docs/writing-scripts/intro-to-scripts/"
   - type: link
     name: "使用变量"
@@ -30,12 +30,12 @@ contextual_links:
     name: "The Good Collection (take advantage of the pre-request)"
     url: "https://blog.postman.com/the-good-collection/"
   - type: link
-    name: "Keep it DRY with collection and folder elements"
+    name: "使其与集合和文件夹元素保持DRY(抽象化)"
     url: "https://blog.postman.com/keep-it-dry-with-collection-and-folder-elements/"
   - type: section
     name: "下一步"
   - type: link
-    name: "Test scripts"
+    name: "测试脚本"
     url: "/docs/writing-scripts/test-scripts/"
 
 warning: false

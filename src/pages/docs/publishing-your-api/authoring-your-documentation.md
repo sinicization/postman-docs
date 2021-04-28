@@ -9,7 +9,7 @@ contextual_links:
     name: "对集合中的请求进行分组"
     url: "/docs/sending-requests/intro-to-collections/"
   - type: link
-    name: "Documenting your API"
+    name: "记录您的API"
     url: "/docs/publishing-your-api/documenting-your-api/"
   - type: section
     name: "其他资源"

@@ -1,5 +1,5 @@
 ---
-title: "Mocking with examples"
+title: "模拟示例"
 page_id: "mocking_with_examples"
 warning: false
 
@@ -53,7 +53,7 @@ Before we get into the details of mocking, let’s start with setting up some ba
 
   [![see example](https://assets.postman.com/postman-docs/WS-anuhyaMock7.png)](https://assets.postman.com/postman-docs/WS-anuhyaMock7.png)
 
-### Mocking with examples
+### 模拟示例
 
 In the previous steps, we prepared the collection, request, and example response necessary for us to get started with mocking. So let’s continue with the next steps.
   

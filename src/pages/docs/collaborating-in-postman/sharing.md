@@ -13,10 +13,10 @@ contextual_links:
   - type: subtitle
     name: "视频"
   - type: link
-    name: "Sharing Postman Collections"
+    name: "共享Postman集合"
     url: "https://www.youtube.com/watch?v=KMLaibEaf7Y"
   - type: link
-    name: "How to Share Postman Collections"
+    name: "如何共享Postman集合"
     url: "https://www.youtube.com/watch?v=mVTsK6ZdY6c"
   - type: section
     name: "下一步"
@@ -98,4 +98,4 @@ The link is a snapshot of your collection, so click __Update Link__ and copy it 
 
 Team members can [request access](/docs/collaborating-in-postman/requesting-access-to-collections/) to collections, environments, and APIs.
 
-For more detail on working with environments as a team, see [Managing environments](/docs/sending-requests/managing-environments/). For more on working with APIs, see [Managing and sharing APIs](/docs/designing-and-developing-your-api/managing-apis/).
+For more detail on working with environments as a team, see [Managing environments](/docs/sending-requests/managing-environments/). For more on working with APIs, see [管理和共享API](/docs/designing-and-developing-your-api/managing-apis/).

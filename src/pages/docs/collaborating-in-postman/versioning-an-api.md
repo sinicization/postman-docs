@@ -1,5 +1,5 @@
 ---
-title: 'Versioning APIs'
+title: 'API版本'
 order: 74
 page_id: 'versioning_an_api'
 warning: false
@@ -7,22 +7,22 @@ contextual_links:
   - type: section
     name: "先决条件"
   - type: link
-    name: "Using the API Builder"
+    name: "使用API生成器"
     url: "/docs/designing-and-developing-your-api/the-api-workflow/"
   - type: link
-    name: "Managing and sharing APIs"
+    name: "管理和共享API"
     url: "/docs/designing-and-developing-your-api/managing-apis/"
   - type: section
     name: "其他资源"
   - type: subtitle
     name: "相关博客文章"
   - type: link
-    name: "Create APIs directly within the Postman app"
+    name: "直接在Postman应用中创建API"
     url: "https://blog.postman.com/postman-7-1-create-apis-directly-within-the-postman-app/"
   - type: subtitle
     name: "视频"
   - type: link
-    name: "Versioning APIs with Tags | Postman Level Up"
+    name: "带标签的API版本 | Postman升级"
     url: "https://youtu.be/Kq8Ra0ugqoY"
   - type: section
     name: "下一步"
