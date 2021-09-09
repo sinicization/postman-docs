@@ -1,5 +1,5 @@
 ---
-title: "Examples"
+title: "示例"
 page_id: "examples"
 warning: false
 

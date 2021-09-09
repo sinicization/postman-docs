@@ -23,13 +23,13 @@ contextual_links:
 
 You can back up your team's Postman Collections with Postman's Bitbucket integration.
 
-## Contents
+## 目录
 
 * [Backing up collections on Bitbucket](#backing-up-collections-on-bitbucket)
 
     * [Configuring a Bitbucket integration](#configuring-a-bitbucket-integration)
 
-* [下一步](#next-steps)
+* [下一步](#下一步)
 
 ## Backing up collections on Bitbucket
 

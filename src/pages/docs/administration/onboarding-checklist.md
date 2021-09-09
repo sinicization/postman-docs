@@ -22,7 +22,7 @@ contextual_links:
 
 If you're just getting started using Postman within your organization, you can carry out a few preparation steps to set your team up for success.
 
-## Contents
+## 目录
 
 * [Setting up Postman](#setting-up-postman)
     * [Invite Team Members](#invite-team-members)

@@ -15,7 +15,7 @@ You can then access the **timestampHeader** variable in the header data editor
 
 [![timestampHeader variable](https://assets.postman.com/postman-docs/WS-timeStampHeader3+copy.png)](https://assets.postman.com/postman-docs/WS-timeStampHeader3+copy.png)
 
-**Note:** An environment will have to be active for environment variables to be set.
+**注意:** An environment will have to be active for environment variables to be set.
 
 Pre-request scripts are written in JavaScript, and the syntax is exactly like that of [test scripts](https://learning.postman.com/docs/postman/scripts/test_scripts/) except that the response object is not present.
 

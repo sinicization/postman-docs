@@ -1,5 +1,5 @@
 ---
-title: "Creating a workspace"
+title: "创建工作区"
 order: 8
 page_id: "creating_your_first_workspace"
 warning: false
@@ -14,24 +14,24 @@ contextual_links:
     url: "/docs/collaborating-in-postman/using-workspaces/creating-workspaces/"
 ---
 
-Postman workspaces allow you to organize and collaborate on API projects with your team. Within each workspace you can share APIs, collections, environments, and other components of your work in Postman.
+Postman 工作区允许您与团队一起组织和协作处理 API 项目. 在每个工作区中, 您可以共享 API, Collection[集合], Environment[环境], 和 Postman 工作的其他组件.
 
-When you first open Postman, you will be in your default personal workspace, but you can create more workspaces for your personal use and to work in conjunction with teammates.
+首次打开 Postman 时, 您将进入默认的个人工作区, 但您可以创建更多工作区供您个人使用并与团队成员协同工作.
 
-> To create additional workspaces, you need to be signed into a [Postman account](/docs/getting-started/postman-account/).
+> 要创建其他工作区, 您需要登录 [Postman 帐号](/docs/getting-started/postman-account/).
 
-To access your workspaces, use the dropdown menu at the left of Postman. You can search for existing workspaces using the search bar present below the __Workspaces__ dropdown.
+要访问您的工作区, 请使用 Postman 左侧的下拉菜单. 您可以使用 __Workspaces[工作区]__ 下拉菜单下方的搜索栏搜索现有工作区.
 
 <img alt="Default Workspace" src="https://assets.postman.com/postman-docs/default-create-new-workspace.jpg" width="300px"/>
 
-Click __New Workspace__ to add a new workspace.
+单击 __New Workspace[新建工作区]__ 以添加新工作区.
 
 [![Team workspace](https://assets.postman.com/postman-docs/create-team-workspace.jpg)](https://assets.postman.com/postman-docs/create-team-workspace.jpg)
 
-You can choose a __Team__ workspace if you plan to invite collaborators, a __Personal__ workspace or a __Private__ workspace which is only visible to the user who created it, and team members who have been invited to join it. Enter a __Name__ and optional __Summary__ for your workspace. If you're collaborating, you can invite other people now or later, and select their access level. Click __Create Workspace__.
+如果您计划邀请协作者, 您可以选择 __Team[团队]__ 工作区, __Personal[个人]__ 工作区 或 __Private[私有]__ 工作区, 只有创建它的用户和受邀加入它的团队成员才能看到. 为您的工作区输入 __Name[名称]__ 和 可选的 __Summary[摘要]__ . 如果您正在协作, 您可以现在或稍后邀请其他人, 并选择他们的访问级别. 单击 __Create Workspace[创建工作区]__.
 
-Postman will switch to your new workspace when you create it. You can then start working in the workspace or __Invite__ people to join it. Select a workspace to switch to it at any time using the dropdown at the top of Postman.
+Postman 将在您创建新工作区时切换到它. 然后, 您可以开始在工作区中工作或 __Invite[邀请]__ 他人加入. 使用 Postman 顶部的下拉菜单随时选择要切换到的工作区.
 
 <img alt="Default Workspace" src="https://assets.postman.com/postman-docs/create-workspace-dropdown.jpg" width="300px"/>
 
-Learn more about [using workspaces for your team and projects](/docs/collaborating-in-postman/using-workspaces/creating-workspaces/).
+了解更多关于 [为您的团队和项目使用工作区](/docs/collaborating-in-postman/using-workspaces/creating-workspaces/).

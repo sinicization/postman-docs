@@ -71,7 +71,7 @@ class AutoFlexPolicyPage extends React.Component {
                   for any additional Users; for monthly plans, we will bill you monthly.
                 </li>
               </ul>
-              <h2 id="examples">Examples</h2>
+              <h2 id="examples">示例</h2>
               <p>Here&#39;s an example of a monthly plan:</p>
               <p className="font-italic">
                 Your workspace is on the Team plan and you&#39;re paying monthly — $15 per User per

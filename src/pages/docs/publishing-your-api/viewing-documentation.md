@@ -41,12 +41,12 @@ You can view and comment on private documentation shared with you. Documentation
 
 > If you have edit access to a collection, you can edit its documentation while viewing it in the web browser.
 
-## Contents
+## 目录
 
 * [Viewing private documentation](#viewing-private-documentation)
     * [Commenting on documentation](#commenting-on-documentation)
 * [Viewing public documentation](#viewing-public-documentation)
-* [下一步](#next-steps)
+* [下一步](#下一步)
 
 ## Viewing private documentation
 

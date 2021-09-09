@@ -366,7 +366,7 @@ exports[`renders correctly 1`] = `
                   href="https://community.postman.com/"
                   onClick={[Function]}
                 >
-                  Postman Community
+                  Postman社区
                 </a>
                 
               </li>

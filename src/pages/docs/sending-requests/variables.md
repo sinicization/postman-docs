@@ -22,7 +22,7 @@ contextual_links:
   - type: subtitle
     name: "相关博客文章"
   - type: link
-    name: "Find and replace text, code, and variables"
+    name: "查找和替换文本, 代码, 和 变量"
     url: "https://blog.postman.com/find-and-replace-text-code-and-variables-in-postman/"
   - type: link
     name: "10 tips for working with variables"
@@ -59,7 +59,7 @@ To try out a variable, use the following steps:
 
 Read on for more detail on how you can use variables in Postman.
 
-## Contents
+## 目录
 
 * [Understanding variables](#understanding-variables)
 * [Variable scopes](#variable-scopes)
@@ -69,7 +69,7 @@ Read on for more detail on how you can use variables in Postman.
 * [Logging variables](#logging-variables)
 * [Using data variables](#using-data-variables)
 * [Using dynamic variables](#using-dynamic-variables)
-* [下一步](#next-steps)
+* [下一步](#下一步)
 
 ## Understanding variables
 
@@ -314,7 +314,7 @@ You can edit a current value inline from the environment quick look:
 
 <img alt="Edit Current Value" src="https://assets.postman.com/postman-docs/var-inline-v8.jpg" width="500px"/>
 
-See [Managing environments](/docs/sending-requests/managing-environments/#creating-environments) for more on working with variables as a team.
+See [Managing environments](/docs/sending-requests/managing-environments/#创建环境) for more on working with variables as a team.
 
 > Local and data variables only have current values, which do not persist beyond request or collection runs.
 

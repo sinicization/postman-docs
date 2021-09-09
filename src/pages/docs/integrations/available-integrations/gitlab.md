@@ -37,7 +37,7 @@ Save the generated token to use later.
 
 1. Click **View Details** to see information about GitLab and how it can back up your Postman Collections to your GitLab projects or self-hosted domains.
 
-    **Note:** You can also click the **Configured Integrations** tab to set up other integrations, view available integrations for Gitlab, or view all integrations.
+    **注意:** You can also click the **Configured Integrations** tab to set up other integrations, view available integrations for Gitlab, or view all integrations.
 
     <img src="https://assets.postman.com/postman-docs/Gitlab_Main_Backup_Page_gray2.png" alt="select gitlab add">
 

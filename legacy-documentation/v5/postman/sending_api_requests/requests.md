@@ -61,9 +61,9 @@ The URL is the first thing that you would be setting for a request. The URL inpu
 
 Clicking on the** Params** button opens up the [data editor](https://learning.postman.com/docs/postman/launching_postman/navigating_postman/) for entering URL parameters. You can individually add key-value pairs and Postman will combine everything in the query string above. If your URL already has parameters - for example, if you are pasting a URL from some other source, Postman will split the URL into pairs automatically.
 
-**Note:** Parameters you enter in the URL bar or in the data editor will not automatically be URL-encoded. Right click on a piece of selected text, and select "EncodeURIComponent" to manually encode the parameter value.
+**注意:** Parameters you enter in the URL bar or in the data editor will not automatically be URL-encoded. Right click on a piece of selected text, and select "EncodeURIComponent" to manually encode the parameter value.
 
-**Note:** Postman will automatically add `http://` to the beginning of the URL if no protocol is specified.
+**注意:** Postman will automatically add `http://` to the beginning of the URL if no protocol is specified.
 
 [![url and parameters section](https://assets.postman.com/postman-docs/requestBuilderUrl.png)](https://assets.postman.com/postman-docs/requestBuilderUrl.png)
 

@@ -21,7 +21,7 @@ warning: false
 
 Postman allows you to track the health and performance of your APIs. With Postman, you can stay up to date on what's happening across all monitors in your workspace and dive into individual monitors to examine test results and performance over time.
 
-## Contents
+## 目录
 
 * [Viewing monitors in Postman](#viewing-monitors-in-postman)
 
@@ -51,7 +51,7 @@ Postman allows you to track the health and performance of your APIs. With Postma
 
     * [Monitor details](#monitor-details)
 
-* [下一步](#next-steps)
+* [下一步](#下一步)
 
 ## Viewing monitors in Postman
 

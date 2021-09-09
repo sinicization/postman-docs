@@ -35,56 +35,56 @@ contextual_links:
 
 ---
 
-Postman is available as a native desktop app for Mac, Windows (32-bit / 64-bit), and Linux (32-bit / 64-bit) operating systems, and on the web at **[go.postman.co/build](https://go.postman.co/build)**.
+Postman 是一款适用于 Mac, Windows (32-bit / 64-bit), 和 Linux (32-bit / 64-bit) 操作系统的本机桌面应用程序, 也可在网页上访问 **[go.postman.co/build](https://go.postman.co/build)**.
 
-To get the latest version of the Postman desktop app, visit the [download page](https://www.postman.com/downloads/) and click **Download** for your platform.
+要获取最新版本的Postman桌面应用程序, 请访问 [下载页面](https://www.postman.com/downloads/) 并点击适用于您平台的 **下载** .
 
-![Postman download page](https://assets.postman.com/postman-docs/download-postman.jpg)
+![Postman下载页面](https://assets.postman.com/postman-docs/download-postman.jpg)
 
-## Contents
+## 目录
 
-* Installing Postman on the desktop
-    * [Mac](#installing-postman-on-mac)
-    * [Windows](#installing-postman-on-windows)
-    * [Linux](#installing-postman-on-linux)
-* [Using Postman on the web](#using-postman-on-the-web)
-    * [Web limitations](#web-limitations)
-* [Updating Postman](#updating-postman)
-* [Chrome app (deprecated)](#postman-chrome-app-deprecated)
-    * [Migrating to the native app](#migrating-to-the-native-app)
-* [Using Postman behind a firewall](#using-postman-behind-a-firewall)
-* [Troubleshooting your Postman installation](#troubleshooting-your-postman-installation)
-* [下一步](#next-steps)
+* 在桌面上安装 Postman
+    * [Mac](#在mac上安装postman)
+    * [Windows](#在windows上安装postman)
+    * [Linux](#在linux上安装postman)
+* [在网页上使用Postman](#在网页上使用postman)
+    * [网页限制](#网页限制)
+* [更新Postman](#更新postman)
+* [Chrome应用程序(已弃用)](#postman-chrome应用程序已弃用)
+    * [迁移到本地应用程序](#迁移到本地应用程序)
+* [在防火墙后使用Postman](#在防火墙后使用postman)
+* [对Postman安装进行故障排除](#对postman安装进行故障排除)
+* [下一步](#下一步)
 
-> Note that the Postman team only tests, fixes bugs, and provides support for the app on Mac, Windows, Linux, and the web.
+> 请注意,Postman团队仅测试、修复错误并为Mac、Windows、Linux和Web上的应用程序提供支持.
 
-## Installing Postman on Mac
+## 在Mac上安装Postman
 
-[Download](https://www.postman.com/downloads/) and unzip the app _using the built-in Archive Utility app_. Double-click __Postman__. When prompted, move the file to your __Applications__ folder—this will ensure that future updates can be installed correctly.
+ _使用内置的存档实用程序_ [下载](https://www.postman.com/downloads/) 并解压缩该应用程序. 双击 __Postman__. 出现提示时, 将文件移动到您的 __Applications__ 文件夹 — 这将确保将来的更新可以正确安装.
 
-> The minimum OS version supported is macOS 10.10 (Yosemite).
+> 支持的最低操作系统版本是 macOS 10.10 (Yosemite).
 >
-> You may encounter a "Library not loaded" error if you attempt to unzip and install Postman using a third-party app—using the default Archive Utility for Mac should resolve this.
+> 如果您尝试使用第三方应用程序解压缩和安装Postman,您可能会遇到"Library not loaded"错误 — 使用Mac的默认存档实用程序应该可以解决这个问题.
 
-## Installing Postman on Windows
+## 在Windows上安装Postman
 
-[Download](https://www.postman.com/downloads/) the app. Double-click the `exe` file to install it.
+[下载](https://www.postman.com/downloads/) 应用程序. 双击 `exe` 文件进行安装.
 
-> Postman supports Windows 7 and above. Both `ia32 (x86)` and `x64 (amd64)` installers are provided for Windows. Windows for ARM devices is possible by using the ia32 binary.
+> Postman支持 Windows 7 及更高版本. `ia32 (x86)` 和 `x64 (amd64)` 安装程序均适用于Windows. Windows for ARM设备可以使用ia32二进制文件.
 
-## Installing Postman on Linux
+## 在Linux上安装Postman
 
-You can install Postman on Linux by downloading it—or via the [Snap](https://snapcraft.io/postman) store link / using the command `snap install postman`.
+你可以通过下载它, 在Linux上安装Postman—或者通过 [Snap](https://snapcraft.io/postman) 商店链接/使用命令 `snap install postman`.
 
-To install manually, [download](https://www.postman.com/downloads/) and unzip the app, for example into the `opt` directory. You will need `sudo` privileges.
+要手动安装, 请[下载](https://www.postman.com/downloads/) 并解压缩应用程序, 例如到 `opt` 目录中. 您将需要 `sudo` 权限.
 
-To start the app from a launcher icon, create a desktop file, naming it `Postman.desktop` and saving it in the following location:
+要从启动器图标启动应用程序, 请创建一个桌面文件, 将其命名为 `Postman.desktop` 并将其保存在以下位置:
 
 ```shell
 ~/.local/share/applications/Postman.desktop
 ```
 
-Enter the following content in the file—replacing `opt` if you extracted the file somewhere else—and save it:
+在文件中输入以下内容 — 如果您将文件解压缩到其他位置, 则替换 `opt`  — 并保存它:
 
 ```shell
 [Desktop Entry]
@@ -97,118 +97,118 @@ Type=Application
 Categories=Development;
 ```
 
-> Postman supports the following distributions:
+> Postman支持以下发行版:
 >
-> * Ubuntu 12.04 and newer
+> * Ubuntu 12.04 及更新版本
 > * Fedora 21
-> * Debian 8 and newer
+> * Debian 8 及更新版本
 >
-> The support of certain Linux distributions depends on whether they are supported by Electron or not. Refer to [Electron's documentation](https://www.electronjs.org/docs/tutorial/support#linux).
+> 某些Linux发行版的支持取决于它们是否被Electron支持. 请参阅 [Electron的文档](https://www.electronjs.org/docs/tutorial/support#linux).
 >
-> It is recommended you install [Snap](https://snapcraft.io/postman) as it includes all the libraries that the app needs and they are bundled with the app itself.
+> 建议您安装 [Snap](https://snapcraft.io/postman) , 因为它包含应用程序所需的所有库, 并且它们与应用程序本身捆绑在一起.
 >
-> Avoid starting Postman using `sudo` command, as it will create permission issues on the files created by Postman.
+> 避免使用 `sudo` 命令启动Postman, 因为它会在Postman创建的文件上产生权限问题.
 >
-> Make sure you have read/write permission for the `~/.config` folder where Postman stores information.
+> 确保您对Postman存储信息的 `~/.config` 文件夹具有读/写权限.
 >
-> If you are an Ubuntu 18 user, you will also need to install the `libgconf-2-4` package to ensure a smooth Postman run: `apt-get install libgconf-2-4`
+> 如果您是 Ubuntu 18 用户, 您还需要安装 `libgconf-2-4` 软件包以确保Postman顺利运行: `apt-get install libgconf-2-4`
 
-## Using Postman on the web
+## 在网页上使用Postman
 
-You can use Postman in your web browser to carry out your API development and testing tasks in conjunction with the Postman Agent. To access Postman on the web, visit [go.postman.co/build](https://go.postman.co/build) in your browser. If you are using the Postman web client, you will need to also download the Postman desktop agent. You will be prompted to download and install the agent so that you can make requests from the web. You can also download the agent directly from [this Downloads page](https://www.postman.com/downloads/).
+您可以在Web浏览器中使用Postman与Postman代理一起执行API开发和测试任务. 要在Web上访问Postman, 请在浏览器中访问 [go.postman.co/build](https://go.postman.co/build). 如果您使用的是Postman Web客户端, 则还需要下载Postman桌面代理. 系统将提示您下载并安装代理, 以便您可以从Web发出请求. 您也可以直接从 [此下载页面](https://www.postman.com/downloads/) 下载代理.
 
 <img alt="Postman Agent" src="https://assets.postman.com/postman-docs/download-agent.jpg" width="500px"/>
 
-The Postman agent overcomes the Cross Object Resource Sharing (CORS) limitations of browsers, and facilitates API request sending from your browser version of Postman. Once you have the agent installed you will be able to use it with web requests.
+Postman代理克服了浏览器的跨对象资源共享(CORS)限制, 并有助于从您的Postman浏览器版本发送API请求. 安装代理后, 您将能够将其用于Web请求.
 
-> If you try to send a request and it isn't successful because the agent is not selected, you will see a link in the response area which you can click to switch to the agent and try your request again. Read [more about the agent](https://blog.postman.com/introducing-the-postman-agent-send-api-requests-from-your-browser-without-limits/).
+> 如果您尝试发送请求但由于未选择代理而未成功, 您将在响应区域看到一个链接, 您可以单击该链接切换到代理并再次尝试您的请求. 阅读 [更多关于代理](https://blog.postman.com/introducing-the-postman-agent-send-api-requests-from-your-browser-without-limits/).
 
-### Web limitations
+### 网页限制
 
-Postman on the web is under active development, but there are a few features you can currently only access in the desktop app and not in your web browser:
+网页Postman正在积极开发中, 但有一些功能目前只能在桌面应用程序中访问, 而不能在网络浏览器中访问:
 
-* **Live preview**: You will not see all of your request headers update live as you enter your request configurations as you do in the desktop Postman app—you will only see Authorization headers update as you edit.
-* **Saving responses to file**
-* **Certificates and Proxy**: These will take the browser defined value and cannot be overridden by Postman.
-* **Postman Interceptor**
+* **实时预览**: 您不会像在桌面Postman应用程序中那样在输入请求配置时看到所有请求Header实时更新 — 您只会在编辑时看到授权Header更新.
+* **将响应保存到文件**
+* **证书和代理**: 这些将采用浏览器定义的值并且不能被Postman覆盖.
+* **Postman拦截器**
 
-> [Postman for the Web](https://blog.postman.com/announcing-postman-for-the-web-now-in-open-beta/) is still under development. Please [try it out](https://blog.postman.com/introducing-the-postman-agent-send-api-requests-from-your-browser-without-limits/) and give the team feedback by joining in the discussion on the [community forum](https://community.postman.com/t/announcing-postman-for-the-web-now-in-open-beta/14192).
+> [网页Postman](https://blog.postman.com/announcing-postman-for-the-web-now-in-open-beta/) 仍在开发中. 请 [尝试一下](https://blog.postman.com/introducing-the-postman-agent-send-api-requests-from-your-browser-without-limits/) 并通过加入 [社区论坛](https://community.postman.com/t/announcing-postman-for-the-web-now-in-open-beta/14192) 上的讨论来向团队提供反馈.
 
-## Updating Postman
+## 更新Postman
 
-The native Postman apps will notify you when a major update is available. For other updates you will see a dot on the settings icon. If the indicator is red instead of orange, it indicates a failed update.
+当有重大更新可用时, 本地Postman应用程序会通知您. 对于其他更新, 您会在设置图标上看到一个点. 如果指示器为红色而不是橙色, 则表示更新失败.
 
-![Update Ready](https://assets.postman.com/postman-docs/update-ready.jpg)
+![更新就绪](https://assets.postman.com/postman-docs/update-ready.jpg)
 
-Select the update option to download or install the latest update. You will see a notification when the download is complete, prompting you to restart the Postman app to apply the updates. If you're not ready to update yet, choose __Later__ to auto-update the next time you launch the app.
+选择更新选项以下载或安装最新更新. 下载完成后, 您将看到一条通知, 提示您重新启动Postman应用程序以应用更新. 如果您尚未准备好更新, 请选择 __Later[稍后]__ 以在您下次启动应用程序时自动更新.
 
-You can configure your preferences to enable automatic download for major updates in __Settings__ &gt; __Update__. Postman automatically downloads minor updates and bug fixes.
+您可以在 __Settings[设置]__ &gt; __Update[更新]__ 中配置您的首选项以启用主要更新的自动下载. Postman会自动下载次要更新和错误修复.
 
-![Update Ready](https://assets.postman.com/postman-docs/settings-updates.jpg)
+![更新就绪](https://assets.postman.com/postman-docs/settings-updates.jpg)
 
-## Postman Chrome app (deprecated)
+## Postman Chrome应用程序(已弃用)
 
-The Postman Chrome app is deprecated—if you're using the Chrome app, you can [retain your data when you switch to the native app](#migrating-to-the-native-app) ___either by syncing with a Postman account you're signed into, or by exporting from Chrome and importing into the native app___.
+Postman Chrome 应用程序已弃用 — 如果您使用Chrome应用程序, 您可以 [您可以在切换到本地应用程序时保留您的数据](#迁移到本地应用程序) ___方法是与您登录的Postman帐户同步, 或者从Chrome导出并导入到本地应用___.
 
-The native app is built on [Electron](https://www.electronjs.org/), and [overcomes a number of restrictions](https://blog.postman.com/going-native/) of the Chrome platform.
+本地应用程序基于[Electron](https://www.electronjs.org/) 构建, 并 [克服了Chrome平台的许多限制](https://blog.postman.com/going-native/).
 
-* The native apps let you work with [cookies](/docs/sending-requests/cookies/) directly.
-* Unlike the Chrome app, no separate extension for the [Interceptor](/docs/sending-requests/capturing-request-data/interceptor/) is needed.
-* The native apps come with a built-in proxy that you can use to [capture network traffic](/docs/sending-requests/capturing-request-data/capturing-http-requests/).
-* The native apps are not restricted by the Chrome standards for the menu bar. You can check for updates, create Postman Windows and tabs, and edit preferences.
-* The native apps let you send headers like `Origin` and `User-Agent`. These are restricted in the Chrome app.
-* The "don't follow redirects" option exists in the native apps to prevent requests that return a 300-series response from being automatically redirected—doing this in the Chrome app requires the Interceptor extension.
-* The native app has a built-in [console](/docs/sending-requests/troubleshooting-api-requests/), which allows you to view the network request details for API calls.
+* 本地应用程序可让您直接使用[cookies](/docs/sending-requests/cookies/).
+* 与Chrome应用程序不同, [拦截器](/docs/sending-requests/capturing-request-data/interceptor/) 不需要单独的扩展程序.
+* 本地应用程序带有一个内置代理, 您可以使用它来 [捕获网络流量](/docs/sending-requests/capturing-request-data/capturing-http-requests/).
+* 本地应用程序不受 Chrome 菜单栏标准的限制. 您可以检查更新、创建 Postman Windows 和选项卡以及编辑首选项.
+* 本地应用程序允许您发送 `Origin` 和 `User-Agent` 等Header. 这些在 Chrome 应用程序中受到限制.
+* 本地应用程序中存在 "don't follow redirects[不遵循重定向]" 选项, 以防止自动重定向返回 300-系列响应的请求 — 在 Chrome 应用程序中执行此操作需要拦截器扩展.
+* 本地应用程序有一个内置[控制台](/docs/sending-requests/troubleshooting-api-requests/), 可让您查看API调用的网络请求详细信息.
 
-### Migrating to the native app
+### 迁移到本地应用程序
 
-To switch from the Chrome app to native, [download](https://www.postman.com/downloads/) Postman and [sign in to your account](https://app.getpostman.com/). Start the native app, and your history and collections will be automatically synced.
+要从 Chrome 应用切换到本地应用程序, 请[下载](https://www.postman.com/downloads/) Postman 并 [登录您的帐户](https://app.getpostman.com/). 启动本地应用程序, 您的历史记录和集合将自动同步.
 
-Alternatively, if you don't want to sign in to your Postman account, you can bulk export your Postman data from the Chrome app, and then bulk import into the new native app via __Settings__ &gt; __Data__.
+或者, 如果您不想登录 Postman 帐户, 您可以从 Chrome 应用程序批量导出 Postman 数据, 然后通过 __Settings[设置]__ &gt; __Data[数据]__ 批量导入新的本地应用程序.
 
-![Import Export Data](https://assets.postman.com/postman-docs/export-data.jpg)
+![导入导出数据](https://assets.postman.com/postman-docs/export-data.jpg)
 
-> Note that importing will overwrite your existing data. For more on bulk import, see [Importing Postman data](/docs/getting-started/importing-and-exporting-data/).
+> 请注意, 导入将覆盖您现有的数据. 有关批量导入的更多信息, 请参阅 [导入 Postman 数据](/docs/getting-started/importing-and-exporting-data/).
 
-## Using Postman behind a firewall
+## 在防火墙后使用Postman
 
-Postman's infrastructure runs on Amazon's AWS platform. If you are operating behind a network firewall, you will need to whitelist the following domains to allow WebSocket connections for Postman:
+Postman 的基础设施运行在亚马逊的 AWS 平台上. 如果您在网络防火墙后面操作, 则需要将以下域列入白名单以允许 Postman 的 WebSocket 连接:
 
 * `\*.getpostman.com`
 * `\*.postman.co`
 * `\*.pstmn.io`
 * `\*postman.com`
 
-By default, WebSocket connections use the same ports as HTTP (80) and HTTPS (443).
+默认情况下, WebSocket 连接使用与 HTTP (80) 和 HTTPS (443) 相同的端口.
 
-Postman does not have a fixed IP range that can be provided. If necessary, please refer to the [current AWS IP ranges](https://docs.aws.amazon.com/general/latest/gr/aws-ip-ranges.html) and whitelist the broad range provided.
+Postman 没有可以提供的固定 IP 范围. 如有必要, 请参考 [当前的 AWS IP 范围](https://docs.aws.amazon.com/general/latest/gr/aws-ip-ranges.html) 并将提供的广泛范围列入白名单.
 
-## Troubleshooting your Postman installation
+## 对Postman安装进行故障排除
 
-If you encounter any issues installing and running Postman, check out the following tips—if these do not help, please refer to the installation posts on the [community forum](https://community.postman.com/tags/installation) and create a new post if your issue is not already covered.
+如果您在安装和运行 Postman 时遇到任何问题, 请查看以下提示—如果这些提示没有帮助, 请参阅 [社区论坛](https://community.postman.com/tags/installation) 上的安装帖子, 如果您的问题尚未解决,请创建一个新帖子.
 
-### Update failed error
+### 更新失败错误
 
-If you see an __Update Failed__ notification in Postman, you can use the DevTools to investigate.
+如果您在 Postman 中看到 __Update Failed[更新失败]__ 通知, 您可以使用 DevTools 进行调查.
 
 ![update-error-dialog](https://assets.postman.com/postman-docs/update-error-dialog.png)
 
-Open the DevTools using __View__ &gt; __Developer__ &gt; __Show DevTools (Current View)__. Some known errors are as follows:
+使用 __View[查看]__ &gt; __Developer[开发者]__ &gt; __Show DevTools (Current View)[显示DevTools(当前视图)]__ 打开 DevTools. 一些已知错误如下:
 
-* __Error message:__ `Cannot update while running on a read-only volume`
-    * This error means that the app user does not have write permission in the directory where Postman is installed. To resolve the problem, move Postman to a directory where the user has write permissions, for example the `/Application` directory for Mac, and to the `home` directory for Linux.
+* __错误信息:__ `Cannot update while running on a read-only volume`
+    * 此错误表示应用程序用户在安装 Postman 的目录中没有写入权限. 要解决此问题, 请将 Postman 移动到用户具有写入权限的目录, 例如 Mac 的 `/Application` 目录, 以及 Linux 的 `home` 目录.
 
 ![Write Permission Issue in DevTools](https://assets.postman.com/postman-docs/write-permission-issue.png)
 
-* __Error message:__ `Code signature at URL file:///... did not pass validation: code object is not signed at all`
-    * This error means that there are multiple updates running at the same time. This can happen when the app is opened before the previous update could finish. To resolve the problem, quit and reopen the app.
+* __错误信息:__ `Code signature at URL file:///... did not pass validation: code object is not signed at all`
+    * 此错误意味着同时运行多个更新. 在上一次更新完成之前打开应用程序时, 可能会发生这种情况. 要解决该问题, 请退出并重新打开该应用程序.
 
 ![Multiple Updates Running Issue in DevTools](https://assets.postman.com/postman-docs/multiple-updates-running.png)
 
-### Update button not available
+### 更新按钮不可用
 
-If you are using Postman for Linux, and installed the app via the Ubuntu Software Center or Snap Store, you may not see a __Check for updates__ button. This is because the updates are handled by the store, which should automatically update Postman on a regular cadence. If you are on Postman version 6, you will have to migrate to Postman 8 and change the Snap channel to get the latest updates. For more information see [Migrating to Postman 8](/docs/administration/upgrading-to-v8/).
+如果您使用的是Linux版Postman, 并通过 Ubuntu 软件中心或 Snap 商店安装了该应用程序, 您可能看不到 __Check for updates[检查更新]__ 按钮. 这是因为更新是由商店处理的, 商店应该定期自动更新Postman. 如果您使用的是Postman版本6, 则必须迁移到Postman8并更改Snap渠道以获取最新更新. 有关更多信息, 请参阅 [阅迁移到Postman 8](/docs/administration/upgrading-to-v8/).
 
 ## 下一步
 
-If you're having trouble with installation or updates, reach out for [Postman support](https://www.postman.com/support). If your installation is working as expected, [send your first request](/docs/getting-started/sending-the-first-request/)!
+如果您在安装或更新时遇到问题, 请联系 [Postman支持](https://www.postman.com/support). 如果您的安装按预期工作, [请发送您的第一个请求](/docs/getting-started/sending-the-first-request/)!

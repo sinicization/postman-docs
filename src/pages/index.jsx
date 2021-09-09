@@ -119,7 +119,7 @@ class IndexPage extends React.Component {
               <div className="col-md-6 col-lg-4 mb-3 mb-md-4">
                 <SecondaryCard
                   title="Postman网络"
-                  description="查找可以在Postman内部进行交互的模板,工作空间和API."
+                  description="查找可以在Postman内部进行交互的模板,工作区和API."
                   cta="浏览Postman"
                   ctaLink="https://www.postman.com/explore"
                 />

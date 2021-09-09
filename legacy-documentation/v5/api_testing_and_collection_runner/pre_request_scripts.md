@@ -18,7 +18,7 @@ For example, to include a timestamp in the request headers you can set an enviro
 
 You can then use the **timestampHeader** variable in the header key-value editor. When the request is sent, your pre-request script will be executed, and the value of timestampHeader will be sent in place of {{timestampHeader}}.
 
-**Note:** An environment will have to be active for env variables to be set.
+**注意:** An environment will have to be active for env variables to be set.
 
 The syntax of pre-requests scripts is exactly like that of [test scripts][0] except that the response object is not present for obvious reasons.
 

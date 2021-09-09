@@ -29,7 +29,7 @@ _pm('env.create', 'Spotify', {
 });
 ```
 
-## Contents
+## 目录
 
 * [Creating a new environment](#creating-a-new-environment)
 
@@ -39,7 +39,7 @@ _pm('env.create', 'Spotify', {
 
 * [Using multiple buttons](#using-multiple-buttons-with-separate-environments)
 
-* [下一步](#next-steps)
+* [下一步](#下一步)
 
 ## Creating a new environment
 

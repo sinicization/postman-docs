@@ -13,7 +13,7 @@ Postman is available as a native app for Mac, Windows, and Linux operating syste
 
 To install Postman, go to the [download page](https://www.postman.com/downloads/) and click **Download** for Mac / Windows / Linux depending on your platform.
 
-[![Postman download page](https://assets.postman.com/postman-docs/59161734.png)](https://assets.postman.com/postman-docs/59161734.png)
+[![Postman下载页面](https://assets.postman.com/postman-docs/59161734.png)](https://assets.postman.com/postman-docs/59161734.png)
 
 ##### **macOS installation**
 

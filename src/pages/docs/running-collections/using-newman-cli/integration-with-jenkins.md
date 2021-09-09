@@ -46,7 +46,7 @@ Newman allows you to run and test a Postman Collection. Newman and Jenkins are a
 * [Troubleshooting](#troubleshooting)
 * [Configure frequency of runs](#configure-frequency-of-runs)
 
-**Note:** This walkthrough uses Ubuntu as a target OS, as in most cases your CI server will be running on a remote Linux machine.
+**注意:** This walkthrough uses Ubuntu as a target OS, as in most cases your CI server will be running on a remote Linux machine.
 
 ## Installation
 
@@ -131,7 +131,7 @@ To set up the frequency with which Jenkins runs Newman, click on “Configure pr
 
 [![build triggers](https://assets.postman.com/postman-docs/integrating_with_jenkins_12.png)](https://assets.postman.com/postman-docs/integrating_with_jenkins_12.png)
 
-**Note:** 30 can be replaced with another number.
+**注意:** 30 can be replaced with another number.
 
 Jenkins will now run Newman at your desired frequency and will tell you whether the build failed or succeeded. In a bigger setup, Newman will be part of your build process and probably not the entire process. You can set up notifications and customize Jenkins as per your needs.
 

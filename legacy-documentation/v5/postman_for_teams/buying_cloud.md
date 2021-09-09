@@ -10,7 +10,7 @@ warning: false
 ---
 To purchase Pro, follow these instructions. Team leads as well as purchasing departments can buy the product.
 
-1\. Getting started
+1\. 入门
 
 Go to [https://www.postman.com/pricing][0].
 

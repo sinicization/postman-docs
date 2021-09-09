@@ -1,9 +1,16 @@
 {
+  "getting-started": "入门",
+  "sending-requests": "发送请求",
+  "writing-scripts": "编写脚本",
+  "running-collections": "运行集合",
+  "collaborating-in-postman": "在Postman中协作",
   "sso": "单点登录 (SSO)",
   "monitoring-your-api": "监测您的API",
   "designing-and-developing-your-api": "设计和开发您的API",
   "publishing-your-api": "发布您的API",
+  "administration" : "管理",
   "developer": "开发人员资源",
   "supported-api-frameworks": "支持的API框架",
+  "integrations": "集成",
   "using-newman-cli": "使用Newman CLI"
 }

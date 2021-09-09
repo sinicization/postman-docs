@@ -37,13 +37,13 @@ You can run collections against specific environments, and can pass data files i
 
 > You can run a collection in Postman, using Newman, or with a monitor.
 
-## Contents
+## 目录
 
 * [Starting a collection run](#starting-a-collection-run)
 * [Running your collections](#running-your-collections)
 * [Sharing collection runs](#sharing-collection-runs)
 * [Automating collection runs](#automating-collection-runs)
-* [下一步](#next-steps)
+* [下一步](#下一步)
 
 ## Starting a collection run
 

@@ -25,7 +25,7 @@ contextual_links:
 
 In Postman you can assign roles and permissions to provide access control.
 
-## Contents
+## 目录
 
 * [Roles in Postman](#roles-in-postman)
 
@@ -41,7 +41,7 @@ In Postman you can assign roles and permissions to provide access control.
 
 * [Roles FAQ](#roles-faq)
 
-* [下一步](#next-steps)
+* [下一步](#下一步)
 
 ## Roles in Postman
 

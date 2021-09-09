@@ -37,7 +37,7 @@ Click __View in Console__ to see the request detail in the Console and find out 
 
 ![Error in Console](https://assets.postman.com/postman-docs/console-pane-opened-from-response.jpg)
 
-## Contents
+## 目录
 
 * [Common issues](#common-issues)
 * [Debugging and logs](#debugging-and-logs)

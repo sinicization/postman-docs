@@ -33,7 +33,7 @@ If you have sync enabled, all the data you now create (or have created in the pa
 
 Postman automatically makes sure your data is the same no matter where you access it. No further settings are required.
 
-**Note:** Postman restricts parallel usage to three apps per account.
+**注意:** Postman restricts parallel usage to three apps per account.
 
 ## States
 

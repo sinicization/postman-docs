@@ -45,7 +45,7 @@ You can automatically generate documentation for your Postman APIs. You can shar
 
 ![Public Documentation](https://assets.postman.com/postman-docs/API+docs+SK.jpg)
 
-## Contents
+## 目录
 
 * [Generating your documentation](#generating-your-documentation)
     * [Documenting an existing collection](#documenting-an-existing-collection)
@@ -54,7 +54,7 @@ You can automatically generate documentation for your Postman APIs. You can shar
 * [Accessing doc views](#accessing-doc-views)
 * [Documentation environments](#documentation-environments)
 * [Versioning your docs](#versioning-your-docs)
-* [下一步](#next-steps)
+* [下一步](#下一步)
 
 ## Generating your documentation
 

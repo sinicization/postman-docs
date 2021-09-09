@@ -53,10 +53,10 @@ Travis CI runs your tests every time you commit to your GitHub repo. Then it sub
 
 Let's learn more about integration with Travis:
 
-* [Getting started](#getting-started)
+* [入门](#getting-started)
 * [Hooking up Postman to Travis CI](#hooking-up-postman-to-travis-ci)
 
-## Getting started
+## 入门
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/a19ae42317a16e4b8c8b#?env%5Btests%5D=W3sia2V5IjoibGFzdERheSIsInZhbHVlIjoiIiwiZW5hYmxlZCI6dHJ1ZX1d)
 

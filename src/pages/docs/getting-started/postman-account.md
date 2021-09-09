@@ -32,7 +32,7 @@ A free Postman account allows you to [sync](/docs/getting-started/syncing/) and 
 
 Signing up for an account is optional—you can use the desktop Postman app without an account if you prefer. Check out the [EULA](https://www.postman.com/legal/eula/), [security overview](https://www.postman.com/security), and [privacy policy](https://www.postman.com/licenses/privacy).
 
-## Contents
+## 目录
 
 * [Signing up for a Postman account](#signing-up-for-a-postman-account)
 * [Configuring your account](#configuring-your-account)

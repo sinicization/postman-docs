@@ -33,7 +33,7 @@ Interceptor enables you to sync cookies from your browser to Postman and capture
 
 If you are using the Postman Chrome app, refer to [Using the Interceptor with Postman's Chrome app](#using-the-interceptor-with-postmans-chrome-app).
 
-## Contents
+## 目录
 
 * [Installing Interceptor](#installing-interceptor)
 
@@ -61,7 +61,7 @@ If you are using the Postman Chrome app, refer to [Using the Interceptor with Po
 
 To get started, you'll need to first install Postman Interceptor:
 
-1. [Download](https://go.pstmn.io/interceptor-download) Interceptor in the Chrome Web Store. If you already have the extension, ensure it is version v0.2.26 or later.
+1. [下载](https://go.pstmn.io/interceptor-download) Interceptor in the Chrome Web Store. If you already have the extension, ensure it is version v0.2.26 or later.
 
 2. Navigate to the Postman app and click the satellite icon in the upper-right corner to **Capture requests and cookies with Postman**. You can then enable those two features in their respective tabs. Under **Requests**, change **Source** to Interceptor.
 
@@ -190,7 +190,7 @@ If you are unable to resolve an ``INTERNET_CONNECTIVITY`` error, you can manuall
         1. Verify the `InterceptorBridge.exe` file exists in this path ``%USERPROFILE%\.postman\``.
         2. Verify in this path `HKEY_CURRENT_USER\SOFTWARE\Google\Chrome\NativeMessagingHosts` that the manifest file ``com.postman.postmanapp.json`` exists with the correct extension ID ``aicmkgpgakddgnaphhhpliifpcfhicfo`` and the correct path ``%USERPROFILE%\.postman\`` to the executable file ``InterceptorBridge.exe``.
 
-**Note:**
+**注意:**
 
  1. To run the script depending on your OS, you may need to double-click or execute the installer script via a shell. Users on MacOS/Windows may see a security warning. For example, to override the security on MacOS, you may need to right click > open.
 

@@ -58,9 +58,9 @@ A typical use of environments could work as follows:
 
 You can use the current value of your environment variables to ensure that sensitive data values such as credentials are not accidentally shared. By using environments rather than global variables, you can control visibility of your data values within your workspace and team.
 
-## Contents
+## 目录
 
-* [Creating environments](#creating-environments)
+* [创建环境](#创建环境)
     * [Adding environment variables](#adding-environment-variables)
 * [Accessing environments](#accessing-environments)
     * [Selecting an active environment](#selecting-an-active-environment)
@@ -72,7 +72,7 @@ You can use the current value of your environment variables to ensure that sensi
         * [Requesting environment access](#requesting-environment-access)
     * [Using an environment in editor role](#using-an-environment-in-editor-role)
 
-## Creating environments
+## 创建环境
 
 You will see the selected environment status at the top-right of Postman, with any _active_ environment selected in the drop-down. In __Environments__ on the left you can access all environments, and click the check-mark button to make an environment active. Select an environment to open it for editing in a tab.
 

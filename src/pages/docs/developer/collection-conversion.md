@@ -1,5 +1,5 @@
 ---
-title: "Postman Collection conversion"
+title: "Postman 集合转换器"
 order: 149.2
 page_id: "collection-conversion"
 search_keyword: "postman-api-key, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset"
@@ -12,26 +12,26 @@ contextual_links:
   - type: section
     name: "下一步"
   - type: link
-    name: "Continuous Integration"
+    name: "持续集成"
     url: "/docs/running-collections/using-newman-cli/continuous-integration/"
 
 warning: false
 
 ---
 
-You can convert from a variety of API formats into Postman Collections. If you have API requests defined as OpenAPI, Swagger, RAML, or GraphQL schema formats, you can convert these to Postman Collections that you can import into the app or use with other Postman utilities such as the Newman CLI.
+您可以将各种 API 格式转换为 Postman 集合. 如果您将 API 请求定义为 OpenAPI, Swagger, RAML, 或 GraphQL 架构格式, 则可以将这些请求转换为 Postman 集合, 然后将其导入应用程序或与其他 Postman 实用程序(例如 Newman CLI) 一起使用.
 
-The following open source projects are hosted on GitHub:
+以下开源项目托管在 GitHub 上:
 
 * [OpenAPI 3.0 to Postman](https://github.com/postmanlabs/openapi-to-postman)
 * [Swagger 2.0 to Postman](https://github.com/postmanlabs/swagger2-postman2)
 * [RAML 1.0 to Postman](https://github.com/postmanlabs/raml1-to-postman)
 * [GraphQL to Postman](https://github.com/postmanlabs/graphql-to-postman)
 
-Each of these node.js modules is available to use via NPM or by cloning directly from the repo.
+这些 node.js 模块中的每一个都可以通过 NPM 或直接从存储库克隆来使用.
 
-Check out the repo for the format you need to convert—the READMEs indicate how to install and use the converters. Your output collections will be suitable for import into the Postman app, or to run collections on the command line using [Newman](/docs/running-collections/using-newman-cli/command-line-integration-with-newman/).
+查看您需要转换的格式的存储库 — 自述文件指示如何安装和使用转换器. 您的输出集合适合导入 Postman 应用程序, 或使用 [Newman](/docs/running-collections/using-newman-cli/command-line-integration-with-newman/) 在命令行上运行集合.
 
 ## 下一步
 
-If you're using converters to automate Postman collection runs with your development, testing, or deployment pipeline, check out how you can use [Postman API in your CI workflow](/docs/running-collections/using-newman-cli/continuous-integration/).
+如果您使用转换器在开发、测试或部署管道中自动运行 Postman 集合, 请查看如何在 [CI 工作流中使用 Postman API](/docs/running-collections/using-newman-cli/continuous-integration/).

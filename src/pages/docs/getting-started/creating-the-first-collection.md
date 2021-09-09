@@ -1,5 +1,5 @@
 ---
-title: "Creating your first collection"
+title: "创建您的第一个集合"
 order: 7
 page_id: "creating_the_first_collection"
 contextual_links:
@@ -13,12 +13,12 @@ contextual_links:
   - type: subtitle
     name: "视频"
   - type: link
-    name: "Intro to Postman Cloud"
+    name: "Postman Cloud 简介"
     url: "https://www.youtube.com/watch?v=ccdxr0oJR-I"
   - type: subtitle
     name: "相关博客文章"
   - type: link
-    name: "The Good Collection"
+    name: "好的集合"
     url: "https://blog.postman.com/the-good-collection/"
   - type: section
     name: "下一步"
@@ -29,33 +29,33 @@ contextual_links:
 warning: false
 ---
 
-Postman Collections are a group of saved requests you can organize into folders.
+Postman 集合是一组保存的请求, 您可以将其组织到文件夹中.
 
-Every request you send in Postman appears under the **History** tab of the sidebar. On a small scale, reusing requests through the history section is convenient. However, as your Postman usage scales, it can be time consuming to find a particular request in your history. Instead of combing through your history section, you can save all your requests as a group for easier access.
+您在 Postman 中发送的每个请求都会出现在侧边栏的 **History[历史]** 选项卡下. 在小范围内, 通过历史部分重用请求很方便. 但是, 随着 Postman 使用量的增加, 在历史中查找特定请求可能会很耗时. 您可以将所有请求保存为一个组, 以便于访问, 而不是梳理您的历史部分.
 
-Let's review how to [send a basic request](/docs/getting-started/sending-the-first-request/) and create a new collection.
+让我们回顾一下如何 [发送基本请求](/docs/getting-started/sending-the-first-request/) 并创建新集合.
 
-## Creating your first collection
+## 创建您的第一个集合
 
-You can create a new request from the left sidebar in Postman. Click __New__ &gt; __Request__.
+您可以从 Postman 的左侧边栏中创建新请求. 单击 __New[新建]__ &gt; __Request[请求]__.
 
 <img alt="Create new request sidebar" src="https://assets.postman.com/postman-docs/create-new-request-sidebar-v8.jpg"/>
 
-To create a new request from the Overview tab, use the Get started section at the right of Postman and click Create a request.
+要从 __Overview[概述]__ 标签页创建新请求, 请使用 Postman 右侧的 __Get started[开始]__ 部分, 然后单击 __Create a request[创建一个请求]__ .
 
 <img alt="Create new request overview" src="https://assets.postman.com/postman-docs/create-new-request-v8.jpg" width="300px"/>
 
-Enter a request in the request builder and click **Save** to open the **SAVE REQUEST** modal.
+在请求构建器中输入请求, 然后单击 **Save[保存]** 以打开 **SAVE REQUEST[保存请求]** 模态.
 
 <img alt="Save request modal" src="https://assets.postman.com/postman-docs/save-request-modal-v8.jpg"/>
 
-* As an optional step, enter a new request name. Otherwise, the default name will be the request URL.
-* As an optional step, enter a request description in plain text or using [Markdown](https://documenter.getpostman.com/view/33232/markdown-in-api-documentation/JsGc?version=latest).
+* 作为可选步骤, 输入新的 Request name[请求名称]. 否则, 默认名称将是请求 URL.
+* 作为可选步骤, 以纯文本形式或使用 [Markdown](https://documenter.getpostman.com/view/33232/markdown-in-api-documentation/JsGc?version=latest) 输入 Request Description[请求描述].
 
-Save this request to an existing collection, or create a new collection by entering a collection name, and then click the **Save** button.
+将此请求保存到现有集合, 或通过输入集合名称创建新集合, 然后单击 **Save[保存]** 按钮.
 
 <img alt="Save request to collection" src="https://assets.postman.com/postman-docs/save-request-to-collection-v8.jpg" width="400px"/>
 
-Congratulations! You can see all of your collections under the **Collections** tab of the sidebar on the left, as illustrated in the screen below:
+恭喜! 您可以在左侧边栏的 **Collections[集合]** 选项卡下看到您的所有集合, 如下图所示:
 
 <img alt="Collection sidebar" src="https://assets.postman.com/postman-docs/creating-first-collection-v8.jpg" width="400px"/>

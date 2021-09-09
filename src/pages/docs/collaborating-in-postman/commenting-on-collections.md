@@ -15,7 +15,7 @@ warning: false
 
 You can leave comments on collections and requests to collaborate with your teammates. You can tag your collaborators in comments to let them know that you have questions or feedback.
 
-## Contents
+## 目录
 
 * [Commenting on a collection](#commenting-on-a-collection)
 * [Commenting on a request](#commenting-on-a-request)
@@ -25,7 +25,7 @@ You can leave comments on collections and requests to collaborate with your team
 * [Resolving comments](#resolving-comments)
 * [Deleting comments](#deleting-comments)
 * [Tagging members in comments](#tagging-members-in-comments)
-* [下一步](#next-steps)
+* [下一步](#下一步)
 
 > Postman supports comments on requests and request parameters.
 

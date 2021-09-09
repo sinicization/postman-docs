@@ -11,7 +11,7 @@ contextual_links:
   - type: section
     name: "下一步"
   - type: link
-    name: "Continuous Integration"
+    name: "持续集成"
     url: "/docs/running-collections/using-newman-cli/continuous-integration/"
 
 warning: false

@@ -15,7 +15,7 @@ This section describes the steps to migrate your team to Postman v8.
 
 ## Migrating to Postman v8
 
-[Postman v8](https://blog.postman.com/introducing-postman-desktop-app/) provides a consistent, improved API development experience. It offers [universal search](/docs/getting-started/navigating-postman/#universal-search) across all of Postman, including Public and Private API Networks, plus you can work on public workspaces directly through the desktop app. With v8, the Postman desktop app and [Postman on the web](https://community.postman.com/t/whats-new-in-postman-for-the-web/18203) are equally empowering—which one you use is a matter of preference for your workflows.
+[Postman v8](https://blog.postman.com/introducing-postman-desktop-app/) provides a consistent, improved API development experience. It offers [universal search](/docs/getting-started/navigating-postman/#通用搜索) across all of Postman, including Public and Private API Networks, plus you can work on public workspaces directly through the desktop app. With v8, the Postman desktop app and [Postman on the web](https://community.postman.com/t/whats-new-in-postman-for-the-web/18203) are equally empowering—which one you use is a matter of preference for your workflows.
 
 * [Upgrading to Postman v8](#upgrading-to-postman-v8)
     * [Upgrading to v8 as an individual](#upgrading-to-v8-as-an-individual)
@@ -65,7 +65,7 @@ Migration is required if team members are using Postman v6 or below. If you are 
 
 > Once your team migrates to Postman v7 or above, the native apps 5.x and 6.x versions and Chrome app 5.x versions will stop syncing. All [collaboration features](/docs/collaborating-in-postman/collaboration-intro/) will stop working and all members of the team need to update their apps to Postman v7 or above to continue collaborating.
 
-**Note:** The migration decision is restricted to the team admin. If you are a Postman team member(non-admin) and are not on Postman v8, please contact your admin to migrate to Postman v8.
+**注意:** The migration decision is restricted to the team admin. If you are a Postman team member(non-admin) and are not on Postman v8, please contact your admin to migrate to Postman v8.
 
 <img alt="non-admin user" src="https://assets.postman.com/postman-docs/non-admin-migrate-v8.jpg"/>
 
@@ -102,7 +102,7 @@ Please use the following links to download the latest Postman v7 version for you
 * [Download Postman v7 for Windows 32-bit](https://go.pstmn.io/dl-win32-v7-latest)
 * [Download Postman v7 for Linux 64-bit](https://go.pstmn.io/dl-linux64-v7-latest)
 
-**Note:** If you are using Postman for Linux, and had installed the app via 'Ubuntu Software Center' or 'Snap Store', please use the following commands to switch to Postman v7.
+**注意:** If you are using Postman for Linux, and had installed the app via 'Ubuntu Software Center' or 'Snap Store', please use the following commands to switch to Postman v7.
 
 ```
 sudo snap switch --channel=v7/stable postman
@@ -119,7 +119,7 @@ Please use the following links to download the latest Postman v6 version for you
 * [Download Postman v6 for Linux 64-bit](https://go.pstmn.io/dl-linux64-v6-latest)
 * [Download Postman v6 for Linux 32-bit](https://go.pstmn.io/dl-linux32-v6-latest)
 
-**Note:** If you are using Postman for Linux, and had installed the app via 'Ubuntu Software Center' or 'Snap Store', please use the following commands to switch to Postman v6.
+**注意:** If you are using Postman for Linux, and had installed the app via 'Ubuntu Software Center' or 'Snap Store', please use the following commands to switch to Postman v6.
 
 ```
 sudo snap switch --channel=v6/stable postman

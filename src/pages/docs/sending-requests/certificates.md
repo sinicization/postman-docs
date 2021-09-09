@@ -46,7 +46,7 @@ Once your certificate is added, it should appear in the client certificates list
 
 [![client certificates list](https://assets.postman.com/postman-docs/clientcertificateslist.png)](https://assets.postman.com/postman-docs/clientcertificateslist.png)
 
-**NOTE:** You should not have multiple certificates set for the same domain. If you have multiple ones set, only the last one added will be used.
+**注意:** You should not have multiple certificates set for the same domain. If you have multiple ones set, only the last one added will be used.
 
 ## Using a Certificate
 

@@ -25,13 +25,13 @@ You can upload your API schemas directly to AWS API Gateway from Postman with th
 
 > This integration uses version 2 of the AWS API and only supports HTTP APIs with OpenAPI 3.0 schemas.
 
-## Contents
+## 目录
 
 * [Uploading API schemas to AWS API Gateway](#uploading-api-schemas-to-aws-api-gateway)
 
     * [Configuring an AWS API Gateway integration](#configuring-an-aws-api-gateway-integration)
 
-* [下一步](#next-steps)
+* [下一步](#下一步)
 
 ## Uploading API schemas to AWS API Gateway
 

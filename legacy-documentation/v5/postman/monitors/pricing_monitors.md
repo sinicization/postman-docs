@@ -35,7 +35,7 @@ On the [billing page](https://app.getpostman.com/pay/billing), paid teams can co
 
 At the end of each billing cycle, you'll be charged $200 for each block configured, plus $0.75 per 1000 requests made over your block limit.
 
-##### **Example:**
+##### **示例:**
 
 If a paid team has configured 2 blocks, and makes 1,200,000 requests in a billing cycle, they will be charged: (2 blocks * $200/block) + ($0.75 * 190) = $542.50 for that cycle.
 

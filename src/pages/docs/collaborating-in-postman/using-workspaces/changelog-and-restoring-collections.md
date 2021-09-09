@@ -29,12 +29,12 @@ warning: false
 
 Your Postman collections display a changelog for reviewing create, update, and delete events. You can use the changelog to keep track of any updates you and your collaborators make to your private and team collections. The changelog also lets you rollback a collection and restore it to any previous point in time. Postman also tracks activity within teams and accounts.
 
-## Contents
+## 目录
 
 * Viewing changes to a [collection](#viewing-the-collection-changelog), [workspace](#viewing-workspace-activity), [team](#viewing-team-activity), or [user account](#viewing-user-activity).
 * [Restoring collections and folders](#restoring-collections-and-folders)
 * [Exporting team activity](#exporting-team-activity-to-other-platforms)
-* [下一步](#next-steps)
+* [下一步](#下一步)
 
 ## Viewing the collection changelog
 

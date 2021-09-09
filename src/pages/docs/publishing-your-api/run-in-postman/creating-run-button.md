@@ -44,11 +44,11 @@ One way to [share your Postman Collections](/docs/collaborating-in-postman/shari
 
 > The Run in Postman button also works with API specification formats like OpenAPI and RAML. To create a button for the standard you use, first convert the file to a collection by [importing it into Postman](/docs/getting-started/importing-and-exporting-data/) or by [authoring your specification in Postman](/docs/designing-and-developing-your-api/the-api-workflow/) to generate a collection.
 
-## Contents
+## 目录
 
 * [Creating a Run in Postman button](#creating-a-run-in-postman-button)
 * [Keeping your collections up to date](#keeping-your-collections-up-to-date)
-* [下一步](#next-steps)
+* [下一步](#下一步)
 
 ## Creating a Run in Postman button
 

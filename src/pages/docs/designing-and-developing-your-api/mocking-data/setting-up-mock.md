@@ -61,7 +61,7 @@ To try out a mock server, carry out the following steps:
 * Click **Send**—Postman should return the example response you saved for the request, this time from the mock server.
 * Open the example again and alter the mock response JSON, then save it and send the request again—you will see your edited mock response.
 
-## Contents
+## 目录
 
 * [Creating mock servers](#creating-mock-servers)
     * [Configuring mock details](#configuring-mock-details)

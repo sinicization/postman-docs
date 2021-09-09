@@ -18,7 +18,7 @@ contextual_links:
   - type: subtitle
     name: "视频"
   - type: link
-    name: "Intro to Postman Cloud"
+    name: "Postman Cloud 简介"
     url: "https://www.youtube.com/watch?v=ccdxr0oJR-I"
   - type: subtitle
     name: "相关博客文章"
@@ -65,7 +65,7 @@ If you forget your username or password, you can recover them using the links in
 
 When you're logged into Postman, your data is synced across devices.
 
-**Note:** Postman restricts parallel usage to three apps per account.
+**注意:** Postman restricts parallel usage to three apps per account.
 
 ### States
 

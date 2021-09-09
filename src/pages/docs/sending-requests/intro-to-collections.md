@@ -40,7 +40,7 @@ Postman lists your collections in the left sidebar &gt; select __Collections__.
 
 Click a collection to open its overview in a tab. You can open and close collection content by clicking the arrow to the left, and favorite (&#9733;) to move a collection to the top of the list. You can add sub-folders to create an extra level of nesting with your requests and examples. Use the search text-field to filter through your collections.
 
-## Contents
+## 目录
 
 * [Creating collections](#creating-collections)
 * [Adding requests](#adding-requests)

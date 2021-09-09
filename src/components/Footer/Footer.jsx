@@ -162,7 +162,7 @@ class FooterComponent extends React.Component {
                   }}
                 >
                   <span className="footer-column__link">
-                    Privacy Policy
+                    隐私政策
                   </span>
                 </a>
               </div>
@@ -180,7 +180,7 @@ class FooterComponent extends React.Component {
                     });
                   }}
                 >
-                  <span className="footer-column__link">Terms</span>
+                  <span className="footer-column__link">条款</span>
                 </a>
               </div>
               <div className="mr-2 pr-sm-3 pl-sm-2 items_noline">
@@ -197,7 +197,7 @@ class FooterComponent extends React.Component {
                     });
                   }}
                 >
-                  <span className="footer-column__link">Careers</span>
+                  <span className="footer-column__link">招聘</span>
                 </a>
               </div>
               <div className="mr-2 pr-sm-3 pl-sm-2 items_noline">
@@ -214,7 +214,7 @@ class FooterComponent extends React.Component {
                     });
                   }}
                 >
-                  <span className="footer-column__link">Support</span>
+                  <span className="footer-column__link">支持</span>
                 </a>
               </div>
               <div className="mr-2 pr-sm-3 pl-sm-2 items_noline">
@@ -231,7 +231,7 @@ class FooterComponent extends React.Component {
                     });
                   }}
                 >
-                  <span className="footer-column__link">Security</span>
+                  <span className="footer-column__link">安全</span>
                 </a>
               </div>
             </div>
@@ -372,7 +372,7 @@ class FooterComponent extends React.Component {
                     href="https://github.com/postmanlabs"
                     target="_blank"
                     rel="noopener noreferrer"
-                    title="View our Postman repos on GitHub"
+                    title="在GitHub上查看我们的Postman存储库"
                     className="social-icon"
                   >
                     <svg

@@ -35,14 +35,14 @@ If you're logged in, go directly to your team's [Private API Network](https://go
 
 > In order to add your API to the network, it must be in the [API Builder](/docs/designing-and-developing-your-api/the-api-workflow/). You can only add APIs, not collections, to the Private API Network.
 
-## Contents
+## 目录
 
 * [Adding your APIs](#adding-your-apis)
     * [Security](#security)
     * [Guidelines](#guidelines)
 * [Folders in Private API Network](#folders-in-private-api-network)
 * [Discovering and consuming private APIs](#discovering-and-consuming-private-apis)
-* [下一步](#next-steps)
+* [下一步](#下一步)
 
 ### Adding your APIs
 

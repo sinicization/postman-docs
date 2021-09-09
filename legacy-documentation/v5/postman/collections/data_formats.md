@@ -75,7 +75,7 @@ A few commands which can be imported include:
     
  [![confirmation message](https://assets.postman.com/postman-docs/WS-data-format-raml-2a.png)](https://assets.postman.com/postman-docs/WS-data-format-raml-2a.png)
 
-##### **Examples**
+##### **示例**
 
 Download an example RAML file: [github-api-v3.raml](https://assets.postman.com/postman-docs/github-api-v3.raml)
 
@@ -97,7 +97,7 @@ A Swagger API definition usually lives as a single file, so we only support impo
 
 [![confirmation message](https://assets.postman.com/postman-docs/WS-data-format-raml-2a.png)](https://assets.postman.com/postman-docs/WS-data-format-raml-2a.png)
 
-##### **Examples**
+##### **示例**
 
   Swagger 2.0: [https://github.com/OAI/OpenAPI-Specification/tree/master/examples/v2.0](https://github.com/OAI/OpenAPI-Specification/tree/master/examples/v2.0)
 

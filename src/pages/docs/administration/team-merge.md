@@ -22,7 +22,7 @@ Team migration is required when you consolidate one or more Postman teams into a
 
 Team migration can occur in different ways depending on your needs and preferred outcomes.
 
-## Contents
+## 目录
 
 * [Who can perform team migration](#who-can-perform-team-migration)
 * [Before you start migrating](#before-you-start-migrating)
@@ -32,7 +32,7 @@ Team migration can occur in different ways depending on your needs and preferred
     * [Performing centralized migration](#performing-centralized-migration)
     * [Performing distributed migration](#performing-distributed-migration)
 * [Migration FAQs](#migration-faqs)
-* [下一步](#next-steps)
+* [下一步](#下一步)
 
 ## Who can perform team migration
 

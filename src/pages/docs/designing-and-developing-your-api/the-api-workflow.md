@@ -29,7 +29,7 @@ You can design your API directly in Postman using the API Builder. By defining y
 
 You can connect various components of your API development and testing process to your schema, such as collections, documentation, tests, mocks, and monitors. You can also version your APIs in Postman and connect elements to specific versions.
 
-* [Creating an API](#creating-an-api)
+* [创建一个 API](#创建一个-api)
 * [Defining an API](#defining-an-api)
     * [Editing your schema](#editing-your-schema)
     * [Generating a collection](#generating-a-collection)
@@ -41,7 +41,7 @@ You can connect various components of your API development and testing process t
 * [Testing an API](#testing-an-api)
 * [Observing an API](#observing-an-api)
 
-## Creating an API
+## 创建一个 API
 
 To access the API Builder, open __APIs__ from the left sidebar in Postman. You can open and edit any existing APIs from here—Postman will automatically open the most recent version of an API by default.
 

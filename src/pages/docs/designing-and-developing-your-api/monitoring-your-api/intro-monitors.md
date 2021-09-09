@@ -35,7 +35,7 @@ warning: false
 
 Postman Monitoring helps you to stay up to date on the health and performance of your APIs. Within a matter of seconds, you can set up Postman's monitoring service and integrate it into your API development pipeline.
 
-## Contents
+## 目录
 
 * [What is monitoring?](#what-is-monitoring)
 
@@ -67,7 +67,7 @@ Postman Monitoring helps you to stay up to date on the health and performance of
 
     * [Accessible APIs](#accessible-apis)
 
-* [下一步](#next-steps)
+* [下一步](#下一步)
 
 ## What is monitoring?
 

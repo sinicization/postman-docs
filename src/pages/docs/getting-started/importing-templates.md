@@ -11,7 +11,7 @@ contextual_links:
   - type: section
     name: "下一步"
   - type: link
-    name: "Creating your first collection"
+    name: "创建您的第一个集合"
     url: "/docs/getting-started/creating-the-first-collection/"
   - type: link
     name: "Publishing templates"

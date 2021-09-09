@@ -16,7 +16,7 @@ _GitHub Desktop is much easier if you're unfamiliar with using git / GitHub on t
 * Navigate to the new directory git created. `cd postman-docs`
 * Checkout the `develop` branch. `git checkout develop`
 * Run `npm install` to add all dependencies
-* Create a new branch for your work based on develop `git checkout -b <YOUR BRANCH NAME>` Your branch name should be something descriptive of the changes you wish to make, and can include the issue number this change is associated with. Example: `feature/1234-update-mock-api-docs`
+* Create a new branch for your work based on develop `git checkout -b <YOUR BRANCH NAME>` Your branch name should be something descriptive of the changes you wish to make, and can include the issue number this change is associated with. 示例: `feature/1234-update-mock-api-docs`
 * Make your changes. The Learning Center's documentation is built from the `.md` files in the `/src/pages/docs` folder of the repo
 * Check your files against our markdown guidelines by running `npm run test:mdlint` and resolve any errors
 * When you're ready to apply your changes, push your changed files to your forked repo
@@ -53,7 +53,7 @@ If you would like to add, edit, or replace links you are welcome to do so. There
 
 When creating or editing an internal link (a link that points to a Learning Center doc), be sure to:
 
-* use a relative URL. Example: `/docs/collaborating-in-postman/collaboration-intro/`
+* use a relative URL. 示例: `/docs/collaborating-in-postman/collaboration-intro/`
 * use a trailing slash to keep our app from creating uneccesary 302 redirects. (See example of trailing slash above.)
 * use a leading slash to keep the doc page from 404'ing. (See example of leading slash above.)
 * `npm run dev` the app and check links you have added / edited to ensure they work correctly.
@@ -62,10 +62,10 @@ When creating or editing an internal link (a link that points to a Learning Cent
 
 When creating or editing an external link (a link that points to sources outside of Learning Center), be sure to:
 
-* Use an absolute URL. Example: `https://www.postman.com`
+* Use an absolute URL. 示例: `https://www.postman.com`
 * Use the resolved URL. Do not use abbreviated URLs (postman.com) or URLs that redirect (`http://www.postman.com`). **Tip:** Enter the URL into the browser and let it resolve, and copy the entire URL and use that.
-* Strip off any UTM parameters or unnecessary query strings or tracking at the end of URLs. Example: `?utm_source=blog&utm_medium=internal&utm_campaign=exampleCampaign`
-* As a best practice for accessibility, add titles to external links to help the visitor understand the purpose of the link and why they will be taken away from the Learning Center. Example: `[Postman API Platform](https://www.postman.com/api-platform/  "Visit the Postman website to learn more about the Postman API Platform")`
+* Strip off any UTM parameters or unnecessary query strings or tracking at the end of URLs. 示例: `?utm_source=blog&utm_medium=internal&utm_campaign=exampleCampaign`
+* As a best practice for accessibility, add titles to external links to help the visitor understand the purpose of the link and why they will be taken away from the Learning Center. 示例: `[Postman API Platform](https://www.postman.com/api-platform/  "Visit the Postman website to learn more about the Postman API Platform")`
 
 ## Adding/Editing Images
 

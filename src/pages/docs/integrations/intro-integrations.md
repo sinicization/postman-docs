@@ -28,7 +28,7 @@ Integrations allow you to automate sharing data and functionality between Postma
 
 > If you use GitHub or GitLab for your repository management and use Postman to develop and test your APIs, you can save your Postman Collections to your repositories with the [Postman to GitHub integration](/docs/integrations/available-integrations/github/) and [Postman to GitLab integration](https://learning.postman.com/docs/integrations/available-integrations/gitlab/).
 
-## Contents
+## 目录
 
 * [Accessing Integrations](#accessing-integrations)
 * [Static IP Support](#static-ip-support)

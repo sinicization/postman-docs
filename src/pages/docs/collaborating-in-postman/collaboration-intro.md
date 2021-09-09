@@ -32,7 +32,7 @@ Postman will alert you with notifications when activities occur within your team
 
 > Each account can be on one Postman team at a time. Multi-team collaboration and guest accounts are [on Postman's roadmap](https://trello.com/b/4N7PnHAz/postman-roadmap-for-developers).
 
-## Contents
+## 目录
 
 * [Working with team workspaces](#working-with-team-workspaces)
 
@@ -54,7 +54,7 @@ Postman will alert you with notifications when activities occur within your team
 
     * [Recovering archived collections](#recovering-your-archived-collections)
 
-* [下一步](#next-steps)
+* [下一步](#下一步)
 
 ## Working with team workspaces
 

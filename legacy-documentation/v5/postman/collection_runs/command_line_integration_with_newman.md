@@ -153,7 +153,7 @@ The results of all tests and requests can be exported into a file and later impo
 $ newman run mycollection.json --reporters cli,json --reporter-json-export outputfile.json
 ```
 
-**Note:** Newman allows you to use all [libraries and objects](https://learning.postman.com/docs/postman/scripts/postman_sandbox/) that Postman supports to run tests and pre-request scripts.
+**注意:** Newman allows you to use all [libraries and objects](https://learning.postman.com/docs/postman/scripts/postman_sandbox/) that Postman supports to run tests and pre-request scripts.
 
 ### File uploads
 

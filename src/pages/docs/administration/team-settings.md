@@ -17,7 +17,7 @@ contextual_links:
 
 Your [Team Settings](https://go.postman.co/settings/team/general) allow you to manage items such as your team's profile, discoverability, custom domains, billing details, authentication, and active invite links.
 
-## Contents
+## 目录
 
 * [Accessing team settings](#accessing-team-settings)
 * [Editing your team profile](#editing-your-team-profile)

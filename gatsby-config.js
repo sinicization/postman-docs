@@ -10,7 +10,7 @@ require('dotenv').config({
 
 module.exports = {
   siteMetadata: {
-    title: 'Postman Learning Center',
+    title: 'Postman学习中心',
     description: '',
     author: 'Postman',
     siteUrl: 'https://learning.postman.com',
@@ -95,8 +95,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'Postman Learning Center',
-        short_name: 'Postman Learning Center',
+        name: 'Postman学习中心',
+        short_name: 'Postman学习中心',
         start_url: '/',
         background_color: '#FF6C37',
         theme_color: '#FF6C37',

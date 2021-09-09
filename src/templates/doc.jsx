@@ -4,6 +4,7 @@ import { graphql } from 'gatsby';
 import Layout from '../components/layout';
 import ContextualLinks from '../components/ContextualLinks/ContextualLinks';
 import EditDoc from '../components/Shared/EditDoc';
+import OpenDoc from '../components/Shared/OpenDoc';
 import LeftNav from '../components/LeftNav/LeftNav';
 import SEO from '../components/seo';
 import './doc.scss';
@@ -33,6 +34,7 @@ export default ({ data }) => {
               <aside className="col-sm-12 col-md-12 col-lg-4 right-column">
                 <div className="edit-button">
                   <EditDoc className="btn btn__small btn__secondary-light" />
+                  <OpenDoc className="btn btn__small btn__secondary-light" />
                 </div>
                 {contextualLinks}
               </aside>

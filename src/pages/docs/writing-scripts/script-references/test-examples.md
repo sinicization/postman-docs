@@ -38,7 +38,7 @@ You can use the **Tests** tab in your requests and collections to write tests th
 
 Postman displays code snippets to the right of the script area. You can add these to try out common scripts and can adjust them to suit your needs and request / response detail.
 
-## Contents
+## 目录
 
 * [Getting started with tests](#getting-started-with-tests)
 * [Using multiple assertions](#using-multiple-assertions)

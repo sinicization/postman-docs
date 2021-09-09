@@ -109,7 +109,7 @@ You can turn this setting on and off using the toggle switch. When turned off, a
 
 [![system proxy](https://assets.postman.com/postman-docs/proxy_system.png)](https://assets.postman.com/postman-docs/proxy_system.png)
 
-**Note:** If the **Use System Proxy** and the **Global Proxy Configuration** are both turned on, then the **Global Proxy Configuration** will take precedence.
+**注意:** If the **Use System Proxy** and the **Global Proxy Configuration** are both turned on, then the **Global Proxy Configuration** will take precedence.
 
 ### Troubleshooting proxy configurations
 

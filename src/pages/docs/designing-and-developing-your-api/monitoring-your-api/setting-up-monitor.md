@@ -29,7 +29,7 @@ warning: false
 
 Postman Monitoring offers a number of configuration options when creating a monitor, allowing you to seamlessly integrate it into your team's API development workflow.
 
-## Contents
+## 目录
 
 * [Creating a monitor](#creating-a-monitor)
 
@@ -67,7 +67,7 @@ Postman Monitoring offers a number of configuration options when creating a moni
 
     * [Disabling SSL validation](#disabling-ssl-validation)
 
-* [下一步](#next-steps)
+* [下一步](#下一步)
 
 ## Creating a monitor
 

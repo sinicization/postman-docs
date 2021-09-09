@@ -15,7 +15,7 @@ contextual_links:
 
 You can set up your custom SAML application by using the available Postman app in Okta or by configuring it directly in Okta.
 
-## Contents
+## 目录
 
 * [Setting up a custom SAML application in Okta](#setting-up-a-custom-saml-application-in-okta)
 * [Setting up a custom SAML application in Okta by using the Postman app](#setting-up-a-custom-saml-application-in-okta-using-the-postman-app)
@@ -84,7 +84,7 @@ Move over to the **Sign On** tab, and click the **View Setup Instructions** butt
 
 The **View Setup Instructions** screen comes populated with values that you should copy and paste in the **Identity Provider Details** section.
 
-**Note:** You will need to come back to this screen to paste the value in _Default Relay State_ that you will generate from the Postman's **Identity Provide Details** section.
+**注意:** You will need to come back to this screen to paste the value in _Default Relay State_ that you will generate from the Postman's **Identity Provide Details** section.
 
 ### Okta - Step 10
 
@@ -147,7 +147,7 @@ Move over to the **Sign On** tab, and click the **View Setup Instructions** butt
 
 The **View Setup Instructions** screen comes populated with values that you should copy and paste in the **Identity Provider Details** section.
 
-**Note:** You will need to come back to this screen to paste the value in _Default Relay State_ that you will generate from the Postman's **Identity Provide Details** section.
+**注意:** You will need to come back to this screen to paste the value in _Default Relay State_ that you will generate from the Postman's **Identity Provide Details** section.
 
 ### Postman - Step 6
 

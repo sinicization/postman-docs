@@ -40,7 +40,7 @@ Once your certificate is added, it should appear in the Certificate Manager list
 
 ![](https://cloud.githubusercontent.com/assets/7689783/19721340/7a071024-9b8f-11e6-97d2-814aa3075c80.png)
 
-**NOTE:** You should not have multiple certificates set for the same domain. If you have multiple ones set, only the last one set will be used.
+**注意:** You should not have multiple certificates set for the same domain. If you have multiple ones set, only the last one set will be used.
 
 ### Using a Certificate
 

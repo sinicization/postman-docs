@@ -17,11 +17,11 @@ class NotFoundPage extends React.Component {
   render() {
     return (
       <Layout>
-        <SEO title="404: Not found" slug="/404/" />
+        <SEO title="404: 未找到" slug="/404/" />
         <div className="container">
           <div className="row error-row">
             <div className="col">
-              <img className="error-img" src={errordog} alt="a cute dog letting you know that you're on the 404 page" />
+              <img className="error-img" src={errordog} alt="一只可爱的狗让你知道你在404页面上" />
             </div>
             <div className="col text-col">
               <div className="error-text">

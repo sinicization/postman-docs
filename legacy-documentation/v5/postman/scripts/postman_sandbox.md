@@ -32,8 +32,8 @@ Note: jQuery support has been discontinued since version 4.6.0, in favor of [ch
 *   `postman.clearGlobalVariable(variableName)`: Clears the global variable named “variableName”.
 *   `postman.clearEnvironmentVariables()`: Clears all environment variables. You must have an environment selected for this method to work.
 *   `postman.clearGlobalVariables()`: Clears all global variables.
-*   `environment`: A dictionary of variables in the current environment. Use `environment["foo"]` to access the value of the “foo” environment variable. **Note:** This can only be used to read the variable. Use `setEnvironmentVariable()` to set a value.
-*   `globals`: A dictionary of global variables. Use `globals["bar"]` to access the value of the “bar” global variable. **Note:** This can only be used to read the variable. Use `setGlobalVariable()` to set a value
+*   `environment`: A dictionary of variables in the current environment. Use `environment["foo"]` to access the value of the “foo” environment variable. **注意:** This can only be used to read the variable. Use `setEnvironmentVariable()` to set a value.
+*   `globals`: A dictionary of global variables. Use `globals["bar"]` to access the value of the “bar” global variable. **注意:** This can only be used to read the variable. Use `setGlobalVariable()` to set a value
 
 ### Dynamic variables
 

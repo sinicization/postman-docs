@@ -22,7 +22,7 @@ Postman's static IP feature allows you to monitor your APIs that are behind a re
 
 The provided static IP addresses are fixed to their specified region and shared by all customers who utilize this feature.
 
-## Contents
+## 目录
 
 * [Whitelisting static IP addresses](#whitelisting-static-ip-addresses)
 
@@ -30,7 +30,7 @@ The provided static IP addresses are fixed to their specified region and shared 
 
 * [Changing an existing monitor to run from a static IP address](#changing-an-existing-monitor-to-run-from-a-static-ip-address)
 
-* [下一步](#next-steps)
+* [下一步](#下一步)
 
 ## Whitelisting static IP addresses
 

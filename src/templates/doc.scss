@@ -55,6 +55,9 @@ blockquote {
   @media (min-width:767px) and (max-width: 990px) {
     padding-left: 16px;
   }
+  .btn:not(:first-child) {
+    margin-left: 16px;
+  }
 }
 
 @media (max-width: 990px) {
@@ -108,7 +111,7 @@ code[class*="language-"] {
   // max-width: 600px;
 
   code[class*="language-"],
-  .token.comment, 
+  .token.comment,
   .token.string,
   .token.number,
   .token.boolean,

@@ -18,7 +18,7 @@ contextual_links:
 
 Postman provides a number of ways to manage your team.
 
-## Contents
+## 目录
 
 * [成员角色](#member-roles)
     * [管理角色](#managing-roles)
@@ -27,7 +27,7 @@ Postman provides a number of ways to manage your team.
     * [邀请加入团队工作区](#inviting-to-team-workspaces)
     * [取消邀请](#canceling-invitations)
 * [更改团队规模](#changing-team-size)
-* [下一步](#next-steps)
+* [下一步](#下一步)
 
 ## 成员角色
 

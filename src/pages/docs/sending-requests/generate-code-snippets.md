@@ -1,5 +1,5 @@
 ---
-title: "Generating client code"
+title: "生成客户端代码"
 order: 29.1
 page_id: "generate_code_snippets"
 contextual_links:
@@ -13,7 +13,7 @@ contextual_links:
   - type: subtitle
     name: "视频"
   - type: link
-    name: "Generating Code Snippets | Postman Level Up"
+    name: "生成代码片段 | Postman Level Up"
     url: "https://www.youtube.com/watch?v=yYwkvtSvpHI"
   - type: subtitle
     name: "案例研究"
@@ -43,13 +43,13 @@ warning: false
 
 You can generate code snippets in various languages and frameworks within Postman.
 
-## Contents
+## 目录
 
 * [Generating code snippets in Postman](#generating-code-snippets-in-postman)
 
 * [Supported languages/frameworks](#supported-languagesframeworks)
 
-* [下一步](#next-steps)
+* [下一步](#下一步)
 
 ## Generating code snippets in Postman
 

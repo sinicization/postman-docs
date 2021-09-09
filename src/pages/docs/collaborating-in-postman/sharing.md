@@ -36,11 +36,11 @@ You can share Postman entities you are working on with collaborators, including 
 >
 > To share by file, see [Importing and exporting data](/docs/getting-started/importing-and-exporting-data/)
 
-## Contents
+## 目录
 
 * [Sharing to workspaces](#sharing-to-workspaces)
 * [Sharing by link](#sharing-by-link)
-* [下一步](#next-steps)
+* [下一步](#下一步)
 
 > To share your work via workspaces you will need to be signed in to your [Postman account](/docs/getting-started/postman-account/).
 

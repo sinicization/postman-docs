@@ -14,10 +14,10 @@ contextual_links:
   - type: subtitle
     name: "视频"
   - type: link
-    name: "Sending a request"
+    name: "发送一个请求"
     url: "https://www.youtube.com/watch?v=7E60ZttwIpY"
   - type: link
-    name: "How to use an API"
+    name: "如何使用 API"
     url:  "https://www.youtube.com/watch?v=jCadnlO9xSQ&list=PLM-7VG-sgbtBBnWb2Jc5kufgtWYEmiMAw"
   - type: link
     name: "Upload a File via POST Request | Postman Level Up"
@@ -62,7 +62,7 @@ When you send a request, Postman will display the response received from the API
 
 If you have never sent a request before, check out [sending your first request](/docs/getting-started/sending-the-first-request/) before you continue.
 
-## Contents
+## 目录
 
 * [Creating requests](#creating-requests)
 * [Adding request detail](#adding-request-detail)
@@ -77,7 +77,7 @@ If you have never sent a request before, check out [sending your first request](
 * [Choosing custom settings](#choosing-custom-settings)
     * [Encoding your request URLs](#encoding-your-request-urls)
 * [Troubleshooting your requests](#troubleshooting-your-requests)
-* [下一步](#next-steps)
+* [下一步](#下一步)
 
 ## Creating requests
 

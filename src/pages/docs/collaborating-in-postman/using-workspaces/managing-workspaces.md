@@ -29,7 +29,7 @@ You can share your Postman components with collaborators and organize your work 
 
 You can [create workspaces](/docs/collaborating-in-postman/using-workspaces/creating-workspaces/) in addition to the default personal and team workspaces.
 
-## Contents
+## 目录
 
 * [Accessing workspaces](#accessing-workspaces)
 * [Sharing workspaces](#sharing-workspaces)
@@ -39,7 +39,7 @@ You can [create workspaces](/docs/collaborating-in-postman/using-workspaces/crea
 * [Deleting a workspace](#deleting-a-workspace)
 * [Managing workspace members](#managing-workspace-members)
 * [Seeing who is in your workspace](#seeing-who-is-in-your-workspace)
-* [下一步](#next-steps)
+* [下一步](#下一步)
 
 ## Accessing workspaces
 

@@ -45,7 +45,7 @@ Postman provides a programmable way to visually represent your request [response
 
 Visualizers let you present your response data in ways that help to make sense of it. You can use visualizers to model and highlight the information that's relevant to your project, instead of having to read through raw response data. When you [share a Postman collection](/docs/collaborating-in-postman/sharing/), other people on your team can also see your visualizations within the context of each request.
 
-## Contents
+## 目录
 
 * [Visualizing response data](#visualizing-response-data)
     * [Adding visualizer code](#adding-visualizer-code)
@@ -57,7 +57,7 @@ Visualizers let you present your response data in ways that help to make sense o
 * [Try it out](#try-it-out)
 * [Visualizer API](#visualizer-api)
 * [Debugging visualizers](#debugging-visualizers)
-* [下一步](#next-steps)
+* [下一步](#下一步)
 
 ## Visualizing response data
 

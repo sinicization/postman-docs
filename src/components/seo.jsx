@@ -49,7 +49,7 @@ function SEO({
         },
         {
           property: 'og:site_name',
-          content: 'Postman Learning Center',
+          content: 'Postman学习中心',
         },
         {
           property: 'og:image',
@@ -86,9 +86,9 @@ function SEO({
       ].concat(meta)}
     >
       {/* OneTrust */}
-      <script type="text/javascript" src="https://cdn.cookielaw.org/consent/1cef3369-6d07-4928-b977-2d877eb670c4/OtAutoBlock.js" />
+      {/* <script type="text/javascript" src="https://cdn.cookielaw.org/consent/1cef3369-6d07-4928-b977-2d877eb670c4/OtAutoBlock.js" /> */}
 
-      <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="1cef3369-6d07-4928-b977-2d877eb670c4" />
+      {/* <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="1cef3369-6d07-4928-b977-2d877eb670c4" />* /}
       {/* fonts */}
       <link rel="dns-prefetch" href="https://fonts.gstatic.com" />
       <link rel="dns-prefetch" href="https://fonts.googleapis.com" />

@@ -2,21 +2,21 @@
 
 # Postman学习中心
 
-Postman is the collaboration platform for API development. And the [Postman Learning Center](https://learning.postman.com/) has the resources you need to ramp up quickly and extend your skills with Postman. Postman allows you to write API test cases in any format of your choice (JSON/XML/many more) and run them to verify and validate your API. Moreover, Postman provides [collections](https://learning.postman.com/docs/getting-started/creating-the-first-collection/) which can improve a developer's workflow. Postman is available for several platforms including Windows and macOS. For more information visit [the Postman website](https://www.postman.com/).
+Postman是API开发的协作平台. [Postman学习中心](https://learning.postman.com/) 拥有您需要的资源,可帮助您快速提升Postman技能并扩展您的技能. Postman允许您以您选择的任何格式(JSON/XML/更多)编写API测试用例并运行它们以验证和验证您的API. 此外,Postman提供了可以改善开发人员工作流程的[集合](https://learning.postman.com/docs/getting-started/creating-the-first-collection/) . Postman适用于多种平台,包括Windows和macOS. 有关更多信息,请访问 [Postman网站](https://www.postman.com/).
 
-## Contribution guidelines
+## 贡献指南
 
-We would love for you to contribute to the Learning Center! To contribute to this project, please read:
+我们希望您为学习中心做出贡献! 要为此项目做出贡献,请阅读:
 
-* The [Code of Conduct](https://www.postman.com/code-of-conduct)
-* The [Contribution Guidelines](CONTRIBUTING.md)
-* The [Documentation Style Guide](DOCS_STYLE_GUIDE.md)
+* [行为准则](https://www.postman.com/code-of-conduct)
+* [贡献指南](CONTRIBUTING.md)
+* [文档风格指南](DOCS_STYLE_GUIDE.md)
 
-**NOTE:** We have added a new Markdown linter with GitHub Actions. When making a pull request, it will run against this linter. Your changed files are required to pass linting before they will be merged. More information on this can be found in the [contribution guidelines](CONTRIBUTING.md).
+**注意:** 我们在GitHub Actions中添加了一个新的Markdown linter. 发出拉取请求时,它将针对此linter运行. 您更改的文件在合并之前需要通过linting. 更多信息可以在 [贡献指南](CONTRIBUTING.md) 中找到.
 
-> To say thank you for your contribution, we’d love to send you exclusive Contributor swag. Fill out the [Contributor Submission form](https://docs.google.com/forms/d/e/1FAIpQLSfbLAcxl-IOiv3NmgEaWw7FleOaXnIyIoIrY_zn6U4JvjQBGA/viewform?usp=send_form) and we’ll send you a token of our gratitude.
+> 为了感谢您的贡献,我们很乐意向您发送独家贡献者swag. 填写 [贡献者提交表](https://docs.google.com/forms/d/e/1FAIpQLSfbLAcxl-IOiv3NmgEaWw7FleOaXnIyIoIrY_zn6U4JvjQBGA/viewform?usp=send_form) ,我们将向您发送感谢信.
 
-## Build the Learning Center locally
+## 在本地构建学习中心
 
 ```
 
@@ -28,17 +28,17 @@ We would love for you to contribute to the Learning Center! To contribute to thi
 
 ```
 
-**NOTE:** this site was built with node v12.11.0. We recommend installing and using [nvm](https://github.com/nvm-sh/nvm) and setting your node version to v12.11.0.
+**注意:** 该站点是使用node v12.11.0构建的. 我们建议安装和使用 [nvm](https://github.com/nvm-sh/nvm) 并将您的node版本设置为v12.11.0.
 
-### Build using Docker
+### 使用Docker构建
 
-You can build the Learning Center and run it in a Docker container using the following dockerfile.
+您可以使用以下dockerfile构建学习中心并在Docker容器中运行它.
 
-1. Start by cloning the the repository
+1. 首先克隆存储库
 
    `git clone https://github.com/postmanlabs/postman-docs.git`
 
-2. Create a file and name it "dockerfile" with the following contents:
+2. 创建一个文件并将其命名为"dockerfile",内容如下:
 
     ```
 
@@ -46,7 +46,7 @@ You can build the Learning Center and run it in a Docker container using the fol
 
     EXPOSE 8000
 
-    # copy the postman-docs project directory
+    # 复制 postman-docs 项目目录
     COPY postman-docs /var/postman-docs
 
     WORKDIR "/var/postman-docs"
@@ -58,28 +58,28 @@ You can build the Learning Center and run it in a Docker container using the fol
 
     ```
 
-    The dockerfile should be in the same directory as the postman-docs directory
+   dockerfile 应该与 postman-docs 目录在同一目录中
 
     ```
 
-    # example directory structure
-    |--[current folder]
+    # 示例目录结构
+    |--[当前文件夹]
        |--postman-docs
        |--dockerfile
 
     ```
 
-3. Build the Docker image with this command:
+3. 使用此命令构建Docker镜像:
 
    `$ docker build --tag postman-docs:1.0 .`
 
-4. Start a container using the image
+4. 使用一个镜像启动容器
 
    `$ docker run -p 8000:8000 -d postman-docs:1.0`
 
-#### Docker Compose
+#### Docker编写
 
-You can also build with the `docker-compose` command using the dockerfile above and this docker-compose.yaml
+您还可以使用上面的 dockerfile 和这个 docker-compose.yaml 使用 `docker-compose` 命令进行构建
 
 ```
 
@@ -93,33 +93,33 @@ services:
 
 ```
 
-The docker-compose.yaml should be in the same directory as the postman-docs directory and dockerfile.
+docker-compose.yaml 应与 postman-docs 目录和 dockerfile 位于同一目录中.
 
 ```
 
-# example directory structure
-|--[current folder]
+# 示例目录结构
+|--[当前文件夹]
    |--postman-docs
    |--dockerfile
    |--docker-compose.yaml
 
 ```
 
-Start run the container with this command
+使用此命令开始运行容器
 
 `$ docker-compose up`
 
-## Project Structure
+## 项目结构
 
-The built site will only host the most up-to-date docs. All legacy documentation is stored in GitHub and excluded from build.
+构建的站点将只托管最新的文档. 所有遗留文档都存储在GitHub中并从构建中排除.
 
-### To update the docs
+### 更新文档
 
-* Posts are maintained under the `/src/pages/docs` folder.
+* 文章维护在`/src/pages/docs`文件夹下.
 
-* The folder structure of /docs is the URL structure for posts. For example, `/docs/postman/variables-and-environments/variables.md` is mapped to the URL `https://learning.postman.com/docs/postman/variables-and-environments/variables/`.
+* /docs 的文件夹结构是文章的 URL 结构. 例如, `/docs/postman/variables-and-environments/variables.md` 映射到URL `https://learning.postman.com/docs/postman/variables-and-environments/variables/`.
 
-* Links in the docs should be relative. Example:
+* 文档中的链接应该是相对的. 示例:
 
 ```
 
@@ -127,13 +127,13 @@ The built site will only host the most up-to-date docs. All legacy documentation
 
 ```
 
-## Resources
+## 资源
 
-* [Download Postman](https://www.postman.com/downloads/)
-* [Postman Release Notes](https://www.postman.com/downloads/release-notes)
-* [Postman Integrations](https://www.postman.com/integrations/)
-* [The Postman API](https://docs.api.getpostman.com/)
-* [Postman community](https://community.postman.com/) on Discourse
+* [下载Postman](https://www.postman.com/downloads/)
+* [Postman发行说明](https://www.postman.com/downloads/release-notes)
+* [Postman集成](https://www.postman.com/integrations/)
+* [Postman API](https://docs.api.getpostman.com/)
+* [Postman社区](https://community.postman.com/) 在Discourse上
 
 ## License
 

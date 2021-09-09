@@ -21,7 +21,7 @@ contextual_links:
 
 Postman provides a self-serve billing process. Refer to the following sections for guidance on managing your account, plan, and payment.
 
-## Contents
+## 目录
 
 * [Billing dashboard](#billing-dashboard)
 
@@ -59,7 +59,7 @@ Postman provides a self-serve billing process. Refer to the following sections f
 
         * [Billing for auto-flex](#billing-for-auto-flex)
 
-* [下一步](#next-steps)
+* [下一步](#下一步)
 
 ## Billing dashboard
 

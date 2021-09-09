@@ -35,7 +35,7 @@ warning: false
 
 Let's deep dive into how [mock servers](/docs/designing-and-developing-your-api/mocking-data/setting-up-mock/) and [examples](/docs/sending-requests/examples/) work together, and how you can integrate them into your workflow for an enhanced API experience with Postman.
 
-1. Sending a request (R1)
+1. 发送一个请求 (R1)
 2. Saving the request (R1) to a collection (C1)
 3. Saving the request R1's response as an example (P1)
 4. Creating a mock (M1) for the collection (C1)
@@ -50,7 +50,7 @@ Before you get into the details of mocking, let’s start with setting up some b
 
 From Postman, send a `GET` request to the URL `https://postman-echo.com/get?test=123`. This request hits the [Postman Echo](https://docs.postman-echo.com/#078883ea-ac9e-842e-8f41-784b59a33722) service which you can use to test out your REST clients and make sample API calls.
 
-The resulting response can be seen on the right, and a record of this request will now be visible in your [history](/docs/getting-started/navigating-postman/#history) on the left.
+The resulting response can be seen on the right, and a record of this request will now be visible in your [history](/docs/getting-started/navigating-postman/#历史) on the left.
 
 [![sending request](https://assets.postman.com/postman-docs/WS-anuhyaMock1.png)](https://assets.postman.com/postman-docs/WS-anuhyaMock1.png)
 
@@ -189,7 +189,7 @@ As you can see Example1 and Example2 are passing 1 and 5 respectively. When you 
 
 [![query param3](https://assets.postman.com/postman-docs/query_param.gif)](https://assets.postman.com/postman-docs/query_param.gif)
 
-**Note:** If there is no exact match found, Postman will return the best matching response based on its algorithm.
+**注意:** If there is no exact match found, Postman will return the best matching response based on its algorithm.
 
 Learn more about the [matching algorithm](/docs/designing-and-developing-your-api/mocking-data/matching-algorithm/) for mocks.
 

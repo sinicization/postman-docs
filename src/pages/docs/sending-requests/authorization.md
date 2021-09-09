@@ -7,10 +7,10 @@ contextual_links:
   - type: section
     name: "先决条件"
   - type: link
-    name: "Sending your first request"
+    name: "发送您的第一个请求"
     url: "/docs/getting-started/sending-the-first-request/"
   - type: link
-    name: "Requests"
+    name: "请求"
     url: "/docs/sending-requests/requests/"
   - type: section
     name: "其他资源"
@@ -55,7 +55,7 @@ APIs use authorization to ensure that client requests access data securely. This
 
 You can pass auth details along with any request you send in Postman. Auth data can be included in the header, body, or as parameters to a request. If you enter your auth details in the __Authorization__ tab, Postman will automatically populate the relevant parts of the request for your chosen auth type. You can use variables and collections to define authorization details more safely and efficiently, letting you reuse the same information in multiple places.
 
-## Contents
+## 目录
 
 * [Specifying authorization details](#specifying-authorization-details)
     * [Inheriting auth](#inheriting-auth)
@@ -79,7 +79,7 @@ You can pass auth details along with any request you send in Postman. Auth data 
     * [NTLM authentication](#ntlm-authentication)
     * [Akamai EdgeGrid](#akamai-edgegrid)
 * [Syncing cookies](#syncing-cookies)
-* [下一步](#next-steps)
+* [下一步](#下一步)
 
 ## Specifying authorization details
 

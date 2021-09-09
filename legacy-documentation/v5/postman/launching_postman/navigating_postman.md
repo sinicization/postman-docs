@@ -1,13 +1,13 @@
 ---
-title: "Navigating Postman"
+title: "Postman导航"
 page_id: "navigating_postman"
 warning: false
 
 ---
 
-Postman provides a multi-window and multi-tab interface for you to work on APIs. 
+Postman 为您提供多窗口和多标签页的界面来处理 API. 
 
-This interface design gives you as much space as possible for your APIs. 
+这种界面设计为您的 API 提供了尽可能多的空间. 
 
 [![general layout](https://assets.postman.com/postman-docs/59046674.jpg)](https://assets.postman.com/postman-docs/59046674.jpg)
 

@@ -1,17 +1,17 @@
 ---
-title: "Code generator library"
+title: "代码生成库"
 order: 149.1
 page_id: "code-generators"
 contextual_links:
   - type: section
     name: "先决条件"
   - type: link
-    name: "Generating client code"
+    name: "生成客户端代码"
     url: "/docs/sending-requests/generate-code-snippets/"
   - type: section
     name: "下一步"
   - type: link
-    name: "Capturing request data"
+    name: "捕获请求数据"
     url: "/docs/sending-requests/capturing-request-data/capturing-http-requests/"
 
 warning: false
@@ -74,7 +74,7 @@ var codegen = require('postman-code-generators'),
   console.log(supportedCodegens);
 ```
 
-## Supported languages
+## 支持的语言
 
 Since the code generator module is an open source project, if there is a language or framework you would like to be able to generate client code for, but that isn't currently provided, you can add it yourself by [contributing to the project](https://github.com/postmanlabs/postman-code-generators/blob/master/CONTRIBUTING.md). This allows people to access your contribution not only by using the code utility, but also in the Postman app itself.
 

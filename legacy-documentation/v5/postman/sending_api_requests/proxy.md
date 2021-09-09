@@ -86,4 +86,4 @@ You can turn this setting on and off using the toggle switch. When turned off, a
 
 [![system proxy](https://assets.postman.com/postman-docs/proxy_system.png)](https://assets.postman.com/postman-docs/proxy_system.png)
 
-**NOTE:** If the **System Proxy** and the **Custom Proxy** are both turned on, then the **Custom Proxy** will take precedence.
+**注意:** If the **System Proxy** and the **Custom Proxy** are both turned on, then the **Custom Proxy** will take precedence.

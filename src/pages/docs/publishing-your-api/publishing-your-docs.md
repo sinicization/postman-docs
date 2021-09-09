@@ -39,14 +39,14 @@ Your documentation will include the **Run in Postman** button so users can inter
 
 > You can publish documentation for collections that you created or have permission to edit.
 
-## Contents
+## 目录
 
 * [Making your documentation public](#making-your-documentation-public)
     * [Configuring your public docs](#configuring-your-public-docs)
     * [Customizing your docs](#customizing-your-docs)
 * [Sharing your public docs](#sharing-your-public-docs)
 * [Publishing and unpublishing](#publishing-and-unpublishing)
-* [下一步](#next-steps)
+* [下一步](#下一步)
 
 ## Making your documentation public
 

@@ -20,7 +20,7 @@ With Postman groups, you can organize your team members into functional groups t
 
 You must be a [Postman team admin](/docs/collaborating-in-postman/roles-and-permissions/#team-roles) to create, manage, and delete groups.
 
-## Contents
+## 目录
 
 * [Creating a group](#creating-a-group)
 
@@ -38,7 +38,7 @@ You must be a [Postman team admin](/docs/collaborating-in-postman/roles-and-perm
 
 * [Deleting a group](#deleting-a-group)
 
-* [下一步](#next-steps)
+* [下一步](#下一步)
 
 ## Creating a group
 
